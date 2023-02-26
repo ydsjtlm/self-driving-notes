@@ -24,3 +24,8 @@
 
 # 检测跟踪一体化
 * [Exploring Simple 3D Multi-Object Tracking for Autonomous Driving](https://github.com/qcraftai/simtrack)
+
+
+# End-to-End
+* [POLICY PRE-TRAINING FOR AUTONOMOUS DRIVING VIA SELF-SUPERVISED GEOMETRIC MODELING](https://arxiv.org/pdf/2301.01006.pdf)
+* [World Models](https://arxiv.org/abs/1803.10122)
