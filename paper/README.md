@@ -11,6 +11,9 @@
 
 # Occupancy
 * [Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2302.07817.pdf) [[Code]](https://github.com/wzzheng/TPVFormer)
+* [MonoScene Monocular 3D Semantic Scene Completion](https://arxiv.org/abs/2112.00726)
+* [OccDepth: A Depth-aware Method for 3D Semantic Occupancy Network](https://arxiv.org/abs/2302.13540)
+* [VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion](https://arxiv.org/abs/2302.12251)
 * [OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception](https://github.com/JeffWang987/OpenOccupancy)
 
 
