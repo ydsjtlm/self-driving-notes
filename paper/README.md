@@ -20,7 +20,7 @@
 * [OccDepth: A Depth-aware Method for 3D Semantic Occupancy Network](https://arxiv.org/abs/2302.13540)
 * [VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion](https://arxiv.org/abs/2302.12251)
 * [OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception](https://github.com/JeffWang987/OpenOccupancy)
-
+* [A Simple Attempt for 3D Occupancy Estimation in Autonomous Driving](https://github.com/GANWANSHUI/SimpleOccupancy)
 
 # 矢量化
 * [PolyFormer Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387)
@@ -38,7 +38,7 @@
 * [POLICY PRE-TRAINING FOR AUTONOMOUS DRIVING VIA SELF-SUPERVISED GEOMETRIC MODELING](https://arxiv.org/pdf/2301.01006.pdf)
 * [World Models](https://arxiv.org/abs/1803.10122)
 * [SafetyNet: Safe planning for real-world self-driving vehicles using machine-learned policies](https://arxiv.org/pdf/2109.13602.pdf)
-
+* [Goal-oriented Autonomous Driving](https://github.com/OpenDriveLab/UniAD)
 
 # Prediction
 * [Motion Transformer with Global Intention Localization and Local Movement Refinement](https://arxiv.org/pdf/2209.13508.pdf)
