@@ -32,6 +32,8 @@
 
 # 检测跟踪一体化
 * [Exploring Simple 3D Multi-Object Tracking for Autonomous Driving](https://github.com/qcraftai/simtrack)
+* [MOTR: End-to-End Multiple-Object Tracking with TRansformer](https://github.com/megvii-research/MOTR)
+* [MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries](https://tsinghua-mars-lab.github.io/mutr3d/)
 
 
 # End-to-End
