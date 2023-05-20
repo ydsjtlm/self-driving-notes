@@ -26,7 +26,7 @@
 * [PolyFormer Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387)
 
 
-# 多模态融合
+# 多传感器融合
 * [Transformers-Sensor-Fusion](https://github.com/ApoorvRoboticist/Transformers-Sensor-Fusion)
 
 
