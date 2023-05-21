@@ -8,3 +8,4 @@
 * [☆][Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
 * [☆][Segment and Track Anything](https://arxiv.org/pdf/2305.06558.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630987885)
 * [☆][Track Anything: Segment Anything Meets Videos](https://arxiv.org/pdf/2304.11968.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630987885)
+* [☆][CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/631046116)
