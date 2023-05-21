@@ -6,4 +6,5 @@
 # Vision-Language Model(Multimodal)
 * [☆][MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/pdf/2304.10592.pdf)
 * [☆][Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
-* [][Segment and Track Anything](https://arxiv.org/pdf/2305.06558.pdf) 
+* [☆][Segment and Track Anything](https://arxiv.org/pdf/2305.06558.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630987885)
+* [☆][Track Anything: Segment Anything Meets Videos](https://arxiv.org/pdf/2304.11968.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630987885)
