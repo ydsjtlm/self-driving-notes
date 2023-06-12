@@ -21,6 +21,10 @@
 * [VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion](https://arxiv.org/abs/2302.12251)
 * [OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception](https://github.com/JeffWang987/OpenOccupancy)
 * [A Simple Attempt for 3D Occupancy Estimation in Autonomous Driving](https://github.com/GANWANSHUI/SimpleOccupancy)
+* [Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction](https://arxiv.org/pdf/2305.18829.pdf)
+* [Learning Occupancy for Monocular 3D Object Detection](https://arxiv.org/pdf/2305.15694.pdf)
+
+
 
 # 矢量化
 * [PolyFormer Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387)
@@ -44,3 +48,8 @@
 
 # Prediction
 * [Motion Transformer with Global Intention Localization and Local Movement Refinement](https://arxiv.org/pdf/2209.13508.pdf)
+
+
+# Calibration
+* [Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration
+Method Using Segment Anything](https://arxiv.org/pdf/2306.02656.pdf)
