@@ -51,5 +51,5 @@
 
 
 # Calibration
-* [Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration
+* [☆] [Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration
 Method Using Segment Anything](https://arxiv.org/pdf/2306.02656.pdf)
