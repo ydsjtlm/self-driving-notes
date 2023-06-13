@@ -57,6 +57,5 @@
 * [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
 * [A Survey on Long Text Modeling with Transformers](https://arxiv.org/pdf/2302.14502.pdf)
 * [A Comprehensive Survey on Pretrained Foundation Models A History from BERT to ChatGPT](https://arxiv.org/pdf/2302.09419.pdf)
-* [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/pdf/2301.04655.pdf)
 * [Large Language Models Can Self-Improve](https://arxiv.org/pdf/2210.11610.pdf)
 
