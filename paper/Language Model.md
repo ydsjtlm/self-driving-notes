@@ -3,7 +3,6 @@
 * [☆][Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/634627008)
 
 # Multimodal (Vision/Language/Audio)
-* [☆][MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/pdf/2304.10592.pdf)
 * [☆][Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
 * [☆][Segment and Track Anything](https://arxiv.org/pdf/2305.06558.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630987885)
 * [☆][Track Anything: Segment Anything Meets Videos](https://arxiv.org/pdf/2304.11968.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630987885)
@@ -14,25 +13,50 @@
 * [☆] [KOSMOS: Language is not all you Need Aligning Perception with Language Models](https://arxiv.org/pdf/2302.14045.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/631396292)
 * [☆] [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636584622)
 * [☆] [Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models](https://arxiv.org/pdf/2306.05424.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636584622)
+* [☆] [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/pdf/2306.02858.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)  
+* [☆] [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/pdf/2304.10592.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)  
+* [☆] [BLIP2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)  
 
 * [CLIP分割：Language-driven Semantic Segmentation](https://arxiv.org/pdf/2201.03546.pdf)
 * [CLIP分割：GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/pdf/2202.11094.pdf)
 * [CLIP检测：Open-vocabulary Object Detection via Vision and Language Knowledge Distillation](https://arxiv.org/pdf/2104.13921.pdf)
 * [CLIP检测：Grounded Language-Image Pre-training](https://arxiv.org/pdf/2112.03857.pdf)
 * [CLIPasso Semantically-Aware Object Sketching](https://arxiv.org/pdf/2202.05822.pdf)
-* [CLIPasso Semantically-Aware Object Sketching](https://arxiv.org/pdf/2202.05822.pdf)
 * [Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/pdf/2305.18279.pdf) [[Code]](https://github.com/yuhangzang/ContextDET)
-* [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/pdf/2306.02858.pdf)
 
-
-
-
-
-
-
-
-
-
-
-
+* [QLoRA Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
+* [VisionLLM Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks](https://arxiv.org/pdf/2305.11175.pdf)
+* [InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/pdf/2305.05662.pdf)
+* [LIMA Less Is More for Alignment](https://arxiv.org/pdf/2305.11206.pdf)
+* [FrugalGPT How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/pdf/2305.05176.pdf)
+* [SELF-INSTRUCT Aligning Language Models with Self-Generated Instructions](https://arxiv.org/pdf/2212.10560.pdf)
+* [Toolformer Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761.pdf)
+* [Tree of Thoughts Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601.pdf)
+* [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
+* [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)
+* [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
+* [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+* [InstructGPT: Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
+* [Whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/pdf/2212.04356.pdf)
+* [LaMDA Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf)
+* [LLaMA Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)
+* [BLIP Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf)
+* [PaLM-E An Embodied Multimodal Language Model](https://arxiv.org/pdf/2303.03378.pdf)
+* [beitv3: Image as a Foreign Language BEiT Pretraining for All Vision and Vision-Language Tasks](https://arxiv.org/pdf/2208.10442.pdf)
+* [CoCa Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/pdf/2205.01917.pdf)
+* [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593.pdf)
+* [Anthropic LLM: Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2204.05862.pdf)
+* [GPTs are GPTs An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/pdf/2303.10130.pdf)
+* [sparks of artificial general intelligence](https://arxiv.org/pdf/2303.12712.pdf)
+* [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223.pdf)
+* [HuggingGPT Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/pdf/2303.17580.pdf)
+* [dalle2: Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)
+* [DALL-E: Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf)
+* [Transformer models: an introduction and catalog](https://arxiv.org/pdf/2302.07730.pdf)
+* [Language Models are Unsupervised Multitask Learners](https://life-extension.github.io/2020/05/27/GPT%E6%8A%80%E6%9C%AF%E5%88%9D%E6%8E%A2/language-models.pdf)
+* [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
+* [A Survey on Long Text Modeling with Transformers](https://arxiv.org/pdf/2302.14502.pdf)
+* [A Comprehensive Survey on Pretrained Foundation Models A History from BERT to ChatGPT](https://arxiv.org/pdf/2302.09419.pdf)
+* [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/pdf/2301.04655.pdf)
+* [Large Language Models Can Self-Improve](https://arxiv.org/pdf/2210.11610.pdf)
 
