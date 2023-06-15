@@ -41,7 +41,7 @@
 * [LaMDA Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf)
 * [LLaMA Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)
 * [BLIP Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf)
-* [PaLM-E An Embodied Multimodal Language Model](https://arxiv.org/pdf/2303.03378.pdf)
+* [PaLM-E An Embodied Multimodal Language Model](https://arxiv.org/pdf/2303.03378.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637430937)
 * [beitv3: Image as a Foreign Language BEiT Pretraining for All Vision and Vision-Language Tasks](https://arxiv.org/pdf/2208.10442.pdf)
 * [CoCa Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/pdf/2205.01917.pdf)
 * [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593.pdf)
