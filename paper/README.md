@@ -24,7 +24,7 @@
 * [Occ-BEV: Multi-Camera Unified Pre-training via 3D Scene Reconstruction](https://arxiv.org/pdf/2305.18829.pdf)
 * [Learning Occupancy for Monocular 3D Object Detection](https://arxiv.org/pdf/2305.15694.pdf)
 * [Scene as Occupancy](https://arxiv.org/pdf/2306.02851.pdf) [[Code]](https://github.com/OpenDriveLab/OccNet)
-
+* [UniOcc: Unifying Vision-Centric 3D Occupancy Prediction with Geometric and Semantic Rendering](https://arxiv.org/pdf/2306.09117.pdf)
 
 # 矢量化
 * [PolyFormer Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387)

@@ -58,4 +58,4 @@
 * [A Survey on Long Text Modeling with Transformers](https://arxiv.org/pdf/2302.14502.pdf)
 * [A Comprehensive Survey on Pretrained Foundation Models A History from BERT to ChatGPT](https://arxiv.org/pdf/2302.09419.pdf)
 * [Large Language Models Can Self-Improve](https://arxiv.org/pdf/2210.11610.pdf)
-
+* [AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn](https://arxiv.org/pdf/2306.08640.pdf)
