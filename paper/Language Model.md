@@ -1,6 +1,10 @@
 # ChatGPT
 * [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655)
 * [☆][Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/634627008)
+* [ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637849428)
+* [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637849428)
+* [End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637849428)
+
 
 # Multimodal (Vision/Language/Audio)
 * [☆][Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
@@ -16,6 +20,7 @@
 * [☆] [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/pdf/2306.02858.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)  
 * [☆] [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/pdf/2304.10592.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)  
 * [☆] [BLIP2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)  
+* [☆] [PaLM-E An Embodied Multimodal Language Model](https://arxiv.org/pdf/2303.03378.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637430937)
 
 * [CLIP分割：Language-driven Semantic Segmentation](https://arxiv.org/pdf/2201.03546.pdf)
 * [CLIP分割：GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/pdf/2202.11094.pdf)
@@ -25,6 +30,7 @@
 * [Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/pdf/2305.18279.pdf) [[Code]](https://github.com/yuhangzang/ContextDET)
 
 * [QLoRA Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
+* [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
 * [VisionLLM Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks](https://arxiv.org/pdf/2305.11175.pdf)
 * [InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/pdf/2305.05662.pdf)
 * [LIMA Less Is More for Alignment](https://arxiv.org/pdf/2305.11206.pdf)
@@ -41,7 +47,7 @@
 * [LaMDA Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf)
 * [LLaMA Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)
 * [BLIP Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf)
-* [PaLM-E An Embodied Multimodal Language Model](https://arxiv.org/pdf/2303.03378.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637430937)
+
 * [beitv3: Image as a Foreign Language BEiT Pretraining for All Vision and Vision-Language Tasks](https://arxiv.org/pdf/2208.10442.pdf)
 * [CoCa Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/pdf/2205.01917.pdf)
 * [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593.pdf)

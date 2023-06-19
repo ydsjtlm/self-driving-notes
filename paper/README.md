@@ -2,6 +2,7 @@
 * [Fast-BEV: A Fast and Strong Bird's-Eye View Perception Baseline](https://arxiv.org/abs/2301.12511) [[Code]](https://github.com/Sense-GVT/Fast-BEV) [[资料]](https://mp.weixin.qq.com/s/Dv8UVrRN2TrOTQCqVtDSJg)
 * [MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception](https://arxiv.org/abs/2211.10593)
 * [BEV-IO: Enhancing Bird’s-Eye-View 3D Detection with Instance Occupancy](https://arxiv.org/pdf/2305.16829.pdf)
+* [PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images](https://arxiv.org/pdf/2206.01256.pdf)
 
 # BEV分割
 * [Learning and Aggregating Lane Graphs for Urban Automated Driving](https://arxiv.org/abs/2302.06175) 
@@ -12,7 +13,11 @@
 * [(2022) Topology Preserving Local Road Network Estimation from Single Onboard Camera Image](https://openaccess.thecvf.com/content/CVPR2022/papers/Can_Topology_Preserving_Local_Road_Network_Estimation_From_Single_Onboard_Camera_CVPR_2022_paper.pdf)
 * [(2022) Lane-Level Street Map Extraction from Aerial Imagery](https://openaccess.thecvf.com/content/WACV2022/papers/He_Lane-Level_Street_Map_Extraction_From_Aerial_Imagery_WACV_2022_paper.pdf)
 * [(2023) Lane Graph as Path: Continuity-preserving Path-wise Modeling for Online Lane Graph Construction](https://github.com/hustvl/LaneGAP)
-* HDmapNet VectorNetMap MapTR
+* [MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction](https://arxiv.org/pdf/2208.14437.pdf) [[Code]](https://github.com/hustvl/MapTR) [[笔记]](https://)
+* [Neural Map Prior for Autonomous Driving](https://arxiv.org/pdf/2304.08481.pdf)
+* [VMA: Divide-and-Conquer Vectorized Map Annotation System for Large-Scale Driving Scene](https://arxiv.org/pdf/2304.09807.pdf)
+* [End-to-End Vectorized HD-map Construction with Piecewise Bezier Curve](https://openaccess.thecvf.com/content/CVPR2023/papers/Qiao_End-to-End_Vectorized_HD-Map_Construction_With_Piecewise_Bezier_Curve_CVPR_2023_paper.pdf)
+* HDmapNet VectorNetMap
 
 # Occupancy
 * [Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2302.07817.pdf) [[Code]](https://github.com/wzzheng/TPVFormer)
