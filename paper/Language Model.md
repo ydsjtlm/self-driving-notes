@@ -1,10 +1,20 @@
-# ChatGPT
+# LLM
 * [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655)
+* [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)
 * [☆][Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/634627008)
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+* [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
+* [Language Models are Unsupervised Multitask Learners](https://life-extension.github.io/2020/05/27/GPT%E6%8A%80%E6%9C%AF%E5%88%9D%E6%8E%A2/language-models.pdf)
+* [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+* [InstructGPT: Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
+* [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension]()
+* [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)
+* [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
+
+
 * [ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637849428)
 * [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637849428)
 * [End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637849428)
-
 
 # Multimodal (Vision/Language/Audio)
 * [☆][Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
@@ -39,15 +49,11 @@
 * [Toolformer Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761.pdf)
 * [Tree of Thoughts Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601.pdf)
 * [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
-* [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)
-* [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
-* [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
-* [InstructGPT: Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
+
 * [Whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/pdf/2212.04356.pdf)
 * [LaMDA Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf)
 * [LLaMA Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)
 * [BLIP Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf)
-
 * [beitv3: Image as a Foreign Language BEiT Pretraining for All Vision and Vision-Language Tasks](https://arxiv.org/pdf/2208.10442.pdf)
 * [CoCa Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/pdf/2205.01917.pdf)
 * [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593.pdf)
@@ -59,9 +65,8 @@
 * [dalle2: Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)
 * [DALL-E: Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf)
 * [Transformer models: an introduction and catalog](https://arxiv.org/pdf/2302.07730.pdf)
-* [Language Models are Unsupervised Multitask Learners](https://life-extension.github.io/2020/05/27/GPT%E6%8A%80%E6%9C%AF%E5%88%9D%E6%8E%A2/language-models.pdf)
-* [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
 * [A Survey on Long Text Modeling with Transformers](https://arxiv.org/pdf/2302.14502.pdf)
 * [A Comprehensive Survey on Pretrained Foundation Models A History from BERT to ChatGPT](https://arxiv.org/pdf/2302.09419.pdf)
 * [Large Language Models Can Self-Improve](https://arxiv.org/pdf/2210.11610.pdf)
 * [AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn](https://arxiv.org/pdf/2306.08640.pdf)
+* [LoRA Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
