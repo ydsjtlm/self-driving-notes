@@ -58,3 +58,9 @@
 # Calibration
 * [☆] [Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration
 Method Using Segment Anything](https://arxiv.org/pdf/2306.02656.pdf)
+
+# Simulation 
+* [UniSim: A Neural Closed-Loop Sensor Simulator](https://waabi.ai/wp-content/uploads/2023/05/UniSim-paper.pdf)
+
+# Transformer
+* [SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers]()
