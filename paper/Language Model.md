@@ -2,7 +2,7 @@
 * [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655)
 * [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)
 * [☆][Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/634627008)
-* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+* [☆][BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/638895437)
 * [☆][GPT1: Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/638298091)
 * [☆][GPT2: Language Models are Unsupervised Multitask Learners](https://life-extension.github.io/2020/05/27/GPT%E6%8A%80%E6%9C%AF%E5%88%9D%E6%8E%A2/language-models.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/638298091)
 * [☆][GPT3: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/638298091)
@@ -13,7 +13,10 @@
 
 * [☆][ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637849428)
 * [☆][Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637849428)
-* [☆][End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637849428)
+* [☆][DETR: End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637849428)
+* [☆][Deformable DETR Deformable Transformers for End-to-End Object Detection](https://arxiv.org/pdf/2010.04159.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637849428)
+* [Visual Programming: Compositional visual reasoning without training](https://arxiv.org/pdf/2211.11559.pdf)
+* [Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models](https://arxiv.org/pdf/2306.08641.pdf)
 
 # Multimodal (Vision/Language/Audio)
 * [☆][Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
@@ -69,3 +72,6 @@
 * [Large Language Models Can Self-Improve](https://arxiv.org/pdf/2210.11610.pdf)
 * [AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn](https://arxiv.org/pdf/2306.08640.pdf)
 * [LoRA Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
+* [Multimodal Deep Learning](https://arxiv.org/pdf/2301.04856.pdf)
+* [Textbooks Are All You Need](https://arxiv.org/pdf/2306.11644.pdf)
+* [PandaGPT: One Model To Instruction-Follow Them All](https://arxiv.org/pdf/2305.16355.pdf)
