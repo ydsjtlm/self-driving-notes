@@ -30,6 +30,8 @@
 * [Learning Occupancy for Monocular 3D Object Detection](https://arxiv.org/pdf/2305.15694.pdf)
 * [Scene as Occupancy](https://arxiv.org/pdf/2306.02851.pdf) [[Code]](https://github.com/OpenDriveLab/OccNet)
 * [UniOcc: Unifying Vision-Centric 3D Occupancy Prediction with Geometric and Semantic Rendering](https://arxiv.org/pdf/2306.09117.pdf)
+* [FB-OCC 3D Occupancy Prediction based on Forward-Backward View Transformation](https://opendrivelab.com/e2ead/AD23Challenge/Track_3_NVOCC.pdf?=&linkId=100000205404832)[[Code]](https://github.com/NVlabs/FB-BEV)
+
 
 # 矢量化
 * [PolyFormer Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387)
@@ -63,4 +65,5 @@ Method Using Segment Anything](https://arxiv.org/pdf/2306.02656.pdf)
 * [UniSim: A Neural Closed-Loop Sensor Simulator](https://waabi.ai/wp-content/uploads/2023/05/UniSim-paper.pdf)
 
 # Transformer
-* [SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers]()
+* [SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers](https://arxiv.org/pdf/2306.06289.pdf)
+* [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/pdf/2012.09841.pdf)

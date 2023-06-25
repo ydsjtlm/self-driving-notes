@@ -33,7 +33,8 @@
 * [☆] [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/pdf/2304.10592.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)  
 * [☆] [BLIP2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)  
 * [☆] [PaLM-E An Embodied Multimodal Language Model](https://arxiv.org/pdf/2303.03378.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637430937)
-
+* [☆] [VisionLLM Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks](https://arxiv.org/pdf/2305.11175.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/639467790)
+* [InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/pdf/2305.05662.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/639505432)
 * [CLIP分割：Language-driven Semantic Segmentation](https://arxiv.org/pdf/2201.03546.pdf)
 * [CLIP分割：GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/pdf/2202.11094.pdf)
 * [CLIP检测：Open-vocabulary Object Detection via Vision and Language Knowledge Distillation](https://arxiv.org/pdf/2104.13921.pdf)
@@ -43,8 +44,7 @@
 
 * [QLoRA Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
 * [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
-* [VisionLLM Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks](https://arxiv.org/pdf/2305.11175.pdf)
-* [InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/pdf/2305.05662.pdf)
+
 * [LIMA Less Is More for Alignment](https://arxiv.org/pdf/2305.11206.pdf)
 * [FrugalGPT How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/pdf/2305.05176.pdf)
 * [SELF-INSTRUCT Aligning Language Models with Self-Generated Instructions](https://arxiv.org/pdf/2212.10560.pdf)
