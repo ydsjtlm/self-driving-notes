@@ -27,6 +27,7 @@
 * [☆][ALBEF: Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/635127422/edit)
 * [☆][VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://arxiv.org/pdf/2111.02358.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/635116412)
 * [☆] [KOSMOS: Language is not all you Need Aligning Perception with Language Models](https://arxiv.org/pdf/2302.14045.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/631396292)
+* [KOSMOS-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/pdf/2306.14824.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/631396292)
 * [☆] [LLaVA: Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636584622)
 * [☆] [Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models](https://arxiv.org/pdf/2306.05424.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636584622)
 * [☆] [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/pdf/2306.02858.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)  
@@ -76,3 +77,4 @@
 * [Textbooks Are All You Need](https://arxiv.org/pdf/2306.11644.pdf)
 * [PandaGPT: One Model To Instruction-Follow Them All](https://arxiv.org/pdf/2305.16355.pdf)
 * [ImageBind: One Embedding Space To Bind Them All](https://arxiv.org/pdf/2305.05665.pdf)
+* [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549.pdf)  [[Github]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
