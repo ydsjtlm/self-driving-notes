@@ -75,3 +75,4 @@
 * [Multimodal Deep Learning](https://arxiv.org/pdf/2301.04856.pdf)
 * [Textbooks Are All You Need](https://arxiv.org/pdf/2306.11644.pdf)
 * [PandaGPT: One Model To Instruction-Follow Them All](https://arxiv.org/pdf/2305.16355.pdf)
+* [ImageBind: One Embedding Space To Bind Them All](https://arxiv.org/pdf/2305.05665.pdf)

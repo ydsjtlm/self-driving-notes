@@ -48,6 +48,7 @@
 
 
 # End-to-End
+* [Github: End-to-end Autonomous Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)
 * [POLICY PRE-TRAINING FOR AUTONOMOUS DRIVING VIA SELF-SUPERVISED GEOMETRIC MODELING](https://arxiv.org/pdf/2301.01006.pdf)
 * [World Models](https://arxiv.org/abs/1803.10122)
 * [SafetyNet: Safe planning for real-world self-driving vehicles using machine-learned policies](https://arxiv.org/pdf/2109.13602.pdf)
