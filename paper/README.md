@@ -17,6 +17,7 @@
 * [Neural Map Prior for Autonomous Driving](https://arxiv.org/pdf/2304.08481.pdf)
 * [VMA: Divide-and-Conquer Vectorized Map Annotation System for Large-Scale Driving Scene](https://arxiv.org/pdf/2304.09807.pdf)
 * [End-to-End Vectorized HD-map Construction with Piecewise Bezier Curve](https://openaccess.thecvf.com/content/CVPR2023/papers/Qiao_End-to-End_Vectorized_HD-Map_Construction_With_Piecewise_Bezier_Curve_CVPR_2023_paper.pdf)
+* [MachMap: End-to-End Vectorized Solution for Compact HD-Map Construction](https://arxiv.org/pdf/2306.10301.pdf)
 * HDmapNet VectorNetMap
 
 # Occupancy
@@ -64,6 +65,7 @@ Method Using Segment Anything](https://arxiv.org/pdf/2306.02656.pdf)
 
 # Simulation 
 * [UniSim: A Neural Closed-Loop Sensor Simulator](https://waabi.ai/wp-content/uploads/2023/05/UniSim-paper.pdf)
+* [Rethinking Closed-loop Training for Autonomous Driving](https://arxiv.org/pdf/2306.15713.pdf)
 
 # Transformer
 * [SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers](https://arxiv.org/pdf/2306.06289.pdf)
