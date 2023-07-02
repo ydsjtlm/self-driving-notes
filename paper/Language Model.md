@@ -1,6 +1,6 @@
 # LLM
 * [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655)
-* [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)
+* [☆][Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/641016232)
 * [☆][Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/634627008)
 * [☆][BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/638895437)
 * [☆][GPT1: Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/638298091)
@@ -35,7 +35,8 @@
 * [☆] [BLIP2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)  
 * [☆] [PaLM-E An Embodied Multimodal Language Model](https://arxiv.org/pdf/2303.03378.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637430937)
 * [☆] [VisionLLM Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks](https://arxiv.org/pdf/2305.11175.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/639467790)
-* [InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/pdf/2305.05662.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/639505432)
+* [☆] [InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/pdf/2305.05662.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/639505432)
+* [☆] [Segment Any Point Cloud Sequences by Distilling Vision Foundation Models](https://arxiv.org/pdf/2306.09347.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/640760232)
 * [CLIP分割：Language-driven Semantic Segmentation](https://arxiv.org/pdf/2201.03546.pdf)
 * [CLIP分割：GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/pdf/2202.11094.pdf)
 * [CLIP检测：Open-vocabulary Object Detection via Vision and Language Knowledge Distillation](https://arxiv.org/pdf/2104.13921.pdf)
@@ -80,3 +81,4 @@
 * [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549.pdf)  [[Github]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 * [Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic](https://arxiv.org/pdf/2306.15195.pdf)
 * [Faster Segment Anything: Towards Lightweight SAM for Mobile Applications](https://arxiv.org/pdf/2306.14289.pdf)
+* [C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](https://arxiv.org/pdf/2305.08322.pdf)

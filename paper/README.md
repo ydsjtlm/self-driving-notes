@@ -46,6 +46,7 @@
 * [Exploring Simple 3D Multi-Object Tracking for Autonomous Driving](https://github.com/qcraftai/simtrack)
 * [MOTR: End-to-End Multiple-Object Tracking with TRansformer](https://github.com/megvii-research/MOTR)
 * [MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries](https://tsinghua-mars-lab.github.io/mutr3d/)
+* [MotionTrack: End-to-End Transformer-based Multi-Object Tracing with LiDAR-Camera Fusion](https://arxiv.org/pdf/2306.17000.pdf)
 
 
 # End-to-End
@@ -54,6 +55,7 @@
 * [World Models](https://arxiv.org/abs/1803.10122)
 * [SafetyNet: Safe planning for real-world self-driving vehicles using machine-learned policies](https://arxiv.org/pdf/2109.13602.pdf)
 * [Goal-oriented Autonomous Driving](https://github.com/OpenDriveLab/UniAD)
+* [End-to-end Autonomous Driving: Challenges and Frontiers](https://arxiv.org/pdf/2306.16927.pdf)
 
 # Prediction
 * [Motion Transformer with Global Intention Localization and Local Movement Refinement](https://arxiv.org/pdf/2209.13508.pdf)
