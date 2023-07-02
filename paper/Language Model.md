@@ -82,3 +82,4 @@
 * [Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic](https://arxiv.org/pdf/2306.15195.pdf)
 * [Faster Segment Anything: Towards Lightweight SAM for Mobile Applications](https://arxiv.org/pdf/2306.14289.pdf)
 * [C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](https://arxiv.org/pdf/2305.08322.pdf)
+* [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/pdf/2305.06500.pdf)
