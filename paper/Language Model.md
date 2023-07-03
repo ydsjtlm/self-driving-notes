@@ -37,6 +37,10 @@
 * [☆] [VisionLLM Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks](https://arxiv.org/pdf/2305.11175.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/639467790)
 * [☆] [InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/pdf/2305.05662.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/639505432)
 * [☆] [Segment Any Point Cloud Sequences by Distilling Vision Foundation Models](https://arxiv.org/pdf/2306.09347.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/640760232)
+* [☆] [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549.pdf)  [[Github]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/641261865)
+* [☆] [评测：MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](https://arxiv.org/pdf/2306.13394.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/641261865)
+* [☆] [C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](https://arxiv.org/pdf/2305.08322.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/641261865)
+ 
 * [CLIP分割：Language-driven Semantic Segmentation](https://arxiv.org/pdf/2201.03546.pdf)
 * [CLIP分割：GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/pdf/2202.11094.pdf)
 * [CLIP检测：Open-vocabulary Object Detection via Vision and Language Knowledge Distillation](https://arxiv.org/pdf/2104.13921.pdf)
@@ -78,8 +82,8 @@
 * [Textbooks Are All You Need](https://arxiv.org/pdf/2306.11644.pdf)
 * [PandaGPT: One Model To Instruction-Follow Them All](https://arxiv.org/pdf/2305.16355.pdf)
 * [ImageBind: One Embedding Space To Bind Them All](https://arxiv.org/pdf/2305.05665.pdf)
-* [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549.pdf)  [[Github]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+
 * [Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic](https://arxiv.org/pdf/2306.15195.pdf)
 * [Faster Segment Anything: Towards Lightweight SAM for Mobile Applications](https://arxiv.org/pdf/2306.14289.pdf)
-* [C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](https://arxiv.org/pdf/2305.08322.pdf)
+
 * [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/pdf/2305.06500.pdf)
