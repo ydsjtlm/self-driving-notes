@@ -1,5 +1,6 @@
 # LLM
-* [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655)
+* [☆X][ChatGPT is not all you need. A State of the Art Review of large Generative AI models](https://arxiv.org/abs/2301.04655)
+* [☆X][Multimodal Deep Learning](https://arxiv.org/pdf/2301.04856.pdf)
 * [☆][Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/641016232)
 * [☆][Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/634627008)
 * [☆][BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/638895437)
@@ -17,6 +18,15 @@
 * [☆][Deformable DETR Deformable Transformers for End-to-End Object Detection](https://arxiv.org/pdf/2010.04159.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637849428)
 * [Visual Programming: Compositional visual reasoning without training](https://arxiv.org/pdf/2211.11559.pdf)
 * [Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models](https://arxiv.org/pdf/2306.08641.pdf)
+
+# AIGC
+* [VQGAN: Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/pdf/2012.09841.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
+* [DDPM: Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
+* [DALL-E2: Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
+* [DALL-E: Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
+* [Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
+* [Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/pdf/2205.11487.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
+
 
 # Multimodal (Vision/Language/Audio)
 * [☆][Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
@@ -41,7 +51,7 @@
 * [☆] [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549.pdf)  [[Github]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/641261865)
 * [☆] [评测：MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](https://arxiv.org/pdf/2306.13394.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/641261865)
 * [☆] [评测：C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](https://arxiv.org/pdf/2305.08322.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/641261865)
- 
+
 * [CLIP分割：Language-driven Semantic Segmentation](https://arxiv.org/pdf/2201.03546.pdf)
 * [CLIP分割：GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/pdf/2202.11094.pdf)
 * [CLIP检测：Open-vocabulary Object Detection via Vision and Language Knowledge Distillation](https://arxiv.org/pdf/2104.13921.pdf)
@@ -71,15 +81,14 @@
 * [sparks of artificial general intelligence](https://arxiv.org/pdf/2303.12712.pdf)
 * [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223.pdf)
 * [HuggingGPT Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/pdf/2303.17580.pdf)
-* [dalle2: Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)
-* [DALL-E: Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf)
+
 * [Transformer models: an introduction and catalog](https://arxiv.org/pdf/2302.07730.pdf)
 * [A Survey on Long Text Modeling with Transformers](https://arxiv.org/pdf/2302.14502.pdf)
 * [A Comprehensive Survey on Pretrained Foundation Models A History from BERT to ChatGPT](https://arxiv.org/pdf/2302.09419.pdf)
 * [Large Language Models Can Self-Improve](https://arxiv.org/pdf/2210.11610.pdf)
 * [AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn](https://arxiv.org/pdf/2306.08640.pdf)
 * [LoRA Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
-* [Multimodal Deep Learning](https://arxiv.org/pdf/2301.04856.pdf)
+
 * [Textbooks Are All You Need](https://arxiv.org/pdf/2306.11644.pdf)
 * [PandaGPT: One Model To Instruction-Follow Them All](https://arxiv.org/pdf/2305.16355.pdf)
 * [ImageBind: One Embedding Space To Bind Them All](https://arxiv.org/pdf/2305.05665.pdf)
