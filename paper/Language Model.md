@@ -26,7 +26,7 @@
 * [DALL-E: Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
 * [Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
 * [Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/pdf/2205.11487.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
-
+* [RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths](https://arxiv.org/pdf/2305.18295.pdf)
 
 # Multimodal (Vision/Language/Audio)
 * [☆][Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
@@ -48,9 +48,11 @@
 * [☆] [VisionLLM Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks](https://arxiv.org/pdf/2305.11175.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/639467790)
 * [☆] [InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/pdf/2305.05662.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/639505432)
 * [☆] [Segment Any Point Cloud Sequences by Distilling Vision Foundation Models](https://arxiv.org/pdf/2306.09347.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/640760232)
-* [☆] [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549.pdf)  [[Github]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/641261865)
+* [☆] [综述 A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549.pdf)  [[Github]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/641261865)
 * [☆] [评测：MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](https://arxiv.org/pdf/2306.13394.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/641261865)
 * [☆] [评测：C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](https://arxiv.org/pdf/2305.08322.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/641261865)
+* [Vision Language Transformers: A Survey](https://arxiv.org/pdf/2307.03254.pdf)
+* [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models](https://voxposer.github.io/voxposer.pdf)
 
 * [CLIP分割：Language-driven Semantic Segmentation](https://arxiv.org/pdf/2201.03546.pdf)
 * [CLIP分割：GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/pdf/2202.11094.pdf)
@@ -71,7 +73,7 @@
 
 * [Whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/pdf/2212.04356.pdf)
 * [LaMDA Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf)
-* [LLaMA Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)
+* [LLaMA Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/642719013)
 * [BLIP Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf)
 * [beitv3: Image as a Foreign Language BEiT Pretraining for All Vision and Vision-Language Tasks](https://arxiv.org/pdf/2208.10442.pdf)
 * [CoCa Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/pdf/2205.01917.pdf)
@@ -95,5 +97,6 @@
 
 * [Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic](https://arxiv.org/pdf/2306.15195.pdf)
 * [Faster Segment Anything: Towards Lightweight SAM for Mobile Applications](https://arxiv.org/pdf/2306.14289.pdf)
+* [LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf)
 
 

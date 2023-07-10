@@ -32,7 +32,7 @@
 * [Scene as Occupancy](https://arxiv.org/pdf/2306.02851.pdf) [[Code]](https://github.com/OpenDriveLab/OccNet)
 * [UniOcc: Unifying Vision-Centric 3D Occupancy Prediction with Geometric and Semantic Rendering](https://arxiv.org/pdf/2306.09117.pdf)
 * [FB-OCC 3D Occupancy Prediction based on Forward-Backward View Transformation](https://opendrivelab.com/e2ead/AD23Challenge/Track_3_NVOCC.pdf?=&linkId=100000205404832)[[Code]](https://github.com/NVlabs/FB-BEV)
-
+* [OVO: Open-Vocabulary Occupancy](https://arxiv.org/pdf/2305.16133.pdf)
 
 # 矢量化
 * [PolyFormer Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387)
@@ -72,3 +72,9 @@ Method Using Segment Anything](https://arxiv.org/pdf/2306.02656.pdf)
 # Transformer
 * [SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers](https://arxiv.org/pdf/2306.06289.pdf)
 * [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/pdf/2012.09841.pdf)
+
+# Survey
+* [Milestones in Autonomous Driving and Intelligent Vehicles Survey of Surveys](https://arxiv.org/pdf/2303.17220.pdf)
+* [Milestones_in_autonomous_driving_for_intelligent_vehicles_Pt1-2023](https://arxiv.org/pdf/2305.11239.pdf)
+* [Milestones in Autonomous Driving and Intelligent Vehicles Part II Perception and Planning](https://arxiv.org/pdf/2306.01980.pdf)
+* [Transformer-based models and hardware acceleration analysis in autonomous driving A survey](https://arxiv.org/pdf/2304.10891.pdf)
