@@ -31,7 +31,7 @@
 * [Learning Occupancy for Monocular 3D Object Detection](https://arxiv.org/pdf/2305.15694.pdf)
 * [Scene as Occupancy](https://arxiv.org/pdf/2306.02851.pdf) [[Code]](https://github.com/OpenDriveLab/OccNet)
 * [UniOcc: Unifying Vision-Centric 3D Occupancy Prediction with Geometric and Semantic Rendering](https://arxiv.org/pdf/2306.09117.pdf)
-* [FB-OCC 3D Occupancy Prediction based on Forward-Backward View Transformation](https://opendrivelab.com/e2ead/AD23Challenge/Track_3_NVOCC.pdf?=&linkId=100000205404832)[[Code]](https://github.com/NVlabs/FB-BEV)
+* [FB-OCC 3D Occupancy Prediction based on Forward-Backward View Transformation](https://opendrivelab.com/e2ead/AD23Challenge/Track_3_NVOCC.pdf?=&linkId=100000205404832)[[Code]](https://github.com/NVlabs/FB-BEV) [【阅读笔记】](https://zhuanlan.zhihu.com/p/642730470)
 * [OVO: Open-Vocabulary Occupancy](https://arxiv.org/pdf/2305.16133.pdf)
 
 # 矢量化
