@@ -98,5 +98,7 @@
 * [Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic](https://arxiv.org/pdf/2306.15195.pdf)
 * [Faster Segment Anything: Towards Lightweight SAM for Mobile Applications](https://arxiv.org/pdf/2306.14289.pdf)
 * [LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf)
+* [Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416.pdf)
+* [Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks](https://arxiv.org/pdf/2206.08916.pdf)   [[阅读笔记]](https://zhuanlan.zhihu.com/p/644096922)
 
 

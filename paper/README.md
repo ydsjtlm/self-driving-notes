@@ -55,7 +55,8 @@
 * [World Models](https://arxiv.org/abs/1803.10122)
 * [SafetyNet: Safe planning for real-world self-driving vehicles using machine-learned policies](https://arxiv.org/pdf/2109.13602.pdf)
 * [Goal-oriented Autonomous Driving](https://github.com/OpenDriveLab/UniAD)
-* [End-to-end Autonomous Driving: Challenges and Frontiers](https://arxiv.org/pdf/2306.16927.pdf)
+* [综述: End-to-end Autonomous Driving: Challenges and Frontiers](https://arxiv.org/pdf/2306.16927.pdf)
+* [综述: Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey](https://arxiv.org/pdf/2307.04370.pdf)
 
 # Prediction
 * [Motion Transformer with Global Intention Localization and Local Movement Refinement](https://arxiv.org/pdf/2209.13508.pdf)
@@ -72,6 +73,7 @@ Method Using Segment Anything](https://arxiv.org/pdf/2306.02656.pdf)
 # Transformer
 * [SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers](https://arxiv.org/pdf/2306.06289.pdf)
 * [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/pdf/2012.09841.pdf)
+* [Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation](https://arxiv.org/pdf/2112.01527.pdf) [[笔记]](https://zhuanlan.zhihu.com/p/644070743)
 
 # Survey
 * [Milestones in Autonomous Driving and Intelligent Vehicles Survey of Surveys](https://arxiv.org/pdf/2303.17220.pdf)
