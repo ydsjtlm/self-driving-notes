@@ -26,7 +26,8 @@
 * [DALL-E: Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
 * [Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
 * [Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/pdf/2205.11487.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
-* [RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths](https://arxiv.org/pdf/2305.18295.pdf)
+* [RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths](https://arxiv.org/pdf/2305.18295.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
+* [CM3leon: Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning](https://scontent-lax3-1.xx.fbcdn.net/v/t39.2365-6/358725877_789390529544546_1176484804732743296_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=_diQr9c6Ru8AX8AL77d&_nc_ht=scontent-lax3-1.xx&oh=00_AfD8JGolEO3QmSnrkpzQnbv533aSj2eHNm0at6cJ2epOpg&oe=64BB4972)
 
 # Multimodal (Vision/Language/Audio)
 * [☆][Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
