@@ -33,6 +33,7 @@
 * [UniOcc: Unifying Vision-Centric 3D Occupancy Prediction with Geometric and Semantic Rendering](https://arxiv.org/pdf/2306.09117.pdf)
 * [FB-OCC 3D Occupancy Prediction based on Forward-Backward View Transformation](https://opendrivelab.com/e2ead/AD23Challenge/Track_3_NVOCC.pdf?=&linkId=100000205404832)[[Code]](https://github.com/NVlabs/FB-BEV) [【阅读笔记】](https://zhuanlan.zhihu.com/p/642730470)
 * [OVO: Open-Vocabulary Occupancy](https://arxiv.org/pdf/2305.16133.pdf)
+* [OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios](https://arxiv.org/pdf/2307.10934.pdf)
 
 # 矢量化
 * [PolyFormer Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387)

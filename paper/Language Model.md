@@ -20,14 +20,14 @@
 * [Towards AGI in Computer Vision: Lessons Learned from GPT and Large Language Models](https://arxiv.org/pdf/2306.08641.pdf)
 
 # AIGC
-* [VQGAN: Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/pdf/2012.09841.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
-* [DDPM: Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
-* [DALL-E2: Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
-* [DALL-E: Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
-* [Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
+* [☆] [VQGAN: Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/pdf/2012.09841.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
+* [☆] [DDPM: Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
+* [☆] [DALL-E2: Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
+* [☆] [DALL-E: Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
+* [☆] [Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
 * [Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/pdf/2205.11487.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
-* [RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths](https://arxiv.org/pdf/2305.18295.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
-* [CM3leon: Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning](https://scontent-lax3-1.xx.fbcdn.net/v/t39.2365-6/358725877_789390529544546_1176484804732743296_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=_diQr9c6Ru8AX8AL77d&_nc_ht=scontent-lax3-1.xx&oh=00_AfD8JGolEO3QmSnrkpzQnbv533aSj2eHNm0at6cJ2epOpg&oe=64BB4972)
+* [☆] [RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths](https://arxiv.org/pdf/2305.18295.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
+* [☆] [CM3leon: Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning](https://scontent-lax3-1.xx.fbcdn.net/v/t39.2365-6/358725877_789390529544546_1176484804732743296_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=_diQr9c6Ru8AX8AL77d&_nc_ht=scontent-lax3-1.xx&oh=00_AfD8JGolEO3QmSnrkpzQnbv533aSj2eHNm0at6cJ2epOpg&oe=64BB4972)
 
 # Multimodal (Vision/Language/Audio)
 * [☆][Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
@@ -50,10 +50,13 @@
 * [☆] [InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/pdf/2305.05662.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/639505432)
 * [☆] [Segment Any Point Cloud Sequences by Distilling Vision Foundation Models](https://arxiv.org/pdf/2306.09347.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/640760232)
 * [☆] [综述 A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549.pdf)  [[Github]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/641261865)
+* [☆] [综述 A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/642003921)
 * [☆] [评测：MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](https://arxiv.org/pdf/2306.13394.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/641261865)
 * [☆] [评测：C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](https://arxiv.org/pdf/2305.08322.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/641261865)
-* [Vision Language Transformers: A Survey](https://arxiv.org/pdf/2307.03254.pdf)
-* [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models](https://voxposer.github.io/voxposer.pdf)
+* [☆X][Vision Language Transformers: A Survey](https://arxiv.org/pdf/2307.03254.pdf)
+* [☆] [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models](https://voxposer.github.io/voxposer.pdf)   [【阅读笔记】](https://zhuanlan.zhihu.com/p/644424405)
+* [Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks](https://arxiv.org/pdf/2206.08916.pdf)   [[阅读笔记]](https://zhuanlan.zhihu.com/p/644096922)
+* [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/645230336)
 
 * [CLIP分割：Language-driven Semantic Segmentation](https://arxiv.org/pdf/2201.03546.pdf)
 * [CLIP分割：GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/pdf/2202.11094.pdf)
@@ -82,7 +85,7 @@
 * [Anthropic LLM: Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2204.05862.pdf)
 * [GPTs are GPTs An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/pdf/2303.10130.pdf)
 * [sparks of artificial general intelligence](https://arxiv.org/pdf/2303.12712.pdf)
-* [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223.pdf)
+
 * [HuggingGPT Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/pdf/2303.17580.pdf)
 
 * [Transformer models: an introduction and catalog](https://arxiv.org/pdf/2302.07730.pdf)
@@ -100,6 +103,4 @@
 * [Faster Segment Anything: Towards Lightweight SAM for Mobile Applications](https://arxiv.org/pdf/2306.14289.pdf)
 * [LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf)
 * [Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416.pdf)
-* [Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks](https://arxiv.org/pdf/2206.08916.pdf)   [[阅读笔记]](https://zhuanlan.zhihu.com/p/644096922)
-
 
