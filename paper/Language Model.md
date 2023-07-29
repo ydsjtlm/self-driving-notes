@@ -28,15 +28,21 @@
 * [Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/pdf/2205.11487.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
 * [☆] [RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths](https://arxiv.org/pdf/2305.18295.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/641471772)
 * [☆] [CM3leon: Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning](https://scontent-lax3-1.xx.fbcdn.net/v/t39.2365-6/358725877_789390529544546_1176484804732743296_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=_diQr9c6Ru8AX8AL77d&_nc_ht=scontent-lax3-1.xx&oh=00_AfD8JGolEO3QmSnrkpzQnbv533aSj2eHNm0at6cJ2epOpg&oe=64BB4972)
+* [VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet](https://arxiv.org/pdf/2307.14073.pdf)
+* [Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models](https://arxiv.org/pdf/2305.13840.pdf)
 
 # Multimodal (Vision/Language/Audio)
-* [☆][Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
-* [☆][Segment and Track Anything](https://arxiv.org/pdf/2305.06558.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630987885)
-* [☆][Track Anything: Segment Anything Meets Videos](https://arxiv.org/pdf/2304.11968.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630987885)
-* [☆][CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/631046116)
-* [☆][ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/pdf/2102.03334.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/635802911)
-* [☆][ALBEF: Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/635127422/edit)
-* [☆][VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://arxiv.org/pdf/2111.02358.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/635116412)
+* [☆] [Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
+* [☆] [Segment and Track Anything](https://arxiv.org/pdf/2305.06558.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630987885)
+* [☆] [Track Anything: Segment Anything Meets Videos](https://arxiv.org/pdf/2304.11968.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630987885)
+* [☆] [CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/631046116)
+* [☆] [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/pdf/2102.03334.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/635802911)
+* [☆] [ALBEF: Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/635127422/edit)
+* [☆] [VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://arxiv.org/pdf/2111.02358.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/635116412)
+* [☆] [Meta-Transformer: A Unified Framework for Multimodal Learning](https://arxiv.org/pdf/2307.10802.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/645727989)
+* [☆] [ImageBind: One Embedding Space To Bind Them All](https://arxiv.org/pdf/2305.05665.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/645780641)
+* [☆] [beitv3: Image as a Foreign Language BEiT Pretraining for All Vision and Vision-Language Tasks](https://arxiv.org/pdf/2208.10442.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/645983189)
+* [☆] [PandaGPT: One Model To Instruction-Follow Them All](https://arxiv.org/pdf/2305.16355.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/645780641)
 * [☆] [KOSMOS: Language is not all you Need Aligning Perception with Language Models](https://arxiv.org/pdf/2302.14045.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/631396292)
 * [☆] [KOSMOS-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/pdf/2306.14824.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/631396292)
 * [☆] [LLaVA: Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636584622)
@@ -45,6 +51,7 @@
 * [☆] [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/pdf/2304.10592.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)  
 * [☆] [BLIP2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)    [[Code]](https://github.com/salesforce/LAVIS)
 * [☆] [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/pdf/2305.06500.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)   [[Code]](https://github.com/salesforce/LAVIS)
+* [☆] [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/645750137)
 * [☆] [PaLM-E An Embodied Multimodal Language Model](https://arxiv.org/pdf/2303.03378.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637430937)
 * [☆] [VisionLLM Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks](https://arxiv.org/pdf/2305.11175.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/639467790)
 * [☆] [InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/pdf/2305.05662.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/639505432)
@@ -58,7 +65,15 @@
 * [☆] [Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks](https://arxiv.org/pdf/2206.08916.pdf)   [[阅读笔记]](https://zhuanlan.zhihu.com/p/644096922)
 * [☆] [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/645230336)
 * [☆] [LLaMA Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/642719013)
-* [Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416.pdf)  [[阅读笔记]](https://zhuanlan.zhihu.com/p/645317908) 
+* [☆] [Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416.pdf)  [[阅读笔记]](https://zhuanlan.zhihu.com/p/645317908) 
+* [☆] [LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/645326943)
+* [☆] [Faster Segment Anything: Towards Lightweight SAM for Mobile Applications](https://arxiv.org/pdf/2306.14289.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/645714778)  
+* [☆] [Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic](https://arxiv.org/pdf/2306.15195.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/645787351)
+* [☆] [Textbooks Are All You Need](https://arxiv.org/pdf/2306.11644.pdf)
+* [☆] [3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/pdf/2307.12981.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/646624803)
+* [☆] [LoRA Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/646629579)
+* [☆] [AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn](https://arxiv.org/pdf/2306.08640.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/646689611)
+* [☆] [HuggingGPT Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/pdf/2303.17580.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/646689611)
 
 
 * [CLIP分割：Language-driven Semantic Segmentation](https://arxiv.org/pdf/2201.03546.pdf)
@@ -82,28 +97,22 @@
 * [LaMDA Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf)
 
 * [BLIP Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086.pdf)
-* [beitv3: Image as a Foreign Language BEiT Pretraining for All Vision and Vision-Language Tasks](https://arxiv.org/pdf/2208.10442.pdf)
+
 * [CoCa Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/pdf/2205.01917.pdf)
 * [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593.pdf)
 * [Anthropic LLM: Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2204.05862.pdf)
 * [GPTs are GPTs An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/pdf/2303.10130.pdf)
 * [sparks of artificial general intelligence](https://arxiv.org/pdf/2303.12712.pdf)
 
-* [HuggingGPT Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/pdf/2303.17580.pdf)
 
 * [Transformer models: an introduction and catalog](https://arxiv.org/pdf/2302.07730.pdf)
 * [A Survey on Long Text Modeling with Transformers](https://arxiv.org/pdf/2302.14502.pdf)
 * [A Comprehensive Survey on Pretrained Foundation Models A History from BERT to ChatGPT](https://arxiv.org/pdf/2302.09419.pdf)
 * [Large Language Models Can Self-Improve](https://arxiv.org/pdf/2210.11610.pdf)
-* [AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn](https://arxiv.org/pdf/2306.08640.pdf)
-* [LoRA Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
+* [RT-2 Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/assets/rt2.pdf)
 
-* [Textbooks Are All You Need](https://arxiv.org/pdf/2306.11644.pdf)
-* [PandaGPT: One Model To Instruction-Follow Them All](https://arxiv.org/pdf/2305.16355.pdf)
-* [ImageBind: One Embedding Space To Bind Them All](https://arxiv.org/pdf/2305.05665.pdf)
 
-* [Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic](https://arxiv.org/pdf/2306.15195.pdf)
-* [Faster Segment Anything: Towards Lightweight SAM for Mobile Applications](https://arxiv.org/pdf/2306.14289.pdf)
-* [LONGNET: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/pdf/2307.02486.pdf)
-  
+
+
+
 

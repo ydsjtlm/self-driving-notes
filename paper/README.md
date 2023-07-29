@@ -3,6 +3,7 @@
 * [MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception](https://arxiv.org/abs/2211.10593)
 * [BEV-IO: Enhancing Bird’s-Eye-View 3D Detection with Instance Occupancy](https://arxiv.org/pdf/2305.16829.pdf)
 * [PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images](https://arxiv.org/pdf/2206.01256.pdf)
+* [Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection](https://arxiv.org/pdf/2303.11926.pdf)
 
 # BEV分割
 * [Learning and Aggregating Lane Graphs for Urban Automated Driving](https://arxiv.org/abs/2302.06175) 
@@ -56,7 +57,7 @@
 * [World Models](https://arxiv.org/abs/1803.10122)
 * [SafetyNet: Safe planning for real-world self-driving vehicles using machine-learned policies](https://arxiv.org/pdf/2109.13602.pdf)
 * [Goal-oriented Autonomous Driving](https://github.com/OpenDriveLab/UniAD)
-* [综述: End-to-end Autonomous Driving: Challenges and Frontiers](https://arxiv.org/pdf/2306.16927.pdf)
+* [综述: End-to-end Autonomous Driving: Challenges and Frontiers](https://arxiv.org/pdf/2306.16927.pdf)[[阅读笔记]](https://zhuanlan.zhihu.com/p/645591804/edit)
 * [综述: Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey](https://arxiv.org/pdf/2307.04370.pdf)
 
 # Prediction
@@ -64,12 +65,12 @@
 
 
 # Calibration
-* [☆] [Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration
-Method Using Segment Anything](https://arxiv.org/pdf/2306.02656.pdf)
+* [☆] [Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration Method Using Segment Anything](https://arxiv.org/pdf/2306.02656.pdf)
 
 # Simulation 
 * [UniSim: A Neural Closed-Loop Sensor Simulator](https://waabi.ai/wp-content/uploads/2023/05/UniSim-paper.pdf)
 * [Rethinking Closed-loop Training for Autonomous Driving](https://arxiv.org/pdf/2306.15713.pdf)
+
 
 # Transformer
 * [SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers](https://arxiv.org/pdf/2306.06289.pdf)
@@ -81,3 +82,10 @@ Method Using Segment Anything](https://arxiv.org/pdf/2306.02656.pdf)
 * [Milestones_in_autonomous_driving_for_intelligent_vehicles_Pt1-2023](https://arxiv.org/pdf/2305.11239.pdf)
 * [Milestones in Autonomous Driving and Intelligent Vehicles Part II Perception and Planning](https://arxiv.org/pdf/2306.01980.pdf)
 * [Transformer-based models and hardware acceleration analysis in autonomous driving A survey](https://arxiv.org/pdf/2304.10891.pdf)
+
+# Self-supervised
+* [Linking vision and motion for self-supervised object-centric perception](https://arxiv.org/pdf/2307.07147.pdf)
+
+# Nerf
+* [MapNeRF: Incorporating Map Priors into Neural Radiance Fields for Driving View Simulation](https://arxiv.org/pdf/2307.14981.pdf)
+* [NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection](https://arxiv.org/pdf/2307.14620v1.pdf)
