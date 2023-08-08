@@ -53,6 +53,7 @@
 * [☆] [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/pdf/2305.06500.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)   [[Code]](https://github.com/salesforce/LAVIS)
 * [☆] [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/645750137)
 * [☆] [PaLM-E An Embodied Multimodal Language Model](https://arxiv.org/pdf/2303.03378.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/637430937)
+* [☆] [RT-2 Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/assets/rt2.pdf)[[阅读笔记]](https://zhuanlan.zhihu.com/p/646729912)
 * [☆] [VisionLLM Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks](https://arxiv.org/pdf/2305.11175.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/639467790)
 * [☆] [InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/pdf/2305.05662.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/639505432)
 * [☆] [Segment Any Point Cloud Sequences by Distilling Vision Foundation Models](https://arxiv.org/pdf/2306.09347.pdf)  [【阅读笔记】](https://zhuanlan.zhihu.com/p/640760232)
@@ -84,7 +85,7 @@
 * [Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/pdf/2305.18279.pdf) [[Code]](https://github.com/yuhangzang/ContextDET)
 
 * [QLoRA Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
-* [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
+
 
 * [LIMA Less Is More for Alignment](https://arxiv.org/pdf/2305.11206.pdf)
 * [FrugalGPT How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/pdf/2305.05176.pdf)
@@ -109,8 +110,8 @@
 * [A Survey on Long Text Modeling with Transformers](https://arxiv.org/pdf/2302.14502.pdf)
 * [A Comprehensive Survey on Pretrained Foundation Models A History from BERT to ChatGPT](https://arxiv.org/pdf/2302.09419.pdf)
 * [Large Language Models Can Self-Improve](https://arxiv.org/pdf/2210.11610.pdf)
-* [RT-2 Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/assets/rt2.pdf)
 
+*[MovieChat From Dense Token to Sparse Memory for Long Video Understanding](https://arxiv.org/pdf/2307.16449.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/636854782)
 
 
 

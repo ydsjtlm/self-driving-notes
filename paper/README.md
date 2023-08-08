@@ -19,6 +19,7 @@
 * [VMA: Divide-and-Conquer Vectorized Map Annotation System for Large-Scale Driving Scene](https://arxiv.org/pdf/2304.09807.pdf)
 * [End-to-End Vectorized HD-map Construction with Piecewise Bezier Curve](https://openaccess.thecvf.com/content/CVPR2023/papers/Qiao_End-to-End_Vectorized_HD-Map_Construction_With_Piecewise_Bezier_Curve_CVPR_2023_paper.pdf)
 * [MachMap: End-to-End Vectorized Solution for Compact HD-Map Construction](https://arxiv.org/pdf/2306.10301.pdf)
+* [MV-Map: Offboard HD-Map Generation with Multi-view Consistency](https://arxiv.org/pdf/2305.08851.pdf)
 * HDmapNet VectorNetMap
 
 # Occupancy
@@ -59,6 +60,9 @@
 * [Goal-oriented Autonomous Driving](https://github.com/OpenDriveLab/UniAD)
 * [综述: End-to-end Autonomous Driving: Challenges and Frontiers](https://arxiv.org/pdf/2306.16927.pdf)[[阅读笔记]](https://zhuanlan.zhihu.com/p/645591804/edit)
 * [综述: Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey](https://arxiv.org/pdf/2307.04370.pdf)
+* [DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving](https://arxiv.org/pdf/2308.00398.pdf)
+* [FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving](https://arxiv.org/pdf/2308.01006.pdf)
+* [Interpretable End-to-End Driving Model for Implicit Scene Understanding](https://arxiv.org/pdf/2308.01180.pdf)
 
 # Prediction
 * [Motion Transformer with Global Intention Localization and Local Movement Refinement](https://arxiv.org/pdf/2209.13508.pdf)
@@ -89,3 +93,4 @@
 # Nerf
 * [MapNeRF: Incorporating Map Priors into Neural Radiance Fields for Driving View Simulation](https://arxiv.org/pdf/2307.14981.pdf)
 * [NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection](https://arxiv.org/pdf/2307.14620v1.pdf)
+* [Grid-guided Neural Radiance Fields for Large Urban Scenes](https://arxiv.org/pdf/2303.14001.pdf) [[Code]](https://github.com/InternLandMark/LandMark) [[阅读笔记]](https://zhuanlan.zhihu.com/p/647868981)
