@@ -113,7 +113,7 @@
 
 *[MovieChat From Dense Token to Sparse Memory for Long Video Understanding](https://arxiv.org/pdf/2307.16449.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/636854782)
 
-
+* [Bird’s-Eye-View Scene Graph for Vision-Language Navigation](https://arxiv.org/pdf/2308.04758.pdf)
 
 
 

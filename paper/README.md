@@ -4,6 +4,9 @@
 * [BEV-IO: Enhancing Bird’s-Eye-View 3D Detection with Instance Occupancy](https://arxiv.org/pdf/2305.16829.pdf)
 * [PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images](https://arxiv.org/pdf/2206.01256.pdf)
 * [Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection](https://arxiv.org/pdf/2303.11926.pdf)
+* [OCBEV Object-Centric BEV Transformer for Multi-View 3D Object Detection](https://arxiv.org/pdf/2306.01738.pdf)
+
+
 
 # BEV分割
 * [Learning and Aggregating Lane Graphs for Urban Automated Driving](https://arxiv.org/abs/2302.06175) 
@@ -20,10 +23,12 @@
 * [End-to-End Vectorized HD-map Construction with Piecewise Bezier Curve](https://openaccess.thecvf.com/content/CVPR2023/papers/Qiao_End-to-End_Vectorized_HD-Map_Construction_With_Piecewise_Bezier_Curve_CVPR_2023_paper.pdf)
 * [MachMap: End-to-End Vectorized Solution for Compact HD-Map Construction](https://arxiv.org/pdf/2306.10301.pdf)
 * [MV-Map: Offboard HD-Map Generation with Multi-view Consistency](https://arxiv.org/pdf/2305.08851.pdf)
+* [LATR: 3D Lane Detection from Monocular Images with Transformer](https://arxiv.org/pdf/2308.04583.pdf)
+* [MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction](https://arxiv.org/pdf/2308.05736v1.pdf)
 * HDmapNet VectorNetMap
 
 # Occupancy
-* [Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2302.07817.pdf) [[Code]](https://github.com/wzzheng/TPVFormer)
+* [Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2302.07817.pdf) [[Code]](https://github.com/wzzheng/TPVFormer) [[笔记]](https://zhuanlan.zhihu.com/p/648813002)
 * [MonoScene Monocular 3D Semantic Scene Completion](https://arxiv.org/abs/2112.00726)
 * [OccDepth: A Depth-aware Method for 3D Semantic Occupancy Network](https://arxiv.org/abs/2302.13540)
 * [VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion](https://arxiv.org/abs/2302.12251)
@@ -43,7 +48,7 @@
 
 # 多传感器融合
 * [Transformers-Sensor-Fusion](https://github.com/ApoorvRoboticist/Transformers-Sensor-Fusion)
-
+* [UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation]()
 
 # 检测跟踪一体化
 * [Exploring Simple 3D Multi-Object Tracking for Autonomous Driving](https://github.com/qcraftai/simtrack)
@@ -61,7 +66,7 @@
 * [综述: End-to-end Autonomous Driving: Challenges and Frontiers](https://arxiv.org/pdf/2306.16927.pdf)[[阅读笔记]](https://zhuanlan.zhihu.com/p/645591804/edit)
 * [综述: Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey](https://arxiv.org/pdf/2307.04370.pdf)
 * [DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving](https://arxiv.org/pdf/2308.00398.pdf)
-* [FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving](https://arxiv.org/pdf/2308.01006.pdf)
+* [FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving](https://arxiv.org/pdf/2308.01006.pdf) [[Code]](https://github.com/westlake-autolab/FusionAD)
 * [Interpretable End-to-End Driving Model for Implicit Scene Understanding](https://arxiv.org/pdf/2308.01180.pdf)
 
 # Prediction
@@ -94,3 +99,4 @@
 * [MapNeRF: Incorporating Map Priors into Neural Radiance Fields for Driving View Simulation](https://arxiv.org/pdf/2307.14981.pdf)
 * [NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection](https://arxiv.org/pdf/2307.14620v1.pdf)
 * [Grid-guided Neural Radiance Fields for Large Urban Scenes](https://arxiv.org/pdf/2303.14001.pdf) [[Code]](https://github.com/InternLandMark/LandMark) [[阅读笔记]](https://zhuanlan.zhihu.com/p/647868981)
+* [Horizon Robotics: RoMe: Towards Large Scale Road Surface Reconstruction via Mesh Representation](https://arxiv.org/pdf/2306.11368.pdf)
