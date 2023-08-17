@@ -25,6 +25,7 @@
 * [MV-Map: Offboard HD-Map Generation with Multi-view Consistency](https://arxiv.org/pdf/2305.08851.pdf)
 * [LATR: 3D Lane Detection from Monocular Images with Transformer](https://arxiv.org/pdf/2308.04583.pdf)
 * [MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction](https://arxiv.org/pdf/2308.05736v1.pdf)
+* [InsightMapper: A Closer Look at Inner-instance Information for Vectorized High-Definition Mapping](https://arxiv.org/pdf/2308.08543.pdf)[[Code]]() [[笔记]](https://zhuanlan.zhihu.com/p/650732045)
 * HDmapNet VectorNetMap
 
 # Occupancy
