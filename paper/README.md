@@ -1,11 +1,15 @@
 # BEV检测
 * [Fast-BEV: A Fast and Strong Bird's-Eye View Perception Baseline](https://arxiv.org/abs/2301.12511) [[Code]](https://github.com/Sense-GVT/Fast-BEV) [[资料]](https://mp.weixin.qq.com/s/Dv8UVrRN2TrOTQCqVtDSJg)
+* [M2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Bird’s-Eye View Representation](https://arxiv.org/pdf/2204.05088.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/651960376)
 * [MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception](https://arxiv.org/abs/2211.10593)
 * [BEV-IO: Enhancing Bird’s-Eye-View 3D Detection with Instance Occupancy](https://arxiv.org/pdf/2305.16829.pdf)
 * [PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images](https://arxiv.org/pdf/2206.01256.pdf)
 * [Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection](https://arxiv.org/pdf/2303.11926.pdf)
 * [OCBEV Object-Centric BEV Transformer for Multi-View 3D Object Detection](https://arxiv.org/pdf/2306.01738.pdf)
-
+* [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/pdf/2308.09244.pdf)
+* [MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection](https://arxiv.org/pdf/2308.09421.pdf)
+* [Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction](https://arxiv.org/pdf/2304.00967.pdf)
+* [DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting](https://arxiv.org/pdf/2307.12972.pdf)
 
 
 # BEV分割
@@ -26,6 +30,7 @@
 * [LATR: 3D Lane Detection from Monocular Images with Transformer](https://arxiv.org/pdf/2308.04583.pdf)
 * [MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction](https://arxiv.org/pdf/2308.05736v1.pdf)
 * [InsightMapper: A Closer Look at Inner-instance Information for Vectorized High-Definition Mapping](https://arxiv.org/pdf/2308.08543.pdf)[[Code]]() [[笔记]](https://zhuanlan.zhihu.com/p/650732045)
+* [StreamMapNet: Streaming Mapping Network for Vectorized Online HD Map Construction](https://arxiv.org/pdf/2308.12570.pdf)
 * HDmapNet VectorNetMap
 
 # Occupancy
@@ -44,7 +49,7 @@
 * [OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios](https://arxiv.org/pdf/2307.10934.pdf)
 
 # 矢量化
-* [PolyFormer Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387)
+* [PolyFormer Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387)[[阅读笔记]](https://zhuanlan.zhihu.com/p/650991896)
 
 
 # 多传感器融合
