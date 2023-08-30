@@ -10,7 +10,7 @@
 * [MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection](https://arxiv.org/pdf/2308.09421.pdf)
 * [Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction](https://arxiv.org/pdf/2304.00967.pdf)
 * [DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting](https://arxiv.org/pdf/2307.12972.pdf)
-
+* [EA-LSS: Edge-aware Lift-splat-shot Framework for 3D BEV Object Detection](https://arxiv.org/abs/2303.17895)
 
 # BEV分割
 * [Learning and Aggregating Lane Graphs for Urban Automated Driving](https://arxiv.org/abs/2302.06175) 
@@ -85,6 +85,8 @@
 # Simulation 
 * [UniSim: A Neural Closed-Loop Sensor Simulator](https://waabi.ai/wp-content/uploads/2023/05/UniSim-paper.pdf)
 * [Rethinking Closed-loop Training for Autonomous Driving](https://arxiv.org/pdf/2306.15713.pdf)
+* [Street-View Image Generation from a Bird’s-Eye View Layout]()
+* [BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout](https://arxiv.org/pdf/2308.01661.pdf)
 
 
 # Transformer
