@@ -12,11 +12,9 @@
 * [DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting](https://arxiv.org/pdf/2307.12972.pdf)
 * [EA-LSS: Edge-aware Lift-splat-shot Framework for 3D BEV Object Detection](https://arxiv.org/abs/2303.17895)
 
-# BEV分割
+# BEV分割 (LaneGraph)
 * [Learning and Aggregating Lane Graphs for Urban Automated Driving](https://arxiv.org/abs/2302.06175) 
 * [InstaGraM Instance-level Graph Modeling for Vectorized HD Map Learning](https://arxiv.org/abs/2301.04470)
-
-# LaneGraph
 * [(2021) Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images](https://arxiv.org/pdf/2110.01997.pdf)
 * [(2022) Topology Preserving Local Road Network Estimation from Single Onboard Camera Image](https://openaccess.thecvf.com/content/CVPR2022/papers/Can_Topology_Preserving_Local_Road_Network_Estimation_From_Single_Onboard_Camera_CVPR_2022_paper.pdf)
 * [(2022) Lane-Level Street Map Extraction from Aerial Imagery](https://openaccess.thecvf.com/content/WACV2022/papers/He_Lane-Level_Street_Map_Extraction_From_Aerial_Imagery_WACV_2022_paper.pdf)
@@ -33,7 +31,7 @@
 * [StreamMapNet: Streaming Mapping Network for Vectorized Online HD Map Construction](https://arxiv.org/pdf/2308.12570.pdf)
 * HDmapNet VectorNetMap
 
-# Occupancy
+# BEV Occupancy
 * [Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2302.07817.pdf) [[Code]](https://github.com/wzzheng/TPVFormer) [[笔记]](https://zhuanlan.zhihu.com/p/648813002)
 * [MonoScene Monocular 3D Semantic Scene Completion](https://arxiv.org/abs/2112.00726)
 * [OccDepth: A Depth-aware Method for 3D Semantic Occupancy Network](https://arxiv.org/abs/2302.13540)
@@ -85,8 +83,6 @@
 # Simulation 
 * [UniSim: A Neural Closed-Loop Sensor Simulator](https://waabi.ai/wp-content/uploads/2023/05/UniSim-paper.pdf)
 * [Rethinking Closed-loop Training for Autonomous Driving](https://arxiv.org/pdf/2306.15713.pdf)
-* [Street-View Image Generation from a Bird’s-Eye View Layout]()
-* [BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout](https://arxiv.org/pdf/2308.01661.pdf)
 
 
 # Transformer
@@ -108,3 +104,5 @@
 * [NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection](https://arxiv.org/pdf/2307.14620v1.pdf)
 * [Grid-guided Neural Radiance Fields for Large Urban Scenes](https://arxiv.org/pdf/2303.14001.pdf) [[Code]](https://github.com/InternLandMark/LandMark) [[阅读笔记]](https://zhuanlan.zhihu.com/p/647868981)
 * [Horizon Robotics: RoMe: Towards Large Scale Road Surface Reconstruction via Mesh Representation](https://arxiv.org/pdf/2306.11368.pdf)
+* [Street-View Image Generation from a Bird’s-Eye View Layout](https://arxiv.org/pdf/2301.04634.pdf)
+* [BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout](https://arxiv.org/pdf/2308.01661.pdf)

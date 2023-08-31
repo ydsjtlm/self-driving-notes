@@ -116,4 +116,4 @@
 * [Bird’s-Eye-View Scene Graph for Vision-Language Navigation](https://arxiv.org/pdf/2308.04758.pdf)
 * [Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation](https://arxiv.org/pdf/2308.07931.pdf)
 * [Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/pdf/2303.04803.pdf)
-
+* [SegPrompt: Boosting Open-world Segmentation via Category-level Prompt Learning](https://arxiv.org/pdf/2308.06531.pdf)
