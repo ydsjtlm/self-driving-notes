@@ -117,3 +117,6 @@
 * [Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation](https://arxiv.org/pdf/2308.07931.pdf)
 * [Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/pdf/2303.04803.pdf)
 * [SegPrompt: Boosting Open-world Segmentation via Category-level Prompt Learning](https://arxiv.org/pdf/2308.06531.pdf)
+* [Language Prompt for Autonomous Driving](https://arxiv.org/pdf/2309.04379.pdf)
+* [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/pdf/2309.05519.pdf)
+* [UniDoc: A Universal Large Multimodal Model for Simultaneous Text Detection, Recognition, Spotting and Understanding](https://arxiv.org/pdf/2308.11592.pdf)

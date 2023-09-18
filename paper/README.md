@@ -100,7 +100,7 @@
 * [Linking vision and motion for self-supervised object-centric perception](https://arxiv.org/pdf/2307.07147.pdf)
 
 # Nerf
-* [MapNeRF: Incorporating Map Priors into Neural Radiance Fields for Driving View Simulation](https://arxiv.org/pdf/2307.14981.pdf)
+* [MapNeRF: Incorporating Map Priors into Neural Radiance Fields for Driving View Simulation](https://arxiv.org/pdf/2307.14981.pdf)[[阅读笔记]](https://zhuanlan.zhihu.com/p/653414617)
 * [NeRF-Det: Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection](https://arxiv.org/pdf/2307.14620v1.pdf)
 * [Grid-guided Neural Radiance Fields for Large Urban Scenes](https://arxiv.org/pdf/2303.14001.pdf) [[Code]](https://github.com/InternLandMark/LandMark) [[阅读笔记]](https://zhuanlan.zhihu.com/p/647868981)
 * [Horizon Robotics: RoMe: Towards Large Scale Road Surface Reconstruction via Mesh Representation](https://arxiv.org/pdf/2306.11368.pdf)
