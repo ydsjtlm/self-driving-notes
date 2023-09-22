@@ -29,6 +29,7 @@
 * [MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction](https://arxiv.org/pdf/2308.05736v1.pdf)
 * [InsightMapper: A Closer Look at Inner-instance Information for Vectorized High-Definition Mapping](https://arxiv.org/pdf/2308.08543.pdf)[[Code]]() [[笔记]](https://zhuanlan.zhihu.com/p/650732045)
 * [StreamMapNet: Streaming Mapping Network for Vectorized Online HD Map Construction](https://arxiv.org/pdf/2308.12570.pdf)
+* [PivotNet: Vectorized Pivot Learning for End-to-end HD Map Construction](https://arxiv.org/pdf/2308.16477.pdf)
 * HDmapNet VectorNetMap
 
 # BEV Occupancy
@@ -46,6 +47,7 @@
 * [OVO: Open-Vocabulary Occupancy](https://arxiv.org/pdf/2305.16133.pdf)
 * [OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios](https://arxiv.org/pdf/2307.10934.pdf)
 * [RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision](https://arxiv.org/pdf/2309.09502.pdf)
+* [OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection](https://arxiv.org/pdf/2309.08504.pdf)
 
 
 # 矢量化
