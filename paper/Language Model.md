@@ -120,4 +120,7 @@
 * [Language Prompt for Autonomous Driving](https://arxiv.org/pdf/2309.04379.pdf)
 * [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/pdf/2309.05519.pdf)
 * [UniDoc: A Universal Large Multimodal Model for Simultaneous Text Detection, Recognition, Spotting and Understanding](https://arxiv.org/pdf/2308.11592.pdf)
-* [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/pdf/2309.09777.pdf)
+* [Code Llama: Open Foundation Models for Code](https://arxiv.org/pdf/2308.12950.pdf)
+* [LLM-GROUNDED VIDEO DIFFUSION MODELS](https://arxiv.org/pdf/2309.17444.pdf)
+* [GPT-DRIVER: LEARNING TO DRIVE WITH GPT](https://arxiv.org/pdf/2310.01415.pdf)
+* [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/pdf/2310.01412.pdf)

@@ -11,6 +11,8 @@
 * [Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction](https://arxiv.org/pdf/2304.00967.pdf)
 * [DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting](https://arxiv.org/pdf/2307.12972.pdf)
 * [EA-LSS: Edge-aware Lift-splat-shot Framework for 3D BEV Object Detection](https://arxiv.org/abs/2303.17895)
+* [Cross Modal Transformer: Towards Fast and Robust 3D Object Detection](https://arxiv.org/pdf/2301.01283.pdf)
+* [BEVHeight++: Toward Robust Visual Centric 3D Object Detection](https://arxiv.org/pdf/2309.16179.pdf)
 
 # BEV分割 (LaneGraph)
 * [Learning and Aggregating Lane Graphs for Urban Automated Driving](https://arxiv.org/abs/2302.06175) 
@@ -110,3 +112,23 @@
 * [Horizon Robotics: RoMe: Towards Large Scale Road Surface Reconstruction via Mesh Representation](https://arxiv.org/pdf/2306.11368.pdf)
 * [Street-View Image Generation from a Bird’s-Eye View Layout](https://arxiv.org/pdf/2301.04634.pdf)
 * [BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout](https://arxiv.org/pdf/2308.01661.pdf)
+* [A Vision-Centric Approach for Static Map Element Annotation](https://arxiv.org/pdf/2309.11754v1.pdf)
+
+# Diffusion
+* [License Plate Super-Resolution Using Diffusion Models](https://arxiv.org/pdf/2309.12506.pdf)
+* [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/pdf/2309.09777.pdf)
+* [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/pdf/2309.17080.pdf)
+* [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/pdf/2302.00111.pdf)
+* [Scaling Robot Learning with Semantically Imagined Experience](https://arxiv.org/pdf/2302.11550.pdf)
+* [Synthetic Experience Replay](https://openreview.net/pdf?id=0a9p3Ty2k_)
+* [Diffusion Model-Augmented Behavioral Cloning](https://arxiv.org/pdf/2302.13335.pdf)
+* [Planning with Diffusion for Flexible Behavior Synthesis](https://arxiv.org/pdf/2205.09991.pdf)
+* [Is Conditional Generative Modeling all you need for Decision-Making?](https://arxiv.org/pdf/2211.15657.pdf)
+* [Imitating Human Behaviour with Diffusion Models](https://arxiv.org/pdf/2301.10677.pdf)
+* [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://arxiv.org/pdf/2208.06193.pdf)
+* [Efficient Diffusion Policies for Offline Reinforcement Learning](https://arxiv.org/pdf/2305.20081.pdf)
+* [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/pdf/2303.04137.pdf)
+* [Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning](https://arxiv.org/pdf/2307.01849.pdf)
+
+
+
