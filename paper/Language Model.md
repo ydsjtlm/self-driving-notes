@@ -124,3 +124,4 @@
 * [LLM-GROUNDED VIDEO DIFFUSION MODELS](https://arxiv.org/pdf/2309.17444.pdf)
 * [GPT-DRIVER: LEARNING TO DRIVE WITH GPT](https://arxiv.org/pdf/2310.01415.pdf)
 * [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/pdf/2310.01412.pdf)
+* [Driving with LLMs Fusing Object-Level Vector Modality for Explainable Autonomous Driving](https://arxiv.org/pdf/2310.01957v1.pdf)
