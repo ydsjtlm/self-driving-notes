@@ -122,7 +122,7 @@
 * [UniDoc: A Universal Large Multimodal Model for Simultaneous Text Detection, Recognition, Spotting and Understanding](https://arxiv.org/pdf/2308.11592.pdf)
 * [Code Llama: Open Foundation Models for Code](https://arxiv.org/pdf/2308.12950.pdf)
 * [LLM-GROUNDED VIDEO DIFFUSION MODELS](https://arxiv.org/pdf/2309.17444.pdf)
-* [GPT-DRIVER: LEARNING TO DRIVE WITH GPT](https://arxiv.org/pdf/2310.01415.pdf)
+* [GPT-DRIVER: LEARNING TO DRIVE WITH GPT](https://arxiv.org/pdf/2310.01415.pdf)[[阅读笔记]](https://zhuanlan.zhihu.com/p/660803092)
 * [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/pdf/2310.01412.pdf)
 * [Driving with LLMs Fusing Object-Level Vector Modality for Explainable Autonomous Driving](https://arxiv.org/pdf/2310.01957v1.pdf)
 * [Siamese Masked Autoencoders](https://siam-mae-video.github.io/resources/paper.pdf)
