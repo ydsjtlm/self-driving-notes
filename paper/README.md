@@ -13,6 +13,7 @@
 * [EA-LSS: Edge-aware Lift-splat-shot Framework for 3D BEV Object Detection](https://arxiv.org/abs/2303.17895)
 * [Cross Modal Transformer: Towards Fast and Robust 3D Object Detection](https://arxiv.org/pdf/2301.01283.pdf)
 * [BEVHeight++: Toward Robust Visual Centric 3D Object Detection](https://arxiv.org/pdf/2309.16179.pdf)
+* [DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation](https://browse.arxiv.org/pdf/2309.15109.pdf)
 
 # BEV分割 (LaneGraph)
 * [Learning and Aggregating Lane Graphs for Urban Automated Driving](https://arxiv.org/abs/2302.06175) 
@@ -32,6 +33,7 @@
 * [InsightMapper: A Closer Look at Inner-instance Information for Vectorized High-Definition Mapping](https://arxiv.org/pdf/2308.08543.pdf)[[Code]]() [[笔记]](https://zhuanlan.zhihu.com/p/650732045)
 * [StreamMapNet: Streaming Mapping Network for Vectorized Online HD Map Construction](https://arxiv.org/pdf/2308.12570.pdf)
 * [PivotNet: Vectorized Pivot Learning for End-to-end HD Map Construction](https://arxiv.org/pdf/2308.16477.pdf)
+* [TopoMLP An Simple yet Strong Pipeline for Driving Topology Reasoning](https://arxiv.org/pdf/2310.06753.pdf)
 * HDmapNet VectorNetMap
 
 # BEV Occupancy

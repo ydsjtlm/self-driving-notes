@@ -111,7 +111,7 @@
 * [A Comprehensive Survey on Pretrained Foundation Models A History from BERT to ChatGPT](https://arxiv.org/pdf/2302.09419.pdf)
 * [Large Language Models Can Self-Improve](https://arxiv.org/pdf/2210.11610.pdf)
 
-*[MovieChat From Dense Token to Sparse Memory for Long Video Understanding](https://arxiv.org/pdf/2307.16449.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/636854782)
+* [MovieChat From Dense Token to Sparse Memory for Long Video Understanding](https://arxiv.org/pdf/2307.16449.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/636854782)
 
 * [Bird’s-Eye-View Scene Graph for Vision-Language Navigation](https://arxiv.org/pdf/2308.04758.pdf)
 * [Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation](https://arxiv.org/pdf/2308.07931.pdf)
@@ -125,3 +125,5 @@
 * [GPT-DRIVER: LEARNING TO DRIVE WITH GPT](https://arxiv.org/pdf/2310.01415.pdf)
 * [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/pdf/2310.01412.pdf)
 * [Driving with LLMs Fusing Object-Level Vector Modality for Explainable Autonomous Driving](https://arxiv.org/pdf/2310.01957v1.pdf)
+* [Siamese Masked Autoencoders](https://siam-mae-video.github.io/resources/paper.pdf)
+* [MINIGPT-5: INTERLEAVED VISION-AND-LANGUAGE GENERATION VIA GENERATIVE VOKENS](https://browse.arxiv.org/pdf/2310.02239v1.pdf)
