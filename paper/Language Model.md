@@ -75,6 +75,8 @@
 * [☆] [LoRA Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/646629579)
 * [☆] [AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn](https://arxiv.org/pdf/2306.08640.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/646689611)
 * [☆] [HuggingGPT Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/pdf/2303.17580.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/646689611)
+* [☆] [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/pdf/2309.05519.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/661419123)
+* [☆] [MINIGPT-5: INTERLEAVED VISION-AND-LANGUAGE GENERATION VIA GENERATIVE VOKENS](https://browse.arxiv.org/pdf/2310.02239v1.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/661419123)
 
 
 * [CLIP分割：Language-driven Semantic Segmentation](https://arxiv.org/pdf/2201.03546.pdf)
@@ -118,7 +120,7 @@
 * [Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/pdf/2303.04803.pdf)
 * [SegPrompt: Boosting Open-world Segmentation via Category-level Prompt Learning](https://arxiv.org/pdf/2308.06531.pdf)
 * [Language Prompt for Autonomous Driving](https://arxiv.org/pdf/2309.04379.pdf)
-* [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/pdf/2309.05519.pdf)
+
 * [UniDoc: A Universal Large Multimodal Model for Simultaneous Text Detection, Recognition, Spotting and Understanding](https://arxiv.org/pdf/2308.11592.pdf)
 * [Code Llama: Open Foundation Models for Code](https://arxiv.org/pdf/2308.12950.pdf)
 * [LLM-GROUNDED VIDEO DIFFUSION MODELS](https://arxiv.org/pdf/2309.17444.pdf)
@@ -127,4 +129,4 @@
 * [ADAPT: Action-aware Driving Caption Transformer](https://arxiv.org/pdf/2302.00673.pdf)
 * [Driving with LLMs Fusing Object-Level Vector Modality for Explainable Autonomous Driving](https://arxiv.org/pdf/2310.01957v1.pdf)
 * [Siamese Masked Autoencoders](https://siam-mae-video.github.io/resources/paper.pdf)
-* [MINIGPT-5: INTERLEAVED VISION-AND-LANGUAGE GENERATION VIA GENERATIVE VOKENS](https://browse.arxiv.org/pdf/2310.02239v1.pdf)
+
