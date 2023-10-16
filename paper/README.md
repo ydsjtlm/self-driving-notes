@@ -69,18 +69,6 @@
 * [MotionTrack: End-to-End Transformer-based Multi-Object Tracing with LiDAR-Camera Fusion](https://arxiv.org/pdf/2306.17000.pdf)
 
 
-# End-to-End
-* [Github: End-to-end Autonomous Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)
-* [POLICY PRE-TRAINING FOR AUTONOMOUS DRIVING VIA SELF-SUPERVISED GEOMETRIC MODELING](https://arxiv.org/pdf/2301.01006.pdf)
-* [World Models](https://arxiv.org/abs/1803.10122)
-* [SafetyNet: Safe planning for real-world self-driving vehicles using machine-learned policies](https://arxiv.org/pdf/2109.13602.pdf)
-* [Goal-oriented Autonomous Driving](https://github.com/OpenDriveLab/UniAD)
-* [综述: End-to-end Autonomous Driving: Challenges and Frontiers](https://arxiv.org/pdf/2306.16927.pdf)[[阅读笔记]](https://zhuanlan.zhihu.com/p/645591804/edit)
-* [综述: Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey](https://arxiv.org/pdf/2307.04370.pdf)
-* [DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving](https://arxiv.org/pdf/2308.00398.pdf)
-* [FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving](https://arxiv.org/pdf/2308.01006.pdf) [[Code]](https://github.com/westlake-autolab/FusionAD)
-* [Interpretable End-to-End Driving Model for Implicit Scene Understanding](https://arxiv.org/pdf/2308.01180.pdf)
-
 # Prediction
 * [Motion Transformer with Global Intention Localization and Local Movement Refinement](https://arxiv.org/pdf/2209.13508.pdf)
 
@@ -131,6 +119,29 @@
 * [Efficient Diffusion Policies for Offline Reinforcement Learning](https://arxiv.org/pdf/2305.20081.pdf)
 * [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/pdf/2303.04137.pdf)
 * [Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning](https://arxiv.org/pdf/2307.01849.pdf)
+
+
+
+# End-to-End
+* [Github: End-to-end Autonomous Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)
+* [POLICY PRE-TRAINING FOR AUTONOMOUS DRIVING VIA SELF-SUPERVISED GEOMETRIC MODELING](https://arxiv.org/pdf/2301.01006.pdf)
+* [World Models](https://arxiv.org/abs/1803.10122)
+* [SafetyNet: Safe planning for real-world self-driving vehicles using machine-learned policies](https://arxiv.org/pdf/2109.13602.pdf)
+* [Goal-oriented Autonomous Driving](https://github.com/OpenDriveLab/UniAD)
+* [综述: End-to-end Autonomous Driving: Challenges and Frontiers](https://arxiv.org/pdf/2306.16927.pdf)[[阅读笔记]](https://zhuanlan.zhihu.com/p/645591804/edit)
+* [综述: Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey](https://arxiv.org/pdf/2307.04370.pdf)
+* [DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving](https://arxiv.org/pdf/2308.00398.pdf)
+* [FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving](https://arxiv.org/pdf/2308.01006.pdf) [[Code]](https://github.com/westlake-autolab/FusionAD)
+* [Interpretable End-to-End Driving Model for Implicit Scene Understanding](https://arxiv.org/pdf/2308.01180.pdf)
+* [GPT-DRIVER: LEARNING TO DRIVE WITH GPT](https://arxiv.org/pdf/2310.01415.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/660803092)
+* [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/pdf/2310.01412.pdf)
+* [ADAPT: Action-aware Driving Caption Transformer](https://arxiv.org/pdf/2302.00673.pdf)
+* [Driving with LLMs Fusing Object-Level Vector Modality for Explainable Autonomous Driving](https://arxiv.org/pdf/2310.01957v1.pdf)
+* [Language Prompt for Autonomous Driving](https://arxiv.org/pdf/2309.04379.pdf)
+
+# Uclassified
+* [Bird’s-Eye-View Scene Graph for Vision-Language Navigation](https://arxiv.org/pdf/2308.04758.pdf) [【阅读笔记】](?)
+
 
 
 
