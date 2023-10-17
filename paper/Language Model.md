@@ -115,11 +115,14 @@
 
 * [MovieChat From Dense Token to Sparse Memory for Long Video Understanding](https://arxiv.org/pdf/2307.16449.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)
 * [LLM-GROUNDED VIDEO DIFFUSION MODELS](https://arxiv.org/pdf/2309.17444.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/661443505)
+* [Code Llama: Open Foundation Models for Code](https://arxiv.org/pdf/2308.12950.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/661685730)
+* [Siamese Masked Autoencoders](https://siam-mae-video.github.io/resources/paper.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/661683294)
+* [MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning](https://arxiv.org/pdf/2310.09478.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/661892549)
 
 * [Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation](https://arxiv.org/pdf/2308.07931.pdf)
 * [Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/pdf/2303.04803.pdf)
 * [SegPrompt: Boosting Open-world Segmentation via Category-level Prompt Learning](https://arxiv.org/pdf/2308.06531.pdf)
 * [UniDoc: A Universal Large Multimodal Model for Simultaneous Text Detection, Recognition, Spotting and Understanding](https://arxiv.org/pdf/2308.11592.pdf)
-* [Code Llama: Open Foundation Models for Code](https://arxiv.org/pdf/2308.12950.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/661685730)
-* [Siamese Masked Autoencoders](https://siam-mae-video.github.io/resources/paper.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/661683294)
+
+* [Beyond Segmentation: Road Network Generation with Multi-Modal LLMs](https://arxiv.org/pdf/2310.09755.pdf)
 

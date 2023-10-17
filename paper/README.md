@@ -119,6 +119,7 @@
 * [Efficient Diffusion Policies for Offline Reinforcement Learning](https://arxiv.org/pdf/2305.20081.pdf)
 * [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/pdf/2303.04137.pdf)
 * [Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning](https://arxiv.org/pdf/2307.01849.pdf)
+* [A Survey on Video Diffusion Models](https://arxiv.org/pdf/2310.10647.pdf)
 
 
 
@@ -141,6 +142,8 @@
 
 # Uclassified
 * [Bird’s-Eye-View Scene Graph for Vision-Language Navigation](https://arxiv.org/pdf/2308.04758.pdf) [【阅读笔记】](?)
+* [Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research](https://arxiv.org/pdf/2310.08710v1.pdf)
+
 
 
 
