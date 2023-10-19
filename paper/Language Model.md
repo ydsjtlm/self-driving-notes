@@ -124,5 +124,6 @@
 * [SegPrompt: Boosting Open-world Segmentation via Category-level Prompt Learning](https://arxiv.org/pdf/2308.06531.pdf)
 * [UniDoc: A Universal Large Multimodal Model for Simultaneous Text Detection, Recognition, Spotting and Understanding](https://arxiv.org/pdf/2308.11592.pdf)
 
-* [Beyond Segmentation: Road Network Generation with Multi-Modal LLMs](https://arxiv.org/pdf/2310.09755.pdf)
+* [#Beyond Segmentation: Road Network Generation with Multi-Modal LLMs](https://arxiv.org/pdf/2310.09755.pdf)
+* [LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/pdf/2308.00692.pdf)
 
