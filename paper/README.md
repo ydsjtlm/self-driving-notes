@@ -14,6 +14,12 @@
 * [Cross Modal Transformer: Towards Fast and Robust 3D Object Detection](https://arxiv.org/pdf/2301.01283.pdf)
 * [BEVHeight++: Toward Robust Visual Centric 3D Object Detection](https://arxiv.org/pdf/2309.16179.pdf)
 * [DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation](https://browse.arxiv.org/pdf/2309.15109.pdf)
+* [DynamicBEV: Leveraging Dynamic Queries and Temporal Context for 3D Object Detection.](https://openreview.net/pdf?id=rljudc4XHW)
+* [Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection](https://arxiv.org/pdf/2310.15670.pdf)
+* [BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo](https://arxiv.org/pdf/2209.10248.pdf)
+* [SOLOFusion Time Will Tell New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection](https://arxiv.org/pdf/2210.02443.pdf)
+* [VideoBEV_Exploring Recurrent Long-term Temporal Fusion for Multi-view 3D Perception](https://arxiv.org/pdf/2303.05970.pdf)
+
 
 # BEV分割 (LaneGraph)
 * [Learning and Aggregating Lane Graphs for Urban Automated Driving](https://arxiv.org/abs/2302.06175) 
@@ -121,6 +127,7 @@
 * [Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning](https://arxiv.org/pdf/2307.01849.pdf)
 * [A Survey on Video Diffusion Models](https://arxiv.org/pdf/2310.10647.pdf)
 * [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/pdf/2310.02601.pdf)
+* [DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model](https://arxiv.org/pdf/2310.07771.pdf)
 
 
 
@@ -145,7 +152,7 @@
 * [Bird’s-Eye-View Scene Graph for Vision-Language Navigation](https://arxiv.org/pdf/2308.04758.pdf) [【阅读笔记】](?)
 * [Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research](https://arxiv.org/pdf/2310.08710v1.pdf)
 * [BEVGPT: Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning](https://arxiv.org/pdf/2310.10357.pdf)
-
+* [UniPAD: A Universal Pre-training Paradigm for Autonomous Driving](https://arxiv.org/pdf/2310.08370.pdf)
 
 
 
