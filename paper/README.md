@@ -40,6 +40,8 @@
 * [StreamMapNet: Streaming Mapping Network for Vectorized Online HD Map Construction](https://arxiv.org/pdf/2308.12570.pdf)
 * [PivotNet: Vectorized Pivot Learning for End-to-end HD Map Construction](https://arxiv.org/pdf/2308.16477.pdf)
 * [TopoMLP An Simple yet Strong Pipeline for Driving Topology Reasoning](https://arxiv.org/pdf/2310.06753.pdf)
+* [ScalableMap: Scalable Map Learning for Online Long-Range Vectorized HD Map Construction](https://arxiv.org/pdf/2310.13378.pdf)
+* [TOPO: Augmenting Lane Perception and Topology Understanding with Standard Definition Navigation Maps](https://arxiv.org/pdf/2311.04079.pdf)
 * HDmapNet VectorNetMap
 
 # BEV Occupancy
@@ -77,6 +79,9 @@
 
 # Prediction
 * [Motion Transformer with Global Intention Localization and Local Movement Refinement](https://arxiv.org/pdf/2209.13508.pdf)
+
+# Localization
+* [U-BEV: Height-aware Bird's-Eye-View Segmentation and Neural Map-based Relocalization](https://arxiv.org/pdf/2310.13766.pdf)
 
 
 # Calibration
@@ -143,6 +148,10 @@
 * [FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving](https://arxiv.org/pdf/2308.01006.pdf) [[Code]](https://github.com/westlake-autolab/FusionAD)
 * [Interpretable End-to-End Driving Model for Implicit Scene Understanding](https://arxiv.org/pdf/2308.01180.pdf)
 * [GPT-DRIVER: LEARNING TO DRIVE WITH GPT](https://arxiv.org/pdf/2310.01415.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/660803092)
+
+# LLM and AD
+* [A Survey of Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2311.01043.pdf) 
+* [https://github.com/Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)
 * [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/pdf/2310.01412.pdf)
 * [ADAPT: Action-aware Driving Caption Transformer](https://arxiv.org/pdf/2302.00673.pdf)
 * [Driving with LLMs Fusing Object-Level Vector Modality for Explainable Autonomous Driving](https://arxiv.org/pdf/2310.01957v1.pdf)
@@ -153,6 +162,7 @@
 * [Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research](https://arxiv.org/pdf/2310.08710v1.pdf)
 * [BEVGPT: Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning](https://arxiv.org/pdf/2310.10357.pdf)
 * [UniPAD: A Universal Pre-training Paradigm for Autonomous Driving](https://arxiv.org/pdf/2310.08370.pdf)
+* [A Practical Large-Scale Roadside Multi-View Multi-Sensor Spatial Synchronization Framework for Intelligent Transportation Systems](https://arxiv.org/pdf/2311.04231.pdf)
 
 
 
