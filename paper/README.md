@@ -19,6 +19,7 @@
 * [BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo](https://arxiv.org/pdf/2209.10248.pdf)
 * [SOLOFusion Time Will Tell New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection](https://arxiv.org/pdf/2210.02443.pdf)
 * [VideoBEV_Exploring Recurrent Long-term Temporal Fusion for Multi-view 3D Perception](https://arxiv.org/pdf/2303.05970.pdf)
+* [Long Range: Far3D: Expanding the Horizon for Surround-view 3D Object Detection](https://arxiv.org/pdf/2308.09616.pdf)
 
 
 # BEV分割 (LaneGraph)
@@ -39,10 +40,12 @@
 * [InsightMapper: A Closer Look at Inner-instance Information for Vectorized High-Definition Mapping](https://arxiv.org/pdf/2308.08543.pdf)[[Code]]() [[笔记]](https://zhuanlan.zhihu.com/p/650732045)
 * [StreamMapNet: Streaming Mapping Network for Vectorized Online HD Map Construction](https://arxiv.org/pdf/2308.12570.pdf)
 * [PivotNet: Vectorized Pivot Learning for End-to-end HD Map Construction](https://arxiv.org/pdf/2308.16477.pdf)
-* [TopoMLP An Simple yet Strong Pipeline for Driving Topology Reasoning](https://arxiv.org/pdf/2310.06753.pdf)
+* [MLP An Simple yet Strong Pipeline for Driving Topology Reasoning](https://arxiv.org/pdf/2310.06753.pdf)
 * [ScalableMap: Scalable Map Learning for Online Long-Range Vectorized HD Map Construction](https://arxiv.org/pdf/2310.13378.pdf)
-* [TOPO: Augmenting Lane Perception and Topology Understanding with Standard Definition Navigation Maps](https://arxiv.org/pdf/2311.04079.pdf)
-* HDmapNet VectorNetMap
+* [Augmenting Lane Perception and Topology Understanding with Standard Definition Navigation Maps](https://arxiv.org/pdf/2311.04079.pdf)
+* [Graph-based Topology Reasoning for Driving Scenes](https://arxiv.org/pdf/2304.05277.pdf)
+* [Separated RoadTopoFormer](https://arxiv.org/pdf/2307.01557.pdf)
+
 
 # BEV Occupancy
 * [Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2302.07817.pdf) [[Code]](https://github.com/wzzheng/TPVFormer) [[笔记]](https://zhuanlan.zhihu.com/p/648813002)
@@ -75,6 +78,7 @@
 * [MOTR: End-to-End Multiple-Object Tracking with TRansformer](https://github.com/megvii-research/MOTR)
 * [MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries](https://tsinghua-mars-lab.github.io/mutr3d/)
 * [MotionTrack: End-to-End Transformer-based Multi-Object Tracing with LiDAR-Camera Fusion](https://arxiv.org/pdf/2306.17000.pdf)
+* [3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking](https://arxiv.org/pdf/2308.06635.pdf)
 
 
 # Prediction
@@ -156,6 +160,8 @@
 * [ADAPT: Action-aware Driving Caption Transformer](https://arxiv.org/pdf/2302.00673.pdf)
 * [Driving with LLMs Fusing Object-Level Vector Modality for Explainable Autonomous Driving](https://arxiv.org/pdf/2310.01957v1.pdf)
 * [Language Prompt for Autonomous Driving](https://arxiv.org/pdf/2309.04379.pdf)
+* [On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving](https://arxiv.org/pdf/2311.05332.pdf)
+* [Vision Language Models in Autonomous Driving and Intelligent Transportation Systems](https://arxiv.org/pdf/2310.14414.pdf)
 
 # Uclassified
 * [Bird’s-Eye-View Scene Graph for Vision-Language Navigation](https://arxiv.org/pdf/2308.04758.pdf) [【阅读笔记】](?)

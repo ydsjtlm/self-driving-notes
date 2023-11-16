@@ -130,4 +130,5 @@
 * [Multi-modal Queried Object Detection in the Wild](https://arxiv.org/abs/2305.18980)
 * [An Early Evaluation of GPT-4V(ision)](https://arxiv.org/pdf/2310.16534.pdf)
 * [Video Language Planning](https://arxiv.org/pdf/2310.10625.pdf)
-
+* [Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding](https://arxiv.org/pdf/2311.08046.pdf)
+* [Frozen Transformers in Language Models Are Effective Visual Encoder Layers](https://arxiv.org/pdf/2310.12973.pdf)
