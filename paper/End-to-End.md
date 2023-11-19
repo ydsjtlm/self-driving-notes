@@ -5,11 +5,19 @@
 * [POLICY PRE-TRAINING FOR AUTONOMOUS DRIVING VIA SELF-SUPERVISED GEOMETRIC MODELING](https://arxiv.org/pdf/2301.01006.pdf)
 * [World Models](https://arxiv.org/abs/1803.10122)
 * [SafetyNet: Safe planning for real-world self-driving vehicles using machine-learned policies](https://arxiv.org/pdf/2109.13602.pdf)
-* [Goal-oriented Autonomous Driving](https://github.com/OpenDriveLab/UniAD)
+* [UniAD: Goal-oriented Autonomous Driving](https://github.com/OpenDriveLab/UniAD)
 * [DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving](https://arxiv.org/pdf/2308.00398.pdf)
 * [FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving](https://arxiv.org/pdf/2308.01006.pdf) [[Code]](https://github.com/westlake-autolab/FusionAD)
 * [Interpretable End-to-End Driving Model for Implicit Scene Understanding](https://arxiv.org/pdf/2308.01180.pdf)
 * [GPT-DRIVER: LEARNING TO DRIVE WITH GPT](https://arxiv.org/pdf/2310.01415.pdf) [[阅读笔记]](https://zhuanlan.zhihu.com/p/660803092)
+* [Perceive, Interact, Predict: Learning Dynamic and Static Clues for End-to-End Motion Prediction](https://arxiv.org/pdf/2212.02181.pdf)
+* [VAD Vectorized Scene Representation for Efficient Autonomous Driving](https://arxiv.org/pdf/2303.12077.pdf)
+* [ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries](https://arxiv.org/pdf/2208.01582.pdf)
+* [MMFN: Multi-Modal-Fusion-Net for End-to-End Driving](https://arxiv.org/pdf/2207.00186.pdf)
+* [Exploring Navigation Maps for Learning-Based Motion Prediction](https://arxiv.org/pdf/2302.06195.pdf)
+* [ST-P3 End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning](https://arxiv.org/pdf/2207.07601.pdf)
+* [MP3: A Unified Model to Map, Perceive, Predict and Plan](https://arxiv.org/pdf/2101.06806.pdf)
+
 
 # LLM and AD
 * [A Survey of Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2311.01043.pdf) 
