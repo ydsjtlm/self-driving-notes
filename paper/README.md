@@ -4,7 +4,7 @@
 * [MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception](https://arxiv.org/abs/2211.10593)
 * [BEV-IO: Enhancing Bird’s-Eye-View 3D Detection with Instance Occupancy](https://arxiv.org/pdf/2305.16829.pdf)
 * [PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images](https://arxiv.org/pdf/2206.01256.pdf)
-* [Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection](https://arxiv.org/pdf/2303.11926.pdf)
+* [StreamPetr: Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection](https://arxiv.org/pdf/2303.11926.pdf)
 * [OCBEV Object-Centric BEV Transformer for Multi-View 3D Object Detection](https://arxiv.org/pdf/2306.01738.pdf)
 * [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/pdf/2308.09244.pdf)
 * [MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection](https://arxiv.org/pdf/2308.09421.pdf)
@@ -20,6 +20,8 @@
 * [SOLOFusion Time Will Tell New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection](https://arxiv.org/pdf/2210.02443.pdf)
 * [VideoBEV_Exploring Recurrent Long-term Temporal Fusion for Multi-view 3D Perception](https://arxiv.org/pdf/2303.05970.pdf)
 * [Long Range: Far3D: Expanding the Horizon for Surround-view 3D Object Detection](https://arxiv.org/pdf/2308.09616.pdf)
+* [Sparse4D: Multi-view 3D Object Detection with Sparse Spatial-Temporal Fusion](https://arxiv.org/pdf/2211.10581.pdf)
+* [Sparse4D v2: Recurrent Temporal Fusion with Sparse Model](https://arxiv.org/pdf/2305.14018.pdf)
 
 
 # BEV分割 (LaneGraph)
