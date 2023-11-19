@@ -63,6 +63,7 @@
 * [OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios](https://arxiv.org/pdf/2307.10934.pdf)
 * [RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision](https://arxiv.org/pdf/2309.09502.pdf)
 * [OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection](https://arxiv.org/pdf/2309.08504.pdf)
+* [LiDAR-based 4D Occupancy Completion and Forecasting](https://arxiv.org/pdf/2310.11239.pdf)
 
 
 # 矢量化
