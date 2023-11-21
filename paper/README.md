@@ -47,6 +47,7 @@
 * [Augmenting Lane Perception and Topology Understanding with Standard Definition Navigation Maps](https://arxiv.org/pdf/2311.04079.pdf)
 * [Graph-based Topology Reasoning for Driving Scenes](https://arxiv.org/pdf/2304.05277.pdf)
 * [Separated RoadTopoFormer](https://arxiv.org/pdf/2307.01557.pdf)
+* [Mind the map! Accounting for existing map information when estimating online HDMaps from sensor data](https://arxiv.org/pdf/2311.10517.pdf)
 
 
 # BEV Occupancy
@@ -141,7 +142,9 @@
 * [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/pdf/2310.02601.pdf)
 * [DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model](https://arxiv.org/pdf/2310.07771.pdf)
 
-
-
+# CV
+* [Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation](https://arxiv.org/pdf/2206.02777.pdf)
+* [Segment Everything Everywhere All at Once](https://arxiv.org/pdf/2304.06718.pdf)
+* [Multi-modal Queried Object Detection in the Wild](https://arxiv.org/abs/2305.18980)
 
 
