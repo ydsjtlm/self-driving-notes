@@ -33,7 +33,7 @@
 * [BEVGPT: Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning](https://arxiv.org/pdf/2310.10357.pdf)
 * [UniPAD: A Universal Pre-training Paradigm for Autonomous Driving](https://arxiv.org/pdf/2310.08370.pdf)
 * [A Practical Large-Scale Roadside Multi-View Multi-Sensor Spatial Synchronization Framework for Intelligent Transportation Systems](https://arxiv.org/pdf/2311.04231.pdf)
-
+* [A Language Agent for Autonomous Driving](https://arxiv.org/pdf/2311.10813.pdf)
 
 
 
