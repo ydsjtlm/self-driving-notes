@@ -67,6 +67,7 @@
 * [RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision](https://arxiv.org/pdf/2309.09502.pdf)
 * [OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection](https://arxiv.org/pdf/2309.08504.pdf)
 * [LiDAR-based 4D Occupancy Completion and Forecasting](https://arxiv.org/pdf/2310.11239.pdf)
+* [SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction](https://arxiv.org/pdf/2311.12754.pdf)
 
 
 # 矢量化
