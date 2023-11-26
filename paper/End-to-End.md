@@ -34,6 +34,7 @@
 * [UniPAD: A Universal Pre-training Paradigm for Autonomous Driving](https://arxiv.org/pdf/2310.08370.pdf)
 * [A Practical Large-Scale Roadside Multi-View Multi-Sensor Spatial Synchronization Framework for Intelligent Transportation Systems](https://arxiv.org/pdf/2311.04231.pdf)
 * [A Language Agent for Autonomous Driving](https://arxiv.org/pdf/2311.10813.pdf)
+* [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/pdf/2311.13549.pdf)
 
 
 

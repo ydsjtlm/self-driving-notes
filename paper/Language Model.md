@@ -126,10 +126,15 @@
 * [LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/pdf/2308.00692.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/667646754)
 * [Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://arxiv.org/pdf/2310.11441.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/667651095)
 * [UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized Multimodal Framework](https://arxiv.org/pdf/2311.10125.pdf) [【阅读笔记】](NoMore) 
+* [Towards Open-Ended Visual Recognition with Large Language Model](https://arxiv.org/pdf/2311.08400.pdf) [【阅读笔记】]
+* [ShareGPT4V: Improving Large Multi-Modal Models with Better Captions](https://arxiv.org/pdf/2311.12793.pdf) [【阅读笔记】]
+
 
 * [An Early Evaluation of GPT-4V(ision)](https://arxiv.org/pdf/2310.16534.pdf)
 * [Video Language Planning](https://arxiv.org/pdf/2310.10625.pdf)
 * [Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding](https://arxiv.org/pdf/2311.08046.pdf)
 * [Frozen Transformers in Language Models Are Effective Visual Encoder Layers](https://arxiv.org/pdf/2310.12973.pdf)
-* [Towards Open-Ended Visual Recognition with Large Language Model](https://arxiv.org/pdf/2311.08400.pdf)
-* [ShareGPT4V: Improving Large Multi-Modal Models with Better Captions](https://arxiv.org/pdf/2311.12793.pdf)
+* [Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks](https://arxiv.org/pdf/2311.06242.pdf)
+* [PG-Video-LLaVA: Pixel Grounding Large Video-Language Models](https://arxiv.org/pdf/2311.13435.pdf)
+* [An Embodied Generalist Agent in 3D World](https://arxiv.org/pdf/2311.12871.pdf)
+* [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/pdf/2305.17493.pdf)
