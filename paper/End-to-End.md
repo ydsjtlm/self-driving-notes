@@ -21,6 +21,7 @@
 
 # LLM and AD
 * [A Survey of Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2311.01043.pdf) 
+* [A Survey on Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2311.12320.pdf)
 * [https://github.com/Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)
 * [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/pdf/2310.01412.pdf)
 * [ADAPT: Action-aware Driving Caption Transformer](https://arxiv.org/pdf/2302.00673.pdf)
@@ -35,6 +36,7 @@
 * [A Practical Large-Scale Roadside Multi-View Multi-Sensor Spatial Synchronization Framework for Intelligent Transportation Systems](https://arxiv.org/pdf/2311.04231.pdf)
 * [A Language Agent for Autonomous Driving](https://arxiv.org/pdf/2311.10813.pdf)
 * [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/pdf/2311.13549.pdf)
+* [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/pdf/2311.16813.pdf)
 
 
 

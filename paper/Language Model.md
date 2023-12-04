@@ -47,6 +47,7 @@
 * [☆] [KOSMOS-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/pdf/2306.14824.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/631396292)
 * [☆] [LLaVA: Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636584622)
 * [☆] [Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models](https://arxiv.org/pdf/2306.05424.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636584622)
+* [☆] [PG-Video-LLaVA: Pixel Grounding Large Video-Language Models](https://arxiv.org/pdf/2311.13435.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/636584622)
 * [☆] [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/pdf/2306.02858.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)  
 * [☆] [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/pdf/2304.10592.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)  
 * [☆] [BLIP2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf)[【阅读笔记】](https://zhuanlan.zhihu.com/p/636854782)    [[Code]](https://github.com/salesforce/LAVIS)
@@ -126,15 +127,17 @@
 * [LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/pdf/2308.00692.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/667646754)
 * [Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://arxiv.org/pdf/2310.11441.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/667651095)
 * [UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized Multimodal Framework](https://arxiv.org/pdf/2311.10125.pdf) [【阅读笔记】](NoMore) 
-* [Towards Open-Ended Visual Recognition with Large Language Model](https://arxiv.org/pdf/2311.08400.pdf) [【阅读笔记】]
-* [ShareGPT4V: Improving Large Multi-Modal Models with Better Captions](https://arxiv.org/pdf/2311.12793.pdf) [【阅读笔记】]
+* [Towards Open-Ended Visual Recognition with Large Language Model](https://arxiv.org/pdf/2311.08400.pdf) [【阅读笔记】]()
+* [ShareGPT4V: Improving Large Multi-Modal Models with Better Captions](https://arxiv.org/pdf/2311.12793.pdf) [【阅读笔记】]()
+* [An Embodied Generalist Agent in 3D World](https://arxiv.org/pdf/2311.12871.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/668856211)
+* [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/pdf/2305.17493.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/668869579)
+* [Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks](https://arxiv.org/pdf/2311.06242.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/668875847)
 
 
 * [An Early Evaluation of GPT-4V(ision)](https://arxiv.org/pdf/2310.16534.pdf)
 * [Video Language Planning](https://arxiv.org/pdf/2310.10625.pdf)
 * [Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding](https://arxiv.org/pdf/2311.08046.pdf)
 * [Frozen Transformers in Language Models Are Effective Visual Encoder Layers](https://arxiv.org/pdf/2310.12973.pdf)
-* [Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks](https://arxiv.org/pdf/2311.06242.pdf)
-* [PG-Video-LLaVA: Pixel Grounding Large Video-Language Models](https://arxiv.org/pdf/2311.13435.pdf)
-* [An Embodied Generalist Agent in 3D World](https://arxiv.org/pdf/2311.12871.pdf)
-* [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/pdf/2305.17493.pdf)
+* [On Efficient Training of Large-Scale Deep Learning Models: A Literature Review](https://arxiv.org/pdf/2304.03589.pdf)
+* [GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation](https://arxiv.org/pdf/2311.16511.pdf)
+* [Sequential Modeling Enables Scalable Learning for Large Vision Models](https://arxiv.org/pdf/2312.00785.pdf)

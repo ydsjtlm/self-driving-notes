@@ -23,6 +23,7 @@
 * [Sparse4D: Multi-view 3D Object Detection with Sparse Spatial-Temporal Fusion](https://arxiv.org/pdf/2211.10581.pdf)
 * [Sparse4D v2: Recurrent Temporal Fusion with Sparse Model](https://arxiv.org/pdf/2305.14018.pdf)
 * [Sparse4D v3: Advancing End-to-End 3D Detection and Tracking](https://arxiv.org/pdf/2311.11722.pdf)
+* [Towards Efficient 3D Object Detection in Bird’s-Eye-View Space for Autonomous Driving: A Convolutional-Only Approach](https://arxiv.org/pdf/2312.00633.pdf)
 
 # BEV分割 (LaneGraph)
 * [Learning and Aggregating Lane Graphs for Urban Automated Driving](https://arxiv.org/abs/2302.06175) 
@@ -148,5 +149,6 @@
 * [Segment Everything Everywhere All at Once](https://arxiv.org/pdf/2304.06718.pdf)
 * [Multi-modal Queried Object Detection in the Wild](https://arxiv.org/abs/2305.18980)
 * [Traffic Sign Interpretation in Real Road Scene](https://arxiv.org/pdf/2311.10793.pdf)
+* [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/pdf/2303.05499.pdf)
 
 
