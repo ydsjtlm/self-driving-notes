@@ -141,3 +141,4 @@
 * [On Efficient Training of Large-Scale Deep Learning Models: A Literature Review](https://arxiv.org/pdf/2304.03589.pdf)
 * [GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation](https://arxiv.org/pdf/2311.16511.pdf)
 * [Sequential Modeling Enables Scalable Learning for Large Vision Models](https://arxiv.org/pdf/2312.00785.pdf)
+* [LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models](https://arxiv.org/pdf/2312.02949.pdf)

@@ -150,5 +150,6 @@
 * [Multi-modal Queried Object Detection in the Wild](https://arxiv.org/abs/2305.18980)
 * [Traffic Sign Interpretation in Real Road Scene](https://arxiv.org/pdf/2311.10793.pdf)
 * [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/pdf/2303.05499.pdf)
+* [EfficientSAM Leveraged Masked Image Pretraining for Efficient Segment Anything](https://arxiv.org/pdf/2312.00863.pdf)
 
 
