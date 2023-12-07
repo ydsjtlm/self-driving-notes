@@ -49,7 +49,7 @@
 * [Graph-based Topology Reasoning for Driving Scenes](https://arxiv.org/pdf/2304.05277.pdf)
 * [Separated RoadTopoFormer](https://arxiv.org/pdf/2307.01557.pdf)
 * [Mind the map! Accounting for existing map information when estimating online HDMaps from sensor data](https://arxiv.org/pdf/2311.10517.pdf)
-
+* [Online Vectorized HD Map Construction using Geometry](https://arxiv.org/pdf/2312.03341.pdf)
 
 # BEV Occupancy
 * [Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2302.07817.pdf) [[Code]](https://github.com/wzzheng/TPVFormer) [[笔记]](https://zhuanlan.zhihu.com/p/648813002)

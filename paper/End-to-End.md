@@ -17,6 +17,7 @@
 * [Exploring Navigation Maps for Learning-Based Motion Prediction](https://arxiv.org/pdf/2302.06195.pdf)
 * [ST-P3 End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning](https://arxiv.org/pdf/2207.07601.pdf)
 * [MP3: A Unified Model to Map, Perceive, Predict and Plan](https://arxiv.org/pdf/2101.06806.pdf)
+* [Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?](https://arxiv.org/pdf/2312.03031.pdf)
 
 
 # LLM and AD
@@ -37,6 +38,7 @@
 * [A Language Agent for Autonomous Driving](https://arxiv.org/pdf/2311.10813.pdf)
 * [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/pdf/2311.13549.pdf)
 * [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/pdf/2311.16813.pdf)
+* [Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving](https://arxiv.org/pdf/2312.03661.pdf)
 
 
 

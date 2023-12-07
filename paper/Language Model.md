@@ -142,3 +142,4 @@
 * [GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation](https://arxiv.org/pdf/2311.16511.pdf)
 * [Sequential Modeling Enables Scalable Learning for Large Vision Models](https://arxiv.org/pdf/2312.00785.pdf)
 * [LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models](https://arxiv.org/pdf/2312.02949.pdf)
+* [Gemini: A Family of Highly Capable Multimodal Models](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)
