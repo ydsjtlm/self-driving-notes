@@ -143,3 +143,5 @@
 * [Sequential Modeling Enables Scalable Learning for Large Vision Models](https://arxiv.org/pdf/2312.00785.pdf)
 * [LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models](https://arxiv.org/pdf/2312.02949.pdf)
 * [Gemini: A Family of Highly Capable Multimodal Models](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)
+* [Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning](https://arxiv.org/pdf/2311.17842.pdf)
+* [Chain of Code: Reasoning with a Language Model-Augmented Code Emulator](https://arxiv.org/pdf/2312.04474.pdf)

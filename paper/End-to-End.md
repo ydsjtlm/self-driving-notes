@@ -39,6 +39,7 @@
 * [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/pdf/2311.13549.pdf)
 * [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/pdf/2311.16813.pdf)
 * [Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving](https://arxiv.org/pdf/2312.03661.pdf)
+* [Towards Knowledge-driven Autonomous Driving](https://arxiv.org/pdf/2312.04316.pdf)
 
 
 

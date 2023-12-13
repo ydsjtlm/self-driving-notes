@@ -24,6 +24,8 @@
 * [Sparse4D v2: Recurrent Temporal Fusion with Sparse Model](https://arxiv.org/pdf/2305.14018.pdf)
 * [Sparse4D v3: Advancing End-to-End 3D Detection and Tracking](https://arxiv.org/pdf/2311.11722.pdf)
 * [Towards Efficient 3D Object Detection in Bird’s-Eye-View Space for Autonomous Driving: A Convolutional-Only Approach](https://arxiv.org/pdf/2312.00633.pdf)
+* [PointBeV: A Sparse Approach to BeV Predictions](https://arxiv.org/pdf/2312.00703.pdf)
+
 
 # BEV分割 (LaneGraph)
 * [Learning and Aggregating Lane Graphs for Urban Automated Driving](https://arxiv.org/abs/2302.06175) 
