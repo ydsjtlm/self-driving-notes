@@ -146,3 +146,4 @@
 * [Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning](https://arxiv.org/pdf/2311.17842.pdf)
 * [Chain of Code: Reasoning with a Language Model-Augmented Code Emulator](https://arxiv.org/pdf/2312.04474.pdf)
 * [WEAK-TO-STRONG GENERALIZATION: ELICITING STRONG CAPABILITIES WITH WEAK SUPERVISION](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf)
+* [LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models](https://arxiv.org/pdf/2311.17043.pdf)

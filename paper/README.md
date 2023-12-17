@@ -71,6 +71,7 @@
 * [OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection](https://arxiv.org/pdf/2309.08504.pdf)
 * [LiDAR-based 4D Occupancy Completion and Forecasting](https://arxiv.org/pdf/2310.11239.pdf)
 * [SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction](https://arxiv.org/pdf/2311.12754.pdf)
+* [OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields](https://arxiv.org/pdf/2312.09243.pdf)
 
 
 # 矢量化
@@ -145,6 +146,7 @@
 * [A Survey on Video Diffusion Models](https://arxiv.org/pdf/2310.10647.pdf)
 * [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/pdf/2310.02601.pdf)
 * [DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model](https://arxiv.org/pdf/2310.07771.pdf)
+* [DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes](https://arxiv.org/pdf/2312.07920.pdf)
 
 # CV
 * [Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation](https://arxiv.org/pdf/2206.02777.pdf)
@@ -153,5 +155,6 @@
 * [Traffic Sign Interpretation in Real Road Scene](https://arxiv.org/pdf/2311.10793.pdf)
 * [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/pdf/2303.05499.pdf)
 * [EfficientSAM Leveraged Masked Image Pretraining for Efficient Segment Anything](https://arxiv.org/pdf/2312.00863.pdf)
+* [General Object Foundation Model for Images and Videos at Scale](https://arxiv.org/pdf/2312.09158.pdf)
 
 
