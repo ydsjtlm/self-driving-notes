@@ -25,6 +25,7 @@
 * [Sparse4D v3: Advancing End-to-End 3D Detection and Tracking](https://arxiv.org/pdf/2311.11722.pdf)
 * [Towards Efficient 3D Object Detection in Bird’s-Eye-View Space for Autonomous Driving: A Convolutional-Only Approach](https://arxiv.org/pdf/2312.00633.pdf)
 * [PointBeV: A Sparse Approach to BeV Predictions](https://arxiv.org/pdf/2312.00703.pdf)
+* [Simple-BEV: What Really Matters for Multi-Sensor BEV Perception?](https://arxiv.org/pdf/2206.07959.pdf)
 
 
 # BEV分割 (LaneGraph)
