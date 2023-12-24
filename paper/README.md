@@ -157,5 +157,8 @@
 * [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/pdf/2303.05499.pdf)
 * [EfficientSAM Leveraged Masked Image Pretraining for Efficient Segment Anything](https://arxiv.org/pdf/2312.00863.pdf)
 * [General Object Foundation Model for Images and Videos at Scale](https://arxiv.org/pdf/2312.09158.pdf)
+* [Detecting Everything in the Open World: Towards Universal Object Detection](https://arxiv.org/pdf/2303.11749.pdf)
+* [SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference](https://arxiv.org/pdf/2312.01597.pdf)
+* [MobileSAMv2: Faster Segment Anything to Everything](https://arxiv.org/pdf/2312.09579.pdf)
 
 
