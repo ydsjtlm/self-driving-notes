@@ -160,5 +160,7 @@
 * [Detecting Everything in the Open World: Towards Universal Object Detection](https://arxiv.org/pdf/2303.11749.pdf)
 * [SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference](https://arxiv.org/pdf/2312.01597.pdf)
 * [MobileSAMv2: Faster Segment Anything to Everything](https://arxiv.org/pdf/2312.09579.pdf)
+* [An Empirical Model of Large-Batch Training](https://arxiv.org/pdf/1812.06162.pdf)
+* [Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively](https://arxiv.org/pdf/2401.02955.pdf)
 
 
