@@ -41,6 +41,6 @@
 * [Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving](https://arxiv.org/pdf/2312.03661.pdf)
 * [Towards Knowledge-driven Autonomous Driving](https://arxiv.org/pdf/2312.04316.pdf)
 * [DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving](https://arxiv.org/pdf/2312.09245.pdf)
-
+* [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/pdf/2401.05577.pdf)
 
 

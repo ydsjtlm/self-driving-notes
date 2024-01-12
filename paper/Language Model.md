@@ -150,7 +150,7 @@
 * [VideoPoet: A Large Language Model for Zero-Shot Video Generation](https://storage.googleapis.com/videopoet/paper.pdf)
 * [PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
 * [A Simple Recipe for Contrastively Pre-training Video-First Encoders Beyond 16 Frames](https://arxiv.org/pdf/2312.07395.pdf)
-
+* [Mixtral of Experts](https://arxiv.org/pdf/2401.04088.pdf)
 
 
 

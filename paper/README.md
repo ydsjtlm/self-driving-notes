@@ -26,6 +26,7 @@
 * [Towards Efficient 3D Object Detection in Bird’s-Eye-View Space for Autonomous Driving: A Convolutional-Only Approach](https://arxiv.org/pdf/2312.00633.pdf)
 * [PointBeV: A Sparse Approach to BeV Predictions](https://arxiv.org/pdf/2312.00703.pdf)
 * [Simple-BEV: What Really Matters for Multi-Sensor BEV Perception?](https://arxiv.org/pdf/2206.07959.pdf)
+* [WidthFormer: Toward Efficient Transformer-based BEV View Transformation](https://arxiv.org/pdf/2401.03836.pdf)
 
 
 # BEV分割 (LaneGraph)
