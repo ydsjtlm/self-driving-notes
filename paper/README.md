@@ -54,6 +54,7 @@
 * [Separated RoadTopoFormer](https://arxiv.org/pdf/2307.01557.pdf)
 * [Mind the map! Accounting for existing map information when estimating online HDMaps from sensor data](https://arxiv.org/pdf/2311.10517.pdf)
 * [Online Vectorized HD Map Construction using Geometry](https://arxiv.org/pdf/2312.03341.pdf)
+* [MapNeXt: Revisiting Training and Scaling Practices for Online Vectorized HD Map Construction](https://arxiv.org/pdf/2401.07323.pdf)
 
 # BEV Occupancy
 * [Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2302.07817.pdf) [[Code]](https://github.com/wzzheng/TPVFormer) [[笔记]](https://zhuanlan.zhihu.com/p/648813002)
@@ -129,6 +130,7 @@
 * [Street-View Image Generation from a Bird’s-Eye View Layout](https://arxiv.org/pdf/2301.04634.pdf)
 * [BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout](https://arxiv.org/pdf/2308.01661.pdf)
 * [A Vision-Centric Approach for Static Map Element Annotation](https://arxiv.org/pdf/2309.11754v1.pdf)
+* [A Survey on 3D Gaussian Splatting](https://arxiv.org/pdf/2401.03890.pdf)
 
 # Diffusion
 * [License Plate Super-Resolution Using Diffusion Models](https://arxiv.org/pdf/2309.12506.pdf)
@@ -156,6 +158,7 @@
 * [Multi-modal Queried Object Detection in the Wild](https://arxiv.org/abs/2305.18980)
 * [Traffic Sign Interpretation in Real Road Scene](https://arxiv.org/pdf/2311.10793.pdf)
 * [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/pdf/2303.05499.pdf)
+* [Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding](https://arxiv.org/pdf/2401.00901.pdf)
 * [EfficientSAM Leveraged Masked Image Pretraining for Efficient Segment Anything](https://arxiv.org/pdf/2312.00863.pdf)
 * [General Object Foundation Model for Images and Videos at Scale](https://arxiv.org/pdf/2312.09158.pdf)
 * [Detecting Everything in the Open World: Towards Universal Object Detection](https://arxiv.org/pdf/2303.11749.pdf)
@@ -163,5 +166,7 @@
 * [MobileSAMv2: Faster Segment Anything to Everything](https://arxiv.org/pdf/2312.09579.pdf)
 * [An Empirical Model of Large-Batch Training](https://arxiv.org/pdf/1812.06162.pdf)
 * [Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively](https://arxiv.org/pdf/2401.02955.pdf)
+* [360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model](https://arxiv.org/pdf/2401.06578.pdf)
+* []
 
 

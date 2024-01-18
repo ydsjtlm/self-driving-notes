@@ -151,6 +151,8 @@
 * [PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
 * [A Simple Recipe for Contrastively Pre-training Video-First Encoders Beyond 16 Frames](https://arxiv.org/pdf/2312.07395.pdf)
 * [Mixtral of Experts](https://arxiv.org/pdf/2401.04088.pdf)
+* [MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World](https://arxiv.org/pdf/2401.08577.pdf)
+* [CognitiveDog: Large Multimodal Model Based System to Translate Vision and Language into Action of Quadruped Robot](https://arxiv.org/pdf/2401.09388.pdf)
 
 
 

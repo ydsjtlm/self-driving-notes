@@ -42,5 +42,6 @@
 * [Towards Knowledge-driven Autonomous Driving](https://arxiv.org/pdf/2312.04316.pdf)
 * [DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving](https://arxiv.org/pdf/2312.09245.pdf)
 * [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/pdf/2401.05577.pdf)
+* [Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities](https://arxiv.org/pdf/2401.08045.pdf)
 
 
