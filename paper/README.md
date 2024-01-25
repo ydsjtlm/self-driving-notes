@@ -27,6 +27,7 @@
 * [PointBeV: A Sparse Approach to BeV Predictions](https://arxiv.org/pdf/2312.00703.pdf)
 * [Simple-BEV: What Really Matters for Multi-Sensor BEV Perception?](https://arxiv.org/pdf/2206.07959.pdf)
 * [WidthFormer: Toward Efficient Transformer-based BEV View Transformation](https://arxiv.org/pdf/2401.03836.pdf)
+* [SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos](https://arxiv.org/pdf/2308.09244.pdf)
 
 
 # BEV分割 (LaneGraph)
@@ -75,6 +76,7 @@
 * [LiDAR-based 4D Occupancy Completion and Forecasting](https://arxiv.org/pdf/2310.11239.pdf)
 * [SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction](https://arxiv.org/pdf/2311.12754.pdf)
 * [OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields](https://arxiv.org/pdf/2312.09243.pdf)
+* [Fully Sparse 3D Panoptic Occupancy Prediction](https://arxiv.org/pdf/2312.17118.pdf)
 
 
 # 矢量化
@@ -167,6 +169,6 @@
 * [An Empirical Model of Large-Batch Training](https://arxiv.org/pdf/1812.06162.pdf)
 * [Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively](https://arxiv.org/pdf/2401.02955.pdf)
 * [360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model](https://arxiv.org/pdf/2401.06578.pdf)
-* []
+* [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/pdf/2401.10891.pdf)
 
 
