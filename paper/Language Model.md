@@ -153,7 +153,7 @@
 * [Mixtral of Experts](https://arxiv.org/pdf/2401.04088.pdf)
 * [MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World](https://arxiv.org/pdf/2401.08577.pdf)
 * [CognitiveDog: Large Multimodal Model Based System to Translate Vision and Language into Action of Quadruped Robot](https://arxiv.org/pdf/2401.09388.pdf)
-
+* [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf)
 
 
 

@@ -56,6 +56,7 @@
 * [Mind the map! Accounting for existing map information when estimating online HDMaps from sensor data](https://arxiv.org/pdf/2311.10517.pdf)
 * [Online Vectorized HD Map Construction using Geometry](https://arxiv.org/pdf/2312.03341.pdf)
 * [MapNeXt: Revisiting Training and Scaling Practices for Online Vectorized HD Map Construction](https://arxiv.org/pdf/2401.07323.pdf)
+* [ADMap: Anti-disturbance framework for reconstructing online vectorized HD](https://arxiv.org/pdf/2401.13172.pdf)
 
 # BEV Occupancy
 * [Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2302.07817.pdf) [[Code]](https://github.com/wzzheng/TPVFormer) [[笔记]](https://zhuanlan.zhihu.com/p/648813002)
@@ -170,5 +171,6 @@
 * [Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively](https://arxiv.org/pdf/2401.02955.pdf)
 * [360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model](https://arxiv.org/pdf/2401.06578.pdf)
 * [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/pdf/2401.10891.pdf)
+* [OMG-Seg: Is One Model Good Enough For All Segmentation?](https://arxiv.org/pdf/2401.10229.pdf)
 
 
