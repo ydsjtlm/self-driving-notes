@@ -54,9 +54,12 @@
 * [Graph-based Topology Reasoning for Driving Scenes](https://arxiv.org/pdf/2304.05277.pdf)
 * [Separated RoadTopoFormer](https://arxiv.org/pdf/2307.01557.pdf)
 * [Mind the map! Accounting for existing map information when estimating online HDMaps from sensor data](https://arxiv.org/pdf/2311.10517.pdf)
-* [Online Vectorized HD Map Construction using Geometry](https://arxiv.org/pdf/2312.03341.pdf)
+* [☆X] [Online Vectorized HD Map Construction using Geometry](https://arxiv.org/pdf/2312.03341.pdf)
 * [MapNeXt: Revisiting Training and Scaling Practices for Online Vectorized HD Map Construction](https://arxiv.org/pdf/2401.07323.pdf)
 * [ADMap: Anti-disturbance framework for reconstructing online vectorized HD](https://arxiv.org/pdf/2401.13172.pdf)
+* [High-Definition Maps: Comprehensive Survey, Challenges, and Future Perspectives](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10184094)
+* [P-MapNet: Far-seeing Map Constructer Enhanced by both SDMap and HDMap Priors](https://openreview.net/pdf?id=lgDrVM9Rpx)
+
 
 # BEV Occupancy
 * [Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2302.07817.pdf) [[Code]](https://github.com/wzzheng/TPVFormer) [[笔记]](https://zhuanlan.zhihu.com/p/648813002)
@@ -154,6 +157,9 @@
 * [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/pdf/2310.02601.pdf)
 * [DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model](https://arxiv.org/pdf/2310.07771.pdf)
 * [DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes](https://arxiv.org/pdf/2312.07920.pdf)
+* [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis](https://arxiv.org/pdf/2307.01952.pdf)
+* [Scalable Diffusion Models with Transformers](https://arxiv.org/pdf/2212.09748.pdf)
+
 
 # CV
 * [Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation](https://arxiv.org/pdf/2206.02777.pdf)

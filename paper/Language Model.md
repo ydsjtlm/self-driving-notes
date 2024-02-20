@@ -154,6 +154,8 @@
 * [MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World](https://arxiv.org/pdf/2401.08577.pdf)
 * [CognitiveDog: Large Multimodal Model Based System to Translate Vision and Language into Action of Quadruped Robot](https://arxiv.org/pdf/2401.09388.pdf)
 * [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf)
+* [LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers](https://arxiv.org/pdf/2310.03294.pdf)
+* [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/pdf/2312.11514.pdf)
 
 
 
