@@ -28,6 +28,7 @@
 * [Simple-BEV: What Really Matters for Multi-Sensor BEV Perception?](https://arxiv.org/pdf/2206.07959.pdf)
 * [WidthFormer: Toward Efficient Transformer-based BEV View Transformation](https://arxiv.org/pdf/2401.03836.pdf)
 * [SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos](https://arxiv.org/pdf/2308.09244.pdf)
+* [UniVision: A Unified Framework for Vision-Centric 3D Perception](https://arxiv.org/pdf/2401.06994.pdf)
 
 
 # BEV分割 (LaneGraph)

@@ -18,6 +18,7 @@
 * [ST-P3 End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning](https://arxiv.org/pdf/2207.07601.pdf)
 * [MP3: A Unified Model to Map, Perceive, Predict and Plan](https://arxiv.org/pdf/2101.06806.pdf)
 * [Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?](https://arxiv.org/pdf/2312.03031.pdf)
+* [A Survey for Foundation Models in Autonomous Driving](https://arxiv.org/pdf/2402.01105.pdf)
 
 
 # LLM and AD
@@ -44,3 +45,6 @@
 * [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/pdf/2401.05577.pdf)
 * [Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities](https://arxiv.org/pdf/2401.08045.pdf)
 * [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/pdf/2402.10828.pdf)
+* [DRIVEVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/pdf/2402.12289.pdf)
+* [GenAD: Generative End-to-End Autonomous Driving](https://arxiv.org/pdf/2402.11502.pdf)
+* [VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning](https://arxiv.org/pdf/2402.13243.pdf)

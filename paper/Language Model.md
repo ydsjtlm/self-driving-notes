@@ -156,7 +156,8 @@
 * [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf)
 * [LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers](https://arxiv.org/pdf/2310.03294.pdf)
 * [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/pdf/2312.11514.pdf)
-
+* [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/pdf/2402.12226.pdf)
+* [Model Composition for Multimodal Large Language Models](https://arxiv.org/pdf/2402.12750.pdf)
 
 
 
