@@ -158,7 +158,7 @@
 * [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/pdf/2312.11514.pdf)
 * [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/pdf/2402.12226.pdf)
 * [Model Composition for Multimodal Large Language Models](https://arxiv.org/pdf/2402.12750.pdf)
-
+* [Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/pdf/2401.12945.pdf)
 
 
 

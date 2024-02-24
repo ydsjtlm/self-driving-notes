@@ -138,6 +138,7 @@
 * [BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout](https://arxiv.org/pdf/2308.01661.pdf)
 * [A Vision-Centric Approach for Static Map Element Annotation](https://arxiv.org/pdf/2309.11754v1.pdf)
 * [A Survey on 3D Gaussian Splatting](https://arxiv.org/pdf/2401.03890.pdf)
+* [Street Gaussians for Modeling Dynamic Urban Scenes](https://arxiv.org/pdf/2401.01339.pdf)
 
 # Diffusion
 * [License Plate Super-Resolution Using Diffusion Models](https://arxiv.org/pdf/2309.12506.pdf)
@@ -179,5 +180,6 @@
 * [360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model](https://arxiv.org/pdf/2401.06578.pdf)
 * [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/pdf/2401.10891.pdf)
 * [OMG-Seg: Is One Model Good Enough For All Segmentation?](https://arxiv.org/pdf/2401.10229.pdf)
+* [EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss](https://arxiv.org/pdf/2402.05008.pdf)
 
 
