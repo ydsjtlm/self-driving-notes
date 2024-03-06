@@ -19,7 +19,8 @@
 * [MP3: A Unified Model to Map, Perceive, Predict and Plan](https://arxiv.org/pdf/2101.06806.pdf)
 * [Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?](https://arxiv.org/pdf/2312.03031.pdf)
 * [A Survey for Foundation Models in Autonomous Driving](https://arxiv.org/pdf/2402.01105.pdf)
-
+* [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/pdf/2311.17918.pdf)
+* [ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving](https://arxiv.org/pdf/2403.02877.pdf)
 
 # LLM and AD
 * [A Survey of Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2311.01043.pdf) 

@@ -60,6 +60,7 @@
 * [ADMap: Anti-disturbance framework for reconstructing online vectorized HD](https://arxiv.org/pdf/2401.13172.pdf)
 * [High-Definition Maps: Comprehensive Survey, Challenges, and Future Perspectives](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10184094)
 * [P-MapNet: Far-seeing Map Constructer Enhanced by both SDMap and HDMap Priors](https://openreview.net/pdf?id=lgDrVM9Rpx)
+* [Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction](https://arxiv.org/pdf/2402.17430.pdf)
 
 
 # BEV Occupancy
@@ -139,6 +140,7 @@
 * [A Vision-Centric Approach for Static Map Element Annotation](https://arxiv.org/pdf/2309.11754v1.pdf)
 * [A Survey on 3D Gaussian Splatting](https://arxiv.org/pdf/2401.03890.pdf)
 * [Street Gaussians for Modeling Dynamic Urban Scenes](https://arxiv.org/pdf/2401.01339.pdf)
+* [VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction](https://arxiv.org/pdf/2402.17427.pdf)
 
 # Diffusion
 * [License Plate Super-Resolution Using Diffusion Models](https://arxiv.org/pdf/2309.12506.pdf)
@@ -181,5 +183,5 @@
 * [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/pdf/2401.10891.pdf)
 * [OMG-Seg: Is One Model Good Enough For All Segmentation?](https://arxiv.org/pdf/2401.10229.pdf)
 * [EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss](https://arxiv.org/pdf/2402.05008.pdf)
-
+* [UniMODE: Unified Monocular 3D Object Detection](https://arxiv.org/pdf/2402.18573.pdf)
 

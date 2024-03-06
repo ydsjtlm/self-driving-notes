@@ -30,6 +30,7 @@
 * [☆] [CM3leon: Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning](https://scontent-lax3-1.xx.fbcdn.net/v/t39.2365-6/358725877_789390529544546_1176484804732743296_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=_diQr9c6Ru8AX8AL77d&_nc_ht=scontent-lax3-1.xx&oh=00_AfD8JGolEO3QmSnrkpzQnbv533aSj2eHNm0at6cJ2epOpg&oe=64BB4972)
 * [VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet](https://arxiv.org/pdf/2307.14073.pdf)
 * [Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models](https://arxiv.org/pdf/2305.13840.pdf)
+* [VideoGPT: Video Generation using VQ-VAE and Transformers](https://arxiv.org/pdf/2104.10157.pdf)
 
 # Multimodal (Vision/Language/Audio)
 * [☆] [Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
@@ -159,6 +160,8 @@
 * [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/pdf/2402.12226.pdf)
 * [Model Composition for Multimodal Large Language Models](https://arxiv.org/pdf/2402.12750.pdf)
 * [Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/pdf/2401.12945.pdf)
+* [EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought](https://arxiv.org/pdf/2305.15021.pdf)
+* [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/pdf/2402.17177.pdf)
 
 
 
