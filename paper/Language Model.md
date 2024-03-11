@@ -162,8 +162,8 @@
 * [Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/pdf/2401.12945.pdf)
 * [EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought](https://arxiv.org/pdf/2305.15021.pdf)
 * [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/pdf/2402.17177.pdf)
-
-
+* [DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models](https://arxiv.org/pdf/2403.00818.pdf)
+* [RT-H: Action Hierarchies Using Language](https://arxiv.org/pdf/2403.01823.pdf)
 
 
 

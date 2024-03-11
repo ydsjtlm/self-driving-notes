@@ -49,3 +49,4 @@
 * [DRIVEVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/pdf/2402.12289.pdf)
 * [GenAD: Generative End-to-End Autonomous Driving](https://arxiv.org/pdf/2402.11502.pdf)
 * [VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning](https://arxiv.org/pdf/2402.13243.pdf)
+* [Embodied Understanding of Driving Scenarios](https://arxiv.org/pdf/2403.04593.pdf)
