@@ -29,6 +29,7 @@
 * [WidthFormer: Toward Efficient Transformer-based BEV View Transformation](https://arxiv.org/pdf/2401.03836.pdf)
 * [SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos](https://arxiv.org/pdf/2308.09244.pdf)
 * [UniVision: A Unified Framework for Vision-Centric 3D Perception](https://arxiv.org/pdf/2401.06994.pdf)
+* [SAFDNet: A Simple and Effective Network for Fully Sparse 3D Object Detection](https://arxiv.org/pdf/2403.05817.pdf)
 
 
 # BEV分割 (LaneGraph)
@@ -142,6 +143,7 @@
 * [A Survey on 3D Gaussian Splatting](https://arxiv.org/pdf/2401.03890.pdf)
 * [Street Gaussians for Modeling Dynamic Urban Scenes](https://arxiv.org/pdf/2401.01339.pdf)
 * [VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction](https://arxiv.org/pdf/2402.17427.pdf)
+* [Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving](https://arxiv.org/pdf/2403.05907.pdf)
 
 # Diffusion
 * [License Plate Super-Resolution Using Diffusion Models](https://arxiv.org/pdf/2309.12506.pdf)
@@ -185,4 +187,5 @@
 * [OMG-Seg: Is One Model Good Enough For All Segmentation?](https://arxiv.org/pdf/2401.10229.pdf)
 * [EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss](https://arxiv.org/pdf/2402.05008.pdf)
 * [UniMODE: Unified Monocular 3D Object Detection](https://arxiv.org/pdf/2402.18573.pdf)
+* [LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.05246.pdf)
 

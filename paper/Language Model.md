@@ -164,6 +164,7 @@
 * [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/pdf/2402.17177.pdf)
 * [DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models](https://arxiv.org/pdf/2403.00818.pdf)
 * [RT-H: Action Hierarchies Using Language](https://arxiv.org/pdf/2403.01823.pdf)
+* [VideoMamba: State Space Model for Efficient Video Understanding](https://arxiv.org/pdf/2403.06977.pdf)
 
 
 

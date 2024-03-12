@@ -50,3 +50,4 @@
 * [GenAD: Generative End-to-End Autonomous Driving](https://arxiv.org/pdf/2402.11502.pdf)
 * [VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning](https://arxiv.org/pdf/2402.13243.pdf)
 * [Embodied Understanding of Driving Scenarios](https://arxiv.org/pdf/2403.04593.pdf)
+* [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/pdf/2403.06845.pdf)
