@@ -62,6 +62,7 @@
 * [High-Definition Maps: Comprehensive Survey, Challenges, and Future Perspectives](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10184094)
 * [P-MapNet: Far-seeing Map Constructer Enhanced by both SDMap and HDMap Priors](https://openreview.net/pdf?id=lgDrVM9Rpx)
 * [Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction](https://arxiv.org/pdf/2402.17430.pdf)
+* [HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction](https://arxiv.org/pdf/2403.08639.pdf)
 
 
 # BEV Occupancy
@@ -84,7 +85,8 @@
 * [SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction](https://arxiv.org/pdf/2311.12754.pdf)
 * [OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields](https://arxiv.org/pdf/2312.09243.pdf)
 * [Fully Sparse 3D Panoptic Occupancy Prediction](https://arxiv.org/pdf/2312.17118.pdf)
-
+* [FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View](https://arxiv.org/pdf/2403.02710.pdf)
+* [Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution](https://arxiv.org/pdf/2403.08748.pdf)
 
 # 矢量化
 * [PolyFormer Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387)[[阅读笔记]](https://zhuanlan.zhihu.com/p/650991896)
