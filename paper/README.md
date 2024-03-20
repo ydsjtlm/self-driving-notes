@@ -30,6 +30,10 @@
 * [SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos](https://arxiv.org/pdf/2308.09244.pdf)
 * [UniVision: A Unified Framework for Vision-Centric 3D Perception](https://arxiv.org/pdf/2401.06994.pdf)
 * [SAFDNet: A Simple and Effective Network for Fully Sparse 3D Object Detection](https://arxiv.org/pdf/2403.05817.pdf)
+* [Lifting Multi-View Detection and Tracking to the Bird’s Eye View](https://arxiv.org/pdf/2403.12573.pdf)
+* [M2DA: Multi-Modal Fusion Transformer Incorporating Driver Attention for Autonomous Driving](https://arxiv.org/pdf/2403.12552.pdf)
+* [SparseFusion: Efficient Sparse Multi-Modal Fusion Framework for Long-Range 3D Perception](https://arxiv.org/pdf/2403.10036.pdf)
+* [BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation](https://arxiv.org/pdf/2403.11761.pdf)
 
 
 # BEV分割 (LaneGraph)
