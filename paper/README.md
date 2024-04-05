@@ -111,6 +111,7 @@
 # Prediction
 * [Motion Transformer with Global Intention Localization and Local Movement Refinement](https://arxiv.org/pdf/2209.13508.pdf)
 * [Towards learning-based planning: The nuPlan benchmark for real-world autonomous driving](https://arxiv.org/pdf/2403.04133.pdf)
+* [LARGE TRAJECTORY MODELS ARE SCALABLE MOTION PREDICTORS AND PLANNERS](https://arxiv.org/pdf/2310.19620.pdf)
 
 # Localization
 * [U-BEV: Height-aware Bird's-Eye-View Segmentation and Neural Map-based Relocalization](https://arxiv.org/pdf/2310.13766.pdf)

@@ -166,6 +166,8 @@
 * [RT-H: Action Hierarchies Using Language](https://arxiv.org/pdf/2403.01823.pdf)
 * [VideoMamba: State Space Model for Efficient Video Understanding](https://arxiv.org/pdf/2403.06977.pdf)
 * [GiT: Towards Generalist Vision Transformer through Universal Language Interface](https://arxiv.org/pdf/2403.09394.pdf)
+* [Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/pdf/2403.13248.pdf)
+* [CLIP-BEVFormer: Enhancing Multi-View Image-Based BEV Detector with Ground Truth Flow](https://arxiv.org/pdf/2403.08919.pdf)
 
 
 
