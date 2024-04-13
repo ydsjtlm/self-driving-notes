@@ -91,14 +91,20 @@
 * [Fully Sparse 3D Panoptic Occupancy Prediction](https://arxiv.org/pdf/2312.17118.pdf)
 * [FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View](https://arxiv.org/pdf/2403.02710.pdf)
 * [Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution](https://arxiv.org/pdf/2403.08748.pdf)
+* [Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2404.04561.pdf)
+
 
 # 矢量化
 * [PolyFormer Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387)[[阅读笔记]](https://zhuanlan.zhihu.com/p/650991896)
+
+# 4D label & AutoLableing
+* [Label-Efficient 3D Object Detection For Road-Side Units](https://arxiv.org/pdf/2404.06256.pdf)
 
 
 # 多传感器融合
 * [Transformers-Sensor-Fusion](https://github.com/ApoorvRoboticist/Transformers-Sensor-Fusion)
 * [UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation]()
+* [DPFT: Dual Perspective Fusion Transformer for Camera-Radar-based Object Detection](https://arxiv.org/pdf/2404.03015.pdf)
 
 # 检测跟踪一体化
 * [Exploring Simple 3D Multi-Object Tracking for Autonomous Driving](https://github.com/qcraftai/simtrack)
@@ -151,6 +157,9 @@
 * [Street Gaussians for Modeling Dynamic Urban Scenes](https://arxiv.org/pdf/2401.01339.pdf)
 * [VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction](https://arxiv.org/pdf/2402.17427.pdf)
 * [Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving](https://arxiv.org/pdf/2403.05907.pdf)
+* [TCLC-GS: Tightly Coupled LiDAR-Camera Gaussian Splatting for Surrounding Autonomous Driving Scenes](https://arxiv.org/pdf/2404.02410.pdf)
+* [RoadBEV: Road Surface Reconstruction in Bird’s Eye View](https://arxiv.org/pdf/2404.06605.pdf)
+
 
 # Diffusion
 * [License Plate Super-Resolution Using Diffusion Models](https://arxiv.org/pdf/2309.12506.pdf)
@@ -173,6 +182,7 @@
 * [DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes](https://arxiv.org/pdf/2312.07920.pdf)
 * [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis](https://arxiv.org/pdf/2307.01952.pdf)
 * [Scalable Diffusion Models with Transformers](https://arxiv.org/pdf/2212.09748.pdf)
+* [入门：Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/pdf/2403.18103.pdf)
 
 
 # CV
@@ -195,4 +205,5 @@
 * [EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss](https://arxiv.org/pdf/2402.05008.pdf)
 * [UniMODE: Unified Monocular 3D Object Detection](https://arxiv.org/pdf/2402.18573.pdf)
 * [LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.05246.pdf)
+* [Adapting LLaMA Decoder to Vision Transformer](https://arxiv.org/pdf/2404.06773.pdf)
 

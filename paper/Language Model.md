@@ -168,8 +168,8 @@
 * [GiT: Towards Generalist Vision Transformer through Universal Language Interface](https://arxiv.org/pdf/2403.09394.pdf)
 * [Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/pdf/2403.13248.pdf)
 * [CLIP-BEVFormer: Enhancing Multi-View Image-Based BEV Detector with Ground Truth Flow](https://arxiv.org/pdf/2403.08919.pdf)
-
-
+* [MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens](https://arxiv.org/pdf/2404.03413.pdf)
+* [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/pdf/2404.02905.pdf)
 
 
 
