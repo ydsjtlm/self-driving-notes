@@ -92,7 +92,7 @@
 * [FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View](https://arxiv.org/pdf/2403.02710.pdf)
 * [Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution](https://arxiv.org/pdf/2403.08748.pdf)
 * [Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2404.04561.pdf)
-
+* [SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction](https://arxiv.org/pdf/2404.09502.pdf)
 
 # 矢量化
 * [PolyFormer Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387)[[阅读笔记]](https://zhuanlan.zhihu.com/p/650991896)
@@ -118,6 +118,7 @@
 * [Motion Transformer with Global Intention Localization and Local Movement Refinement](https://arxiv.org/pdf/2209.13508.pdf)
 * [Towards learning-based planning: The nuPlan benchmark for real-world autonomous driving](https://arxiv.org/pdf/2403.04133.pdf)
 * [LARGE TRAJECTORY MODELS ARE SCALABLE MOTION PREDICTORS AND PLANNERS](https://arxiv.org/pdf/2310.19620.pdf)
+* [Rethinking Imitation-based Planner for Autonomous Driving](https://arxiv.org/pdf/2309.10443)
 
 # Localization
 * [U-BEV: Height-aware Bird's-Eye-View Segmentation and Neural Map-based Relocalization](https://arxiv.org/pdf/2310.13766.pdf)
@@ -206,4 +207,5 @@
 * [UniMODE: Unified Monocular 3D Object Detection](https://arxiv.org/pdf/2402.18573.pdf)
 * [LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.05246.pdf)
 * [Adapting LLaMA Decoder to Vision Transformer](https://arxiv.org/pdf/2404.06773.pdf)
+* [An Introduction to Vision-Language Modeling](https://arxiv.org/pdf/2405.17247)
 
