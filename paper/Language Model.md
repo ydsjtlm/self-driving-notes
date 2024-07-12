@@ -173,7 +173,9 @@
 * [Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models](https://arxiv.org/pdf/2403.18814.pdf)
 * [Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation](https://arxiv.org/pdf/2406.06525)
 * [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/pdf/2406.09246)
-
+* [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135)
+* [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://tridao.me/publications/flash2/flash2.pdf)
+* [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision](https://tridao.me/publications/flash3/flash3.pdf)
 
 
 
