@@ -34,6 +34,7 @@
 * [M2DA: Multi-Modal Fusion Transformer Incorporating Driver Attention for Autonomous Driving](https://arxiv.org/pdf/2403.12552.pdf)
 * [SparseFusion: Efficient Sparse Multi-Modal Fusion Framework for Long-Range 3D Perception](https://arxiv.org/pdf/2403.10036.pdf)
 * [BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation](https://arxiv.org/pdf/2403.11761.pdf)
+* [GaussianBeV : 3D Gaussian Representation meets Perception Models for BeV Segmentation](https://arxiv.org/pdf/2407.14108)
 
 
 # BEV分割 (LaneGraph)

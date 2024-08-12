@@ -34,6 +34,11 @@
 * [Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets](https://arxiv.org/pdf/2311.15127)
 * [Generative Image as Action Models](https://arxiv.org/pdf/2407.07875)
 * [Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers](https://arxiv.org/pdf/2405.05945)
+* [DriveDiTFit: Fine-tuning Diffusion Transformers for Autonomous Driving](https://arxiv.org/pdf/2407.15661v1)
+* [HoloDreamer: Holistic 3D Panoramic World Generation from Text Descriptions](https://arxiv.org/pdf/2407.15187)
+
+
+
 
 # Multimodal (Vision/Language/Audio)
 * [☆] [Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
@@ -181,6 +186,8 @@
 * [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision](https://tridao.me/publications/flash3/flash3.pdf)
 * [Unveiling Encoder-Free Vision-Language Models](https://arxiv.org/pdf/2406.11832)
 * [DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM](https://arxiv.org/pdf/2403.12488)
-
+* [LUMINA-MGPT: ILLUMINATE FLEXIBLE PHOTOREALISTIC TEXT-TO-IMAGE GENERATION WITH MULTIMODAL GENERATIVE PRETRAINING](https://arxiv.org/pdf/2408.02657v1)
+* [DRIVEARENA: A Closed-loop Generative Simulation Platform for Autonomous Driving](https://arxiv.org/pdf/2408.00415v1)
+* [The Llama 3 Herd of Models](https://arxiv.org/pdf/2407.21783v1)
 
 
