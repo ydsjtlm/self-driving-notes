@@ -35,7 +35,7 @@
 * [SparseFusion: Efficient Sparse Multi-Modal Fusion Framework for Long-Range 3D Perception](https://arxiv.org/pdf/2403.10036.pdf)
 * [BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation](https://arxiv.org/pdf/2403.11761.pdf)
 * [GaussianBeV : 3D Gaussian Representation meets Perception Models for BeV Segmentation](https://arxiv.org/pdf/2407.14108)
-
+* [FlatFusion: Delving into Details of Sparse Transformer-based Camera-LiDAR Fusion for Autonomous Driving](https://arxiv.org/pdf/2408.06832)
 
 # BEV分割 (LaneGraph)
 * [Learning and Aggregating Lane Graphs for Urban Automated Driving](https://arxiv.org/abs/2302.06175) 

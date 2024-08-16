@@ -36,7 +36,9 @@
 * [Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers](https://arxiv.org/pdf/2405.05945)
 * [DriveDiTFit: Fine-tuning Diffusion Transformers for Autonomous Driving](https://arxiv.org/pdf/2407.15661v1)
 * [HoloDreamer: Holistic 3D Panoramic World Generation from Text Descriptions](https://arxiv.org/pdf/2407.15187)
-
+* [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](https://arxiv.org/pdf/2408.06072)
+* [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/pdf/2311.16813)
+* [Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/pdf/2408.07605)
 
 
 

@@ -22,6 +22,9 @@
 * [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/pdf/2311.17918.pdf)
 * [ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving](https://arxiv.org/pdf/2403.02877.pdf)
 
+# Robotic
+* [Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion](https://arxiv.org/pdf/2407.10973)
+
 # LLM and AD
 * [A Survey of Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2311.01043.pdf) 
 * [A Survey on Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2311.12320.pdf)
