@@ -39,7 +39,7 @@
 * [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](https://arxiv.org/pdf/2408.06072)
 * [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/pdf/2311.16813)
 * [Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/pdf/2408.07605)
-
+* [ControlNeXt: Powerful and Efficient Control for Image and Video Generation](https://arxiv.org/pdf/2408.06070)
 
 
 # Multimodal (Vision/Language/Audio)
@@ -191,5 +191,8 @@
 * [LUMINA-MGPT: ILLUMINATE FLEXIBLE PHOTOREALISTIC TEXT-TO-IMAGE GENERATION WITH MULTIMODAL GENERATIVE PRETRAINING](https://arxiv.org/pdf/2408.02657v1)
 * [DRIVEARENA: A Closed-loop Generative Simulation Platform for Autonomous Driving](https://arxiv.org/pdf/2408.00415v1)
 * [The Llama 3 Herd of Models](https://arxiv.org/pdf/2407.21783v1)
+* [VLM][Autoregressive Image Generation without Vector Quantization](https://arxiv.org/pdf/2406.11838)
+* [VLM][Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/pdf/2405.09818)
+* [VLM][Language Model Beats Diffusion Tokenizer is key to visual generation](https://arxiv.org/pdf/2310.05737v2)
 
 
