@@ -40,7 +40,8 @@
 * [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/pdf/2311.16813)
 * [Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/pdf/2408.07605)
 * [ControlNeXt: Powerful and Efficient Control for Image and Video Generation](https://arxiv.org/pdf/2408.06070)
-
+* [xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations](https://arxiv.org/pdf/2408.12590v1)
+* [Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/pdf/2401.03048)
 
 # Multimodal (Vision/Language/Audio)
 * [☆] [Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
@@ -194,5 +195,8 @@
 * [VLM][Autoregressive Image Generation without Vector Quantization](https://arxiv.org/pdf/2406.11838)
 * [VLM][Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/pdf/2405.09818)
 * [VLM][Language Model Beats Diffusion Tokenizer is key to visual generation](https://arxiv.org/pdf/2310.05737v2)
-
-
+* [DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](https://www.arxiv.org/pdf/2408.08152)
+* [VLM][Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/pdf/2408.11039v1)
+* [VLM][MaVEn: An Effective Multi-granularity Hybrid Visual Encoding Framework for Multimodal Large Language Model](https://arxiv.org/pdf/2408.12321v1)
+* [VLM][xGen-MM (BLIP-3): A Family of Open Large Multimodal Models](https://www.arxiv.org/pdf/2408.08872)
+* [VLM][Building and better understanding vision-language models: insights and future directions](https://arxiv.org/pdf/2408.12637v1)
