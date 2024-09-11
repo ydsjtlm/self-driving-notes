@@ -36,6 +36,9 @@
 * [BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation](https://arxiv.org/pdf/2403.11761.pdf)
 * [GaussianBeV : 3D Gaussian Representation meets Perception Models for BeV Segmentation](https://arxiv.org/pdf/2407.14108)
 * [FlatFusion: Delving into Details of Sparse Transformer-based Camera-LiDAR Fusion for Autonomous Driving](https://arxiv.org/pdf/2408.06832)
+* [Vision-Driven 2D Supervised Fine-Tuning Framework for Bird’s Eye View Perception](https://arxiv.org/pdf/2409.05834)
+
+
 
 # BEV分割 (LaneGraph)
 * [Learning and Aggregating Lane Graphs for Urban Automated Driving](https://arxiv.org/abs/2302.06175) 
@@ -68,7 +71,7 @@
 * [P-MapNet: Far-seeing Map Constructer Enhanced by both SDMap and HDMap Priors](https://openreview.net/pdf?id=lgDrVM9Rpx)
 * [Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction](https://arxiv.org/pdf/2402.17430.pdf)
 * [HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction](https://arxiv.org/pdf/2403.08639.pdf)
-
+* [Driving with Prior Maps: Unified Vector Prior Encoding for Autonomous Vehicle Mapping](https://arxiv.org/pdf/2409.05352)
 
 # BEV Occupancy
 * [Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2302.07817.pdf) [[Code]](https://github.com/wzzheng/TPVFormer) [[笔记]](https://zhuanlan.zhihu.com/p/648813002)

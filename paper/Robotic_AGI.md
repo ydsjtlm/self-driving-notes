@@ -21,7 +21,7 @@
 * [A Survey for Foundation Models in Autonomous Driving](https://arxiv.org/pdf/2402.01105.pdf)
 * [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/pdf/2311.17918.pdf)
 * [ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving](https://arxiv.org/pdf/2403.02877.pdf)
-
+* [Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving](https://arxiv.org/pdf/2408.14197v1)
 # Robotic
 * [Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion](https://arxiv.org/pdf/2407.10973)
 
