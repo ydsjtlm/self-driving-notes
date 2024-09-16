@@ -188,6 +188,7 @@
 * [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis](https://arxiv.org/pdf/2307.01952.pdf)
 * [Scalable Diffusion Models with Transformers](https://arxiv.org/pdf/2212.09748.pdf)
 * [入门：Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/pdf/2403.18103.pdf)
+* [DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving](https://arxiv.org/pdf/2408.00415)
 
 
 # CV

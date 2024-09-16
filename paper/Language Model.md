@@ -200,3 +200,5 @@
 * [VLM][MaVEn: An Effective Multi-granularity Hybrid Visual Encoding Framework for Multimodal Large Language Model](https://arxiv.org/pdf/2408.12321v1)
 * [VLM][xGen-MM (BLIP-3): A Family of Open Large Multimodal Models](https://www.arxiv.org/pdf/2408.08872)
 * [VLM][Building and better understanding vision-language models: insights and future directions](https://arxiv.org/pdf/2408.12637v1)
+* [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/pdf/2407.21787)
+* [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/pdf/2408.03314)
