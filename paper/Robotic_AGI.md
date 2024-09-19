@@ -24,6 +24,7 @@
 * [Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving](https://arxiv.org/pdf/2408.14197v1)
 # Robotic
 * [Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion](https://arxiv.org/pdf/2407.10973)
+* [Surfer: Progressive Reasoning with World Models for Robotic Manipulation](https://arxiv.org/pdf/2306.11335)
 
 # LLM and AD
 * [A Survey of Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2311.01043.pdf) 
@@ -57,3 +58,5 @@
 * [Generalized Predictive Model for Autonomous Driving](https://arxiv.org/pdf/2403.09630.pdf)
 * [SparseAD: Sparse Query-Centric Paradigm for Efficient End-to-End Autonomous Driving](https://arxiv.org/pdf/2404.06892.pdf)
 * [OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning](https://arxiv.org/pdf/2405.01533)
+* [Hint-AD: Holistically Aligned Interpretability in End-to-End Autonomous Driving](https://arxiv.org/pdf/2409.06702)
+* [Video Token Sparsification for Efficient Multimodal LLMs in Autonomous Driving](https://arxiv.org/pdf/2409.11182v1)

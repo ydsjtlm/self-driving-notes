@@ -42,6 +42,7 @@
 * [ControlNeXt: Powerful and Efficient Control for Image and Video Generation](https://arxiv.org/pdf/2408.06070)
 * [xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations](https://arxiv.org/pdf/2408.12590v1)
 * [Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/pdf/2401.03048)
+* [OmniGen: Unified Image Generation](https://arxiv.org/pdf/2409.11340v1)
 
 # Multimodal (Vision/Language/Audio)
 * [☆] [Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
@@ -202,3 +203,5 @@
 * [VLM][Building and better understanding vision-language models: insights and future directions](https://arxiv.org/pdf/2408.12637v1)
 * [Large Language Monkeys: Scaling Inference Compute with Repeated Sampling](https://arxiv.org/pdf/2407.21787)
 * [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/pdf/2408.03314)
+* [VLM][NVLM: Open Frontier-Class Multimodal LLMs](https://arxiv.org/pdf/2409.11402v1)
+* [Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution](https://arxiv.org/pdf/2409.12191v1)
