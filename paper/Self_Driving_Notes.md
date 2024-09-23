@@ -71,7 +71,10 @@
 * [P-MapNet: Far-seeing Map Constructer Enhanced by both SDMap and HDMap Priors](https://openreview.net/pdf?id=lgDrVM9Rpx)
 * [Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction](https://arxiv.org/pdf/2402.17430.pdf)
 * [HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction](https://arxiv.org/pdf/2403.08639.pdf)
+* [Local map Construction Methods with SD map A Novel Survey](https://arxiv.org/abs/2409.02415)
 * [Driving with Prior Maps: Unified Vector Prior Encoding for Autonomous Vehicle Mapping](https://arxiv.org/pdf/2409.05352)
+
+
 
 # BEV Occupancy
 * [Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2302.07817.pdf) [[Code]](https://github.com/wzzheng/TPVFormer) [[笔记]](https://zhuanlan.zhihu.com/p/648813002)
