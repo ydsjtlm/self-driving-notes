@@ -100,6 +100,8 @@
 * [Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution](https://arxiv.org/pdf/2403.08748.pdf)
 * [Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2404.04561.pdf)
 * [SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction](https://arxiv.org/pdf/2404.09502.pdf)
+* [OPUS: Occupancy Prediction Using a Sparse Set](https://arxiv.org/pdf/2409.09350)
+
 
 # 矢量化
 * [PolyFormer Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387)[[阅读笔记]](https://zhuanlan.zhihu.com/p/650991896)
