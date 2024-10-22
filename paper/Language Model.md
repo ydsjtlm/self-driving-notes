@@ -43,6 +43,7 @@
 * [xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations](https://arxiv.org/pdf/2408.12590v1)
 * [Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/pdf/2401.03048)
 * [OmniGen: Unified Image Generation](https://arxiv.org/pdf/2409.11340v1)
+* [DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation](https://arxiv.org/pdf/2410.13571v1)
 
 # Multimodal (Vision/Language/Audio)
 * [☆] [Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
@@ -207,3 +208,7 @@
 * [Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution](https://arxiv.org/pdf/2409.12191v1)
 * [Emu3: Next-Token Prediction is All You Need](https://arxiv.org/pdf/2409.18869)
 * [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2410.13848)
+* [xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs](https://arxiv.org/pdf/2410.16267v1)
+* [Q-VLM: Post-training Quantization for Large Vision-Language Models](https://arxiv.org/pdf/2410.08119v1)
+* [SparseLLM: Towards Global Pruning of Pre-trained Language Models](https://arxiv.org/abs/2402.17946)
+* [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/pdf/2410.02757v1)
