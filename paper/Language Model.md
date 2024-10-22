@@ -205,3 +205,5 @@
 * [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/pdf/2408.03314)
 * [VLM][NVLM: Open Frontier-Class Multimodal LLMs](https://arxiv.org/pdf/2409.11402v1)
 * [Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution](https://arxiv.org/pdf/2409.12191v1)
+* [Emu3: Next-Token Prediction is All You Need](https://arxiv.org/pdf/2409.18869)
+* [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2410.13848)

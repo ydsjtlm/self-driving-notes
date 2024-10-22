@@ -37,6 +37,7 @@
 * [GaussianBeV : 3D Gaussian Representation meets Perception Models for BeV Segmentation](https://arxiv.org/pdf/2407.14108)
 * [FlatFusion: Delving into Details of Sparse Transformer-based Camera-LiDAR Fusion for Autonomous Driving](https://arxiv.org/pdf/2408.06832)
 * [Vision-Driven 2D Supervised Fine-Tuning Framework for Bird’s Eye View Perception](https://arxiv.org/pdf/2409.05834)
+* [UniDrive: Towards Universal Driving Perception Across Camera Configurations](https://arxiv.org/pdf/2410.13864)
 
 
 
@@ -101,7 +102,7 @@
 * [Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2404.04561.pdf)
 * [SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction](https://arxiv.org/pdf/2404.09502.pdf)
 * [OPUS: Occupancy Prediction Using a Sparse Set](https://arxiv.org/pdf/2409.09350)
-
+* [DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model](https://arxiv.org/pdf/2410.10429)
 
 # 矢量化
 * [PolyFormer Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387)[[阅读笔记]](https://zhuanlan.zhihu.com/p/650991896)
