@@ -44,6 +44,9 @@
 * [Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/pdf/2401.03048)
 * [OmniGen: Unified Image Generation](https://arxiv.org/pdf/2409.11340v1)
 * [DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation](https://arxiv.org/pdf/2410.13571v1)
+* [FreeVS: Generative View Synthesis on Free Driving Trajectory](https://arxiv.org/pdf/2410.18079v1)
+* [X-DRIVE: CROSS-MODALITY CONSISTENT MULTISENSOR DATA SYNTHESIS FOR DRIVING SCENARIOS](https://arxiv.org/pdf/2411.01123v1)
+
 
 # Multimodal (Vision/Language/Audio)
 * [☆] [Segment Anything](https://arxiv.org/pdf/2304.02643.pdf) [【阅读笔记】](https://zhuanlan.zhihu.com/p/630808078)
@@ -212,3 +215,5 @@
 * [Q-VLM: Post-training Quantization for Large Vision-Language Models](https://arxiv.org/pdf/2410.08119v1)
 * [SparseLLM: Towards Global Pruning of Pre-trained Language Models](https://arxiv.org/abs/2402.17946)
 * [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/pdf/2410.02757v1)
+* [LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding](https://arxiv.org/pdf/2410.17434v1)
+* 

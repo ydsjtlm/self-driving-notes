@@ -66,3 +66,4 @@
 * [Hint-AD: Holistically Aligned Interpretability in End-to-End Autonomous Driving](https://arxiv.org/pdf/2409.06702)
 * [Video Token Sparsification for Efficient Multimodal LLMs in Autonomous Driving](https://arxiv.org/pdf/2409.11182v1)
 * [HE-Drive: Human-Like End-to-End Driving with Vision Language Models](https://arxiv.org/pdf/2410.05051)
+* [Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving](https://arxiv.org/pdf/2410.22313)

@@ -74,6 +74,7 @@
 * [HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction](https://arxiv.org/pdf/2403.08639.pdf)
 * [Local map Construction Methods with SD map A Novel Survey](https://arxiv.org/abs/2409.02415)
 * [Driving with Prior Maps: Unified Vector Prior Encoding for Autonomous Vehicle Mapping](https://arxiv.org/pdf/2409.05352)
+* [Driving by the Rules: A Benchmark for Integrating Traffic Sign Regulations into Vectorized HD Map](https://arxiv.org/pdf/2410.23780v1)
 
 
 
@@ -219,4 +220,5 @@
 * [LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.05246.pdf)
 * [Adapting LLaMA Decoder to Vision Transformer](https://arxiv.org/pdf/2404.06773.pdf)
 * [An Introduction to Vision-Language Modeling](https://arxiv.org/pdf/2405.17247)
+* [D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement](https://arxiv.org/pdf/2410.13842)
 
