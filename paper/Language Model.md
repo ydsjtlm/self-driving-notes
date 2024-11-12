@@ -46,6 +46,7 @@
 * [DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation](https://arxiv.org/pdf/2410.13571v1)
 * [FreeVS: Generative View Synthesis on Free Driving Trajectory](https://arxiv.org/pdf/2410.18079v1)
 * [X-DRIVE: CROSS-MODALITY CONSISTENT MULTISENSOR DATA SYNTHESIS FOR DRIVING SCENARIOS](https://arxiv.org/pdf/2411.01123v1)
+* [Randomized Autoregressive Visual Generation](https://arxiv.org/pdf/2411.00776)
 
 
 # Multimodal (Vision/Language/Audio)
@@ -185,7 +186,7 @@
 * [Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://arxiv.org/pdf/2403.13248.pdf)
 * [CLIP-BEVFormer: Enhancing Multi-View Image-Based BEV Detector with Ground Truth Flow](https://arxiv.org/pdf/2403.08919.pdf)
 * [MiniGPT4-Video: Advancing Multimodal LLMs for Video Understanding with Interleaved Visual-Textual Tokens](https://arxiv.org/pdf/2404.03413.pdf)
-* [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/pdf/2404.02905.pdf)
+* [VAR_Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/pdf/2404.02905.pdf)
 * [Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models](https://arxiv.org/pdf/2403.18814.pdf)
 * [Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation](https://arxiv.org/pdf/2406.06525)
 * [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/pdf/2406.09246)
@@ -216,4 +217,4 @@
 * [SparseLLM: Towards Global Pruning of Pre-trained Language Models](https://arxiv.org/abs/2402.17946)
 * [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/pdf/2410.02757v1)
 * [LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding](https://arxiv.org/pdf/2410.17434v1)
-* 
+* [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://arxiv.org/pdf/2411.04905)

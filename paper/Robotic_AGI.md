@@ -30,6 +30,7 @@
 # Robotic
 * [Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion](https://arxiv.org/pdf/2407.10973)
 * [Surfer: Progressive Reasoning with World Models for Robotic Manipulation](https://arxiv.org/pdf/2306.11335)
+* [End-to-End Navigation with Vision-Language Models: Transforming Spatial Reasoning into Question-Answering](https://arxiv.org/pdf/2411.05755v1)
 
 # LLM and AD
 * [A Survey of Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2311.01043.pdf) 
@@ -67,3 +68,4 @@
 * [Video Token Sparsification for Efficient Multimodal LLMs in Autonomous Driving](https://arxiv.org/pdf/2409.11182v1)
 * [HE-Drive: Human-Like End-to-End Driving with Vision Language Models](https://arxiv.org/pdf/2410.05051)
 * [Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving](https://arxiv.org/pdf/2410.22313)
+* [EMMA: End-to-End Multimodal Modelfor Autonomous Driving](https://arxiv.org/pdf/2410.23262)
