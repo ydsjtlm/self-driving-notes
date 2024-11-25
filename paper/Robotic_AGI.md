@@ -69,3 +69,5 @@
 * [HE-Drive: Human-Like End-to-End Driving with Vision Language Models](https://arxiv.org/pdf/2410.05051)
 * [Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving](https://arxiv.org/pdf/2410.22313)
 * [EMMA: End-to-End Multimodal Modelfor Autonomous Driving](https://arxiv.org/pdf/2410.23262)
+* [DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving](https://arxiv.org/pdf/2411.15139v1)
+* [VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving](https://arxiv.org/pdf/2411.14716v1)
