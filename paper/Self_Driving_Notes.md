@@ -75,7 +75,7 @@
 * [Local map Construction Methods with SD map A Novel Survey](https://arxiv.org/abs/2409.02415)
 * [Driving with Prior Maps: Unified Vector Prior Encoding for Autonomous Vehicle Mapping](https://arxiv.org/pdf/2409.05352)
 * [Driving by the Rules: A Benchmark for Integrating Traffic Sign Regulations into Vectorized HD Map](https://arxiv.org/pdf/2410.23780v1)
-
+* [Enhancing Lane Segment Perception and Topology Reasoning with Crowdsourcing Trajectory Priors](https://arxiv.org/pdf/2411.17161v1)
 
 
 # BEV Occupancy
@@ -221,4 +221,5 @@
 * [Adapting LLaMA Decoder to Vision Transformer](https://arxiv.org/pdf/2404.06773.pdf)
 * [An Introduction to Vision-Language Modeling](https://arxiv.org/pdf/2405.17247)
 * [D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement](https://arxiv.org/pdf/2410.13842)
+* [FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry](https://arxiv.org/pdf/2408.14035)
 
