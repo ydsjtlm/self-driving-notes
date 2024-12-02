@@ -76,7 +76,7 @@
 * [Driving with Prior Maps: Unified Vector Prior Encoding for Autonomous Vehicle Mapping](https://arxiv.org/pdf/2409.05352)
 * [Driving by the Rules: A Benchmark for Integrating Traffic Sign Regulations into Vectorized HD Map](https://arxiv.org/pdf/2410.23780v1)
 * [Enhancing Lane Segment Perception and Topology Reasoning with Crowdsourcing Trajectory Priors](https://arxiv.org/pdf/2411.17161v1)
-
+* [T2SG: Traffic Topology Scene Graph for Topology Reasoning in Autonomous Driving](https://arxiv.org/pdf/2411.18894v1)
 
 # BEV Occupancy
 * [Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2302.07817.pdf) [[Code]](https://github.com/wzzheng/TPVFormer) [[笔记]](https://zhuanlan.zhihu.com/p/648813002)
@@ -130,6 +130,9 @@
 * [Towards learning-based planning: The nuPlan benchmark for real-world autonomous driving](https://arxiv.org/pdf/2403.04133.pdf)
 * [LARGE TRAJECTORY MODELS ARE SCALABLE MOTION PREDICTORS AND PLANNERS](https://arxiv.org/pdf/2310.19620.pdf)
 * [Rethinking Imitation-based Planner for Autonomous Driving](https://arxiv.org/pdf/2309.10443)
+* [A Multi-Loss Strategy for Vehicle Trajectory Prediction: Combining Off-Road, Diversity, and Directional Consistency Losses](https://arxiv.org/pdf/2411.19747v1)
+* [Utilizing Navigation Paths to Generate Target Points for Enhanced End-to-End Autonomous Driving Planning](https://arxiv.org/pdf/2406.08349)
+
 
 # Localization
 * [U-BEV: Height-aware Bird's-Eye-View Segmentation and Neural Map-based Relocalization](https://arxiv.org/pdf/2310.13766.pdf)

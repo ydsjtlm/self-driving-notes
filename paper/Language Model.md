@@ -218,3 +218,4 @@
 * [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/pdf/2410.02757v1)
 * [LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding](https://arxiv.org/pdf/2410.17434v1)
 * [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://arxiv.org/pdf/2411.04905)
+* [CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation](https://arxiv.org/pdf/2411.19650v1)
