@@ -31,6 +31,10 @@
 * [Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion](https://arxiv.org/pdf/2407.10973)
 * [Surfer: Progressive Reasoning with World Models for Robotic Manipulation](https://arxiv.org/pdf/2306.11335)
 * [End-to-End Navigation with Vision-Language Models: Transforming Spatial Reasoning into Question-Answering](https://arxiv.org/pdf/2411.05755v1)
+* [NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/pdf/2412.04453v1)
+* [Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks](https://arxiv.org/pdf/2412.06224)
+
+
 
 # LLM and AD
 * [A Survey of Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2311.01043.pdf) 
@@ -71,3 +75,6 @@
 * [EMMA: End-to-End Multimodal Modelfor Autonomous Driving](https://arxiv.org/pdf/2410.23262)
 * [DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving](https://arxiv.org/pdf/2411.15139v1)
 * [VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving](https://arxiv.org/pdf/2411.14716v1)
+* [DriveMM: All-in-One Large Multimodal Model for Autonomous Driving](https://arxiv.org/pdf/2412.07689v1)
+* [Doe-1: Closed-Loop Autonomous Driving with Large World Model](https://arxiv.org/pdf/2412.09627)
+* [WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model](https://arxiv.org/pdf/2412.09951v1)

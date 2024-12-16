@@ -104,6 +104,8 @@
 * [SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction](https://arxiv.org/pdf/2404.09502.pdf)
 * [OPUS: Occupancy Prediction Using a Sparse Set](https://arxiv.org/pdf/2409.09350)
 * [DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model](https://arxiv.org/pdf/2410.10429)
+* [EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding](https://arxiv.org/pdf/2412.04380v1)
+* [GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction](https://arxiv.org/pdf/2412.10373v1)
 
 # 矢量化
 * [PolyFormer Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387)[[阅读笔记]](https://zhuanlan.zhihu.com/p/650991896)
@@ -174,6 +176,7 @@
 * [Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving](https://arxiv.org/pdf/2403.05907.pdf)
 * [TCLC-GS: Tightly Coupled LiDAR-Camera Gaussian Splatting for Surrounding Autonomous Driving Scenes](https://arxiv.org/pdf/2404.02410.pdf)
 * [RoadBEV: Road Surface Reconstruction in Bird’s Eye View](https://arxiv.org/pdf/2404.06605.pdf)
+* [DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving](https://arxiv.org/pdf/2412.09043)
 
 
 # Diffusion
@@ -199,6 +202,7 @@
 * [Scalable Diffusion Models with Transformers](https://arxiv.org/pdf/2212.09748.pdf)
 * [入门：Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/pdf/2403.18103.pdf)
 * [DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving](https://arxiv.org/pdf/2408.00415)
+* [ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration](https://arxiv.org/pdf/2411.19548v1)
 
 
 # CV

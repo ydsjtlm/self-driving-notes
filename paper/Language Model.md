@@ -47,6 +47,9 @@
 * [FreeVS: Generative View Synthesis on Free Driving Trajectory](https://arxiv.org/pdf/2410.18079v1)
 * [X-DRIVE: CROSS-MODALITY CONSISTENT MULTISENSOR DATA SYNTHESIS FOR DRIVING SCENARIOS](https://arxiv.org/pdf/2411.01123v1)
 * [Randomized Autoregressive Visual Generation](https://arxiv.org/pdf/2411.00776)
+* [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://github.com/Tencent/HunyuanVideo)
+* [Infinity∞: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](https://arxiv.org/pdf/2412.04431)
+* [You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale](https://arxiv.org/pdf/2412.06699)
 
 
 # Multimodal (Vision/Language/Audio)
@@ -219,3 +222,5 @@
 * [LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding](https://arxiv.org/pdf/2410.17434v1)
 * [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://arxiv.org/pdf/2411.04905)
 * [CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation](https://arxiv.org/pdf/2411.19650v1)
+* [Multimodal Latent Language Modeling with Next-Token Diffusion](https://arxiv.org/pdf/2412.08635)
+* [DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/pdf/2412.10302v1)
