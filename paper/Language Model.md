@@ -224,3 +224,7 @@
 * [CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation](https://arxiv.org/pdf/2411.19650v1)
 * [Multimodal Latent Language Modeling with Next-Token Diffusion](https://arxiv.org/pdf/2412.08635)
 * [DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/pdf/2412.10302v1)
+* [Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/pdf/2412.09871)
+* [FastVLM: Efficient Vision Encoding for Vision Language Models](https://arxiv.org/pdf/2412.13303)
+* [LLM Post-Training: A Deep Dive into Reasoning Large Language Models](https://arxiv.org/pdf/2502.21321)
+* [Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero/blob/main/ORZ_paper.pdf)

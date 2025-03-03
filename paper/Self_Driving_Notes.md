@@ -229,4 +229,6 @@
 * [An Introduction to Vision-Language Modeling](https://arxiv.org/pdf/2405.17247)
 * [D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement](https://arxiv.org/pdf/2410.13842)
 * [FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry](https://arxiv.org/pdf/2408.14035)
+* [DETRs Beat YOLOs on Real-time Object Detection](https://arxiv.org/pdf/2304.08069)
+* [Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment](https://arxiv.org/pdf/2207.13085)
 
