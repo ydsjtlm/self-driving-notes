@@ -77,6 +77,7 @@
 * [Driving by the Rules: A Benchmark for Integrating Traffic Sign Regulations into Vectorized HD Map](https://arxiv.org/pdf/2410.23780v1)
 * [Enhancing Lane Segment Perception and Topology Reasoning with Crowdsourcing Trajectory Priors](https://arxiv.org/pdf/2411.17161v1)
 * [T2SG: Traffic Topology Scene Graph for Topology Reasoning in Autonomous Driving](https://arxiv.org/pdf/2411.18894v1)
+* [FastMap: Fast Queries Initialization Based Vectorized HD Map Reconstruction Framework](https://arxiv.org/pdf/2503.05492)
 
 # BEV Occupancy
 * [Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2302.07817.pdf) [[Code]](https://github.com/wzzheng/TPVFormer) [[笔记]](https://zhuanlan.zhihu.com/p/648813002)

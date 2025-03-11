@@ -30,6 +30,8 @@
 * [VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion](https://arxiv.org/pdf/2502.18042)
 * [VaViM and VaVAM: Autonomous Driving through Video Generative Modeling](https://arxiv.org/pdf/2502.15672)
 * [Sce2DriveX: A Generalized MLLM Framework for Scene-to-Drive Learning](https://arxiv.org/pdf/2502.14917)
+* [DriveTransformer: Unified Transformer for Scalable End-to-End Autonomous Driving](https://openreview.net/pdf?id=M42KR4W9P5)
+* [GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving](https://arxiv.org/pdf/2503.05689)
 
 
 # Robotic
