@@ -230,3 +230,4 @@
 * [☆][Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero/blob/main/ORZ_paper.pdf)
 * [Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs](https://arxiv.org/pdf/2503.01307)
 * [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/pdf/2503.01785)
+* [Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models](https://arxiv.org/pdf/2503.06749)

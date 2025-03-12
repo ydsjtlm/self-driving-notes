@@ -32,6 +32,8 @@
 * [Sce2DriveX: A Generalized MLLM Framework for Scene-to-Drive Learning](https://arxiv.org/pdf/2502.14917)
 * [DriveTransformer: Unified Transformer for Scalable End-to-End Autonomous Driving](https://openreview.net/pdf?id=M42KR4W9P5)
 * [GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving](https://arxiv.org/pdf/2503.05689)
+* [AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning](https://arxiv.org/pdf/2503.07608)
+* [CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving](https://arxiv.org/pdf/2503.07425)
 
 
 # Robotic
