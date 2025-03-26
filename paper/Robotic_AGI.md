@@ -87,3 +87,6 @@
 * [DriveMM: All-in-One Large Multimodal Model for Autonomous Driving](https://arxiv.org/pdf/2412.07689v1)
 * [Doe-1: Closed-Loop Autonomous Driving with Large World Model](https://arxiv.org/pdf/2412.09627)
 * [WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model](https://arxiv.org/pdf/2412.09951v1)
+* [Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](https://arxiv.org/pdf/2501.15564)
+* [DiffAD: A Unified Diffusion Modeling Approach for Autonomous Driving](https://arxiv.org/pdf/2503.12170)
+* [Hydra-NeXt: Robust Closed-Loop Driving with Open-Loop Training](https://arxiv.org/pdf/2503.12030)
