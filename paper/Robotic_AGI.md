@@ -336,7 +336,6 @@
 * [NuPlanQA: A Large-Scale Dataset and Benchmark for Multi-View Driving Scene Understanding in Multi-Modal Large Language Models](https://arxiv.org/pdf/2503.12772)
 * [Centaur: Robust End-to-End Autonomous Driving with Test-Time Training](https://arxiv.org/pdf/2503.11650v1)
 * [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](https://arxiv.org/pdf/2503.20523)
-* [ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation](https://arxiv.org/pdf/2503.19755)
-  * [可以用千万VL中固定个数query替换qformer]
+* [ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation](https://arxiv.org/pdf/2503.19755) [可以用千万VL中固定个数query替换qformer]
 * [π0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/pdf/2504.16054)
-* [Robust Autonomy Emerges from Self-Play](https://arxiv.org/pdf/2502.03349)
+* [☆☆][Robust Autonomy Emerges from Self-Play](https://arxiv.org/pdf/2502.03349) [1. GIGAFLOW模拟器：高效批量模拟，支持每秒数亿次状态转换，成本低于5美元/百万公里。 2.通用策略（Generalist Policy）：单一策略适配多类交通参与者（汽车、卡车、行人等）和驾驶风格，零样本泛化至多个基准测试。3.训练规模：总计1.6亿公里驾驶数据（9500年经验），远超以往研究。  ]
