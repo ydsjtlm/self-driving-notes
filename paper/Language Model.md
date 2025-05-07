@@ -216,8 +216,8 @@
 * [Emu3: Next-Token Prediction is All You Need](https://arxiv.org/pdf/2409.18869)
 * [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2410.13848)
 * [xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs](https://arxiv.org/pdf/2410.16267v1)
-* [☆][Q-VLM: Post-training Quantization for Large Vision-Language Models](https://arxiv.org/pdf/2410.08119v1)
-* [☆][SparseLLM: Towards Global Pruning of Pre-trained Language Models](https://arxiv.org/abs/2402.17946)
+* [☆][Q-VLM: Post-training Quantization for Large Vision-Language Models](https://arxiv.org/pdf/2410.08119v1)[VLM部署/VLM提速]
+* [☆][SparseLLM: Towards Global Pruning of Pre-trained Language Models](https://arxiv.org/abs/2402.17946)[LLM部署/剪枝]
 * [☆][Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/pdf/2410.02757v1)
 * [☆][LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding](https://arxiv.org/pdf/2410.17434v1)
 * [☆][OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://arxiv.org/pdf/2411.04905)
@@ -228,14 +228,13 @@
 * [☆][VLA][Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression](https://arxiv.org/pdf/2412.03293)[code](https://github.com/juruobenruo/DexVLA)
 * [☆][VLA][DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](https://arxiv.org/pdf/2502.05855)
 * [☆☆][VLA][Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation](https://arxiv.org/pdf/2409.14411)
-* [][VLA][OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model](https://arxiv.org/pdf/2503.23463)
+* [☆][VLA][OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model](https://arxiv.org/pdf/2503.23463)
 * [☆][Multimodal Latent Language Modeling with Next-Token Diffusion](https://arxiv.org/pdf/2412.08635)
 * [☆][DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/pdf/2412.10302v1)
 * [☆][Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/pdf/2412.09871)
-* [☆][FastVLM: Efficient Vision Encoding for Vision Language Models](https://arxiv.org/pdf/2412.13303)
-* [☆][LLM Post-Training: A Deep Dive into Reasoning Large Language Models](https://arxiv.org/pdf/2502.21321)
+* [☆][FastVLM: Efficient Vision Encoding for Vision Language Models](https://arxiv.org/pdf/2412.13303)[VLM部署/VLM提速]
+* [☆][LLM Post-Training: A Deep Dive into Reasoning Large Language Models](https://arxiv.org/pdf/2502.21321)[post-training/综述]
 * [☆][Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero/blob/main/ORZ_paper.pdf)
-* [☆][Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs](https://arxiv.org/pdf/2503.01307)
 * [☆][Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/pdf/2503.01785)
 * [☆][Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models](https://arxiv.org/pdf/2503.06749)
 * [☆][MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://arxiv.org/pdf/2503.07365)
@@ -243,16 +242,22 @@
 * [☆][Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/pdf/2503.09573)
 * [☆][Understanding R1-Zero-Like Training: A Critical Perspective](https://github.com/sail-sg/understand-r1-zero/blob/main/understand-r1-zero.pdf)
 * [☆][Video-T1: Test-Time Scaling for Video Generation](https://arxiv.org/pdf/2503.18942)
-* [EfficientLLaVA:Generalizable Auto-Pruning for Large Vision-language Models](https://arxiv.org/pdf/2503.15369)
-* [SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding](https://arxiv.org/pdf/2503.18943)
+* [☆][EfficientLLaVA:Generalizable Auto-Pruning for Large Vision-language Models](https://arxiv.org/pdf/2503.15369) [VLM部署/VLM提速/剪枝]
+* [☆][SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding](https://arxiv.org/pdf/2503.18943) [长视频理解/]
 * [Unified Autoregressive Visual Generation and Understanding with Continuous Tokens](https://arxiv.org/pdf/2503.13436)
 * [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://dapo-sia.github.io/static/pdf/dapo_paper.pdf)
 * [Qwen2.5-Omni Technical Report](https://github.com/QwenLM/Qwen2.5-Omni/blob/main/assets/Qwen2.5_Omni.pdf)
 * [Video-R1: Reinforcing Video Reasoning in MLLMs](https://arxiv.org/pdf/2503.21776)
-* [MAGI-1: Autoregressive Video Generation at Scale](https://static.magi.world/static/files/MAGI_1.pdf)
-* [Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation](https://arxiv.org/pdf/2503.16430)
-* [Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs](https://arxiv.org/pdf/2503.01307)
-* [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://arxiv.org/pdf/2504.13837)
-* [Rethinking Reflection in Pre-Training](https://arxiv.org/pdf/2504.04022)
-* [TTRL: Test-Time Reinforcement Learning](https://arxiv.org/pdf/2504.16084)
-* [Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/pdf/2504.02495)
+* [☆][MAGI-1: Autoregressive Video Generation at Scale](https://static.magi.world/static/files/MAGI_1.pdf)[TBD/视频生成]
+* [☆][Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation](https://arxiv.org/pdf/2503.16430)[后训练量化自回归生成token离散化问题]
+* [☆][Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs](https://arxiv.org/pdf/2503.01307)[基座模型边界锁死RL能力上限]
+* [☆][Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://arxiv.org/pdf/2504.13837)[基座模型边界锁死RL能力上限]
+* [☆][Rethinking Reflection in Pre-Training](https://arxiv.org/pdf/2504.04022)[基座模型边界锁死RL能力上限]
+* [☆][TTRL: Test-Time Reinforcement Learning](https://arxiv.org/pdf/2504.16084)[基座模型边界锁死RL能力上限]
+* [☆][Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/pdf/2504.02495)[基座模型边界锁死RL能力上限]
+* [☆][SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL](http://arxiv.org/pdf/2504.11455)[AR图像生成/偏工程性/架构简洁/训练优化/推理优化]
+* [☆][Describe Anything: Detailed Localized Image and Video Captioning](https://arxiv.org/pdf/2504.16072)[图片/视频局部信息描述]
+* [☆][SmolVLM: Redefining small and efficient multimodal models](https://arxiv.org/pdf/2504.05299)[模型小型化/VLM提速]
+* [☆][Fast-Slow Thinking for Large Vision-Language Model Reasoning](https://arxiv.org/pdf/2504.18458)[VLM过度思考]
+* [NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks](https://arxiv.org/pdf/2504.19854)
+* [TinyLLaVA: A Framework of Small-scale Large Multimodal Models](https://arxiv.org/pdf/2402.14289)
