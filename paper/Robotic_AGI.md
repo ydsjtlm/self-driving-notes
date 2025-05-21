@@ -341,3 +341,12 @@
 * [☆☆][Robust Autonomy Emerges from Self-Play](https://arxiv.org/pdf/2502.03349) [仿真、强化学习]
 * [ARTEMIS: Autoregressive End-to-End Trajectory Planning with Mixture of Experts for Autonomous Driving](https://arxiv.org/pdf/2504.19580)
 * [Learning to Drive from a World Model](https://arxiv.org/pdf/2504.19077)
+* [Driving with Context: Online Map Matching for Complex Roads Using Lane Markings and Scenario Recognition](https://arxiv.org/pdf/2505.05007)
+* [PADriver: Towards Personalized Autonomous Driving](https://arxiv.org/pdf/2505.05240)[个性化]
+* [Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving](https://arxiv.org/pdf/2505.05223)[个性化]
+* [Drive in Corridors: Enhancing the Safety of End-to-end Autonomous Driving via Corridor Learning and Planning](https://arxiv.org/pdf/2504.07507)
+* [Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning](https://arxiv.org/pdf/2505.06875)
+* [UniVLA Learning to Act Anywhere with Task-centric Latent Actions](https://www.roboticsproceedings.org/rss21/p014.pdf)
+* [DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning](https://arxiv.org/pdf/2505.05360)
+* [TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving](https://arxiv.org/pdf/2505.09315)
+* [LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving](https://arxiv.org/pdf/2505.00284)

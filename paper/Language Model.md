@@ -261,3 +261,10 @@
 * [☆][Fast-Slow Thinking for Large Vision-Language Model Reasoning](https://arxiv.org/pdf/2504.18458)[VLM过度思考]
 * [NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks](https://arxiv.org/pdf/2504.19854)
 * [TinyLLaVA: A Framework of Small-scale Large Multimodal Models](https://arxiv.org/pdf/2402.14289)
+* [StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](https://arxiv.org/pdf/2505.05467)
+* [LTX-Video: Realtime Video Latent Diffusion](https://arxiv.org/pdf/2501.00103)
+* [☆][VLM][Seed1.5-VL Technical Report](https://arxiv.org/pdf/2505.07062)
+* [Flow-GRPO: Training Flow Matching Models via Online RL](https://www.arxiv.org/pdf/2505.05470)
+* [Speculative Decoding Reimagined for Multimodal Large Language Models](https://arxiv.org/pdf/2505.14260)[VLM部署/VLM提速]
+* [UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2505.14682)
+* [Vid2World: Crafting Video Diffusion Models toInteractive World Models](https://arxiv.org/pdf/2505.14357)
