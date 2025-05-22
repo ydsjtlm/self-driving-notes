@@ -268,3 +268,8 @@
 * [Speculative Decoding Reimagined for Multimodal Large Language Models](https://arxiv.org/pdf/2505.14260)[VLM部署/VLM提速]
 * [UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2505.14682)
 * [Vid2World: Crafting Video Diffusion Models toInteractive World Models](https://arxiv.org/pdf/2505.14357)
+* [MMaDA: Multimodal Large Diffusion Language Models](https://arxiv.org/pdf/2505.15809)
+* [G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning](https://arxiv.org/pdf/2505.13426)
+* [VIDEORFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning](https://arxiv.org/pdf/2505.12434)
+* [LLaVA-4D: Embedding SpatioTemporal Prompt into LMMs for 4D Scene Understanding](https://arxiv.org/pdf/2505.12253)
+

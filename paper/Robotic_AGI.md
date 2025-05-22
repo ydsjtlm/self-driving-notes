@@ -319,7 +319,6 @@
 * [Video Token Sparsification for Efficient Multimodal LLMs in Autonomous Driving](https://arxiv.org/pdf/2409.11182v1)
 * [☆][HE-Drive: Human-Like End-to-End Driving with Vision Language Models](https://arxiv.org/pdf/2410.05051)
 * [Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving](https://arxiv.org/pdf/2410.22313)
-* [EMMA: End-to-End Multimodal Modelfor Autonomous Driving](https://arxiv.org/pdf/2410.23262)
 * [☆][DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving](https://arxiv.org/pdf/2411.15139v1)
 * [VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving](https://arxiv.org/pdf/2411.14716v1)
 * [DriveMM: All-in-One Large Multimodal Model for Autonomous Driving](https://arxiv.org/pdf/2412.07689v1)
@@ -350,3 +349,5 @@
 * [DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning](https://arxiv.org/pdf/2505.05360)
 * [TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving](https://arxiv.org/pdf/2505.09315)
 * [LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving](https://arxiv.org/pdf/2505.00284)
+* [OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving](https://arxiv.org/pdf/2412.15208)
+* [EMMA: End-to-End Multimodal Modelfor Autonomous Driving](https://arxiv.org/pdf/2410.23262)
