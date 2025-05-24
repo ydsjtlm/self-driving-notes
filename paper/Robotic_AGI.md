@@ -351,3 +351,5 @@
 * [LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving](https://arxiv.org/pdf/2505.00284)
 * [OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving](https://arxiv.org/pdf/2412.15208)
 * [EMMA: End-to-End Multimodal Modelfor Autonomous Driving](https://arxiv.org/pdf/2410.23262)
+* [DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving](https://arxiv.org/pdf/2505.16278)
+* [Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)](https://arxiv.org/pdf/2505.16394)

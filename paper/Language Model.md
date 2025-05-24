@@ -272,4 +272,9 @@
 * [G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning](https://arxiv.org/pdf/2505.13426)
 * [VIDEORFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning](https://arxiv.org/pdf/2505.12434)
 * [LLaVA-4D: Embedding SpatioTemporal Prompt into LMMs for 4D Scene Understanding](https://arxiv.org/pdf/2505.12253)
+* [Interactive Post-Training for Vision-Language-Action Models](https://arxiv.org/pdf/2505.17016)
+* [Multi-SpatialMLLM: Multi-Frame Spatial Understanding with MultiModal Large Language Models](https://arxiv.org/pdf/2505.17015)
+* [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/pdf/2505.16839)
+* [R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO](https://arxiv.org/pdf/2505.16673)
+* [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/pdf/2505.16990)
 
