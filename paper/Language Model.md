@@ -277,4 +277,5 @@
 * [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/pdf/2505.16839)
 * [R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO](https://arxiv.org/pdf/2505.16673)
 * [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/pdf/2505.16990)
+* [Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models](https://arxiv.org/pdf/2505.10446)
 

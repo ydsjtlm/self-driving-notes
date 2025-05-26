@@ -353,3 +353,4 @@
 * [EMMA: End-to-End Multimodal Modelfor Autonomous Driving](https://arxiv.org/pdf/2410.23262)
 * [DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving](https://arxiv.org/pdf/2505.16278)
 * [Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)](https://arxiv.org/pdf/2505.16394)
+* [TopoPoint: Enhance Topology Reasoning via Endpoint Detection in Autonomous Driving](https://arxiv.org/pdf/2505.17771)[红绿灯/E2E]
