@@ -278,4 +278,9 @@
 * [R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO](https://arxiv.org/pdf/2505.16673)
 * [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/pdf/2505.16990)
 * [Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models](https://arxiv.org/pdf/2505.10446)
+* [TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos](https://arxiv.org/pdf/2504.17343)[长视频理解/]
+* [QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning](https://www.arxiv.org/pdf/2505.17667)
+* [GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control](https://arxiv.org/pdf/2505.22421)
+* [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Mode](https://arxiv.org/pdf/2505.22421)
+* [Spurious Rewards: Rethinking Training Signals in RLVR](https://github.com/ruixin31/Rethink_RLVR/blob/main/paper/rethink-rlvr.pdf)
 
