@@ -231,6 +231,7 @@
 * [☆][VLA][OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model](https://arxiv.org/pdf/2503.23463)
 * [☆][Multimodal Latent Language Modeling with Next-Token Diffusion](https://arxiv.org/pdf/2412.08635)
 * [☆][DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/pdf/2412.10302v1)
+* [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300)
 * [☆][Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/pdf/2412.09871)
 * [☆][FastVLM: Efficient Vision Encoding for Vision Language Models](https://arxiv.org/pdf/2412.13303)[VLM部署/VLM提速]
 * [☆][LLM Post-Training: A Deep Dive into Reasoning Large Language Models](https://arxiv.org/pdf/2502.21321)[post-training/综述]
@@ -283,4 +284,12 @@
 * [GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control](https://arxiv.org/pdf/2505.22421)
 * [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Mode](https://arxiv.org/pdf/2505.22421)
 * [Spurious Rewards: Rethinking Training Signals in RLVR](https://github.com/ruixin31/Rethink_RLVR/blob/main/paper/rethink-rlvr.pdf)
+* [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/pdf/2505.22618)
+* [☆][SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models](https://arxiv.org/pdf/2504.11468)[MVLM任务SFT会影响RL性能]
+* [VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model](https://arxiv.org/pdf/2504.07615)
+* [☆][DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models](https://arxiv.org/pdf/2505.24025)[DINO+GRPO提升检测精度]
+* [UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation](https://arxiv.org/pdf/2506.03147)
+* [ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving](https://arxiv.org/pdf/2505.20024)
+* [Reinforcement Learning Enhanced LLMs: A Survey](https://simg.baai.ac.cn/paperfile/027ecaff-f505-436f-bbb0-1fc0dfbfba54.pdf)
+* [☆][DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO](https://arxiv.org/pdf/2506.07464)[GRPO改进/视频理解]
 

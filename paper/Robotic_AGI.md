@@ -350,9 +350,19 @@
 * [TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving](https://arxiv.org/pdf/2505.09315)
 * [LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving](https://arxiv.org/pdf/2505.00284)
 * [OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving](https://arxiv.org/pdf/2412.15208)
+* [☆☆][S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Model with Spatio-Temporal Visual Representation](https://arxiv.org/pdf/2505.24139)[MLLM/E2E]
 * [EMMA: End-to-End Multimodal Modelfor Autonomous Driving](https://arxiv.org/pdf/2410.23262)
 * [DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving](https://arxiv.org/pdf/2505.16278)
 * [Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)](https://arxiv.org/pdf/2505.16394)
 * [TopoPoint: Enhance Topology Reasoning via Endpoint Detection in Autonomous Driving](https://arxiv.org/pdf/2505.17771)[红绿灯/E2E]
 * [ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving](https://arxiv.org/pdf/2505.20024)
 * [DriveCamSim: Generalizable Camera Simulation via Explicit Camera Modeling for Autonomous Driving](https://arxiv.org/pdf/2505.19692)
+* [Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models](https://arxiv.org/pdf/2505.23757)[自动驾驶VLA数据集]
+* [Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving](https://arxiv.org/pdf/2505.23115)
+* [Pseudo-Simulation for Autonomous Driving](https://arxiv.org/pdf/2506.04218)
+* [Video World Models with Long-term Spatial Memory](https://arxiv.org/pdf/2506.05284)[worldmodel/时空记忆]
+* [☆][DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving](https://arxiv.org/pdf/2505.19381)[VLM+E2E+Diffusion]
+* [Generalized Trajectory Scoring for End-to-end Multimodal Planning](https://arxiv.org/pdf/2506.06664)
+* [☆][SDTagNet: Leveraging Text-Annotated Navigation Maps for Online HD Map Construction](https://arxiv.org/html/2506.08997v1)[SDmap编码]
+* [TrajFlow: Multi-modal Motion Prediction via Flow Matching](https://arxiv.org/pdf/2506.08541)
+* [☆][ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving](https://arxiv.org/abs/2506.08052)[VLM+E2E+Diffusion]
