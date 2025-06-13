@@ -292,4 +292,6 @@
 * [ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving](https://arxiv.org/pdf/2505.20024)
 * [Reinforcement Learning Enhanced LLMs: A Survey](https://simg.baai.ac.cn/paperfile/027ecaff-f505-436f-bbb0-1fc0dfbfba54.pdf)
 * [☆][DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO](https://arxiv.org/pdf/2506.07464)[GRPO改进/视频理解]
+* [☆][Magistral RL](https://mistral.ai/static/research/magistral.pdf)
+* [☆][EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models](https://arxiv.org/pdf/2506.10100)[VLA加速]
 

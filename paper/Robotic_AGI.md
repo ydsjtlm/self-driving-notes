@@ -362,7 +362,9 @@
 * [Pseudo-Simulation for Autonomous Driving](https://arxiv.org/pdf/2506.04218)
 * [Video World Models with Long-term Spatial Memory](https://arxiv.org/pdf/2506.05284)[worldmodel/时空记忆]
 * [☆][DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving](https://arxiv.org/pdf/2505.19381)[VLM+E2E+Diffusion]
-* [Generalized Trajectory Scoring for End-to-end Multimodal Planning](https://arxiv.org/pdf/2506.06664)
+* [☆][Generalized Trajectory Scoring for End-to-end Multimodal Planning](https://arxiv.org/pdf/2506.06664)[轨迹优化]
 * [☆][SDTagNet: Leveraging Text-Annotated Navigation Maps for Online HD Map Construction](https://arxiv.org/html/2506.08997v1)[SDmap编码]
-* [TrajFlow: Multi-modal Motion Prediction via Flow Matching](https://arxiv.org/pdf/2506.08541)
+* [☆][TrajFlow: Multi-modal Motion Prediction via Flow Matching](https://arxiv.org/pdf/2506.08541)[flow-match替换diffusion]
 * [☆][ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving](https://arxiv.org/abs/2506.08052)[VLM+E2E+Diffusion]
+* [GaussianFusion: Gaussian-Based Multi-Sensor Fusion for End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.00034)
+* [RoCA: Robust Cross-Domain End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.10145)
