@@ -229,6 +229,8 @@
 * [☆][VLA][DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control](https://arxiv.org/pdf/2502.05855)
 * [☆☆][VLA][Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation](https://arxiv.org/pdf/2409.14411)
 * [☆][VLA][OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model](https://arxiv.org/pdf/2503.23463)
+* [☆][VLA][OpenVLA-OFT Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success](https://arxiv.org/pdf/2502.19645)[Parallel Decoding]
+* [☆][VLA][Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding](https://arxiv.org/pdf/2503.02310)[Parallel Decoding]
 * [☆][Multimodal Latent Language Modeling with Next-Token Diffusion](https://arxiv.org/pdf/2412.08635)
 * [☆][DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/pdf/2412.10302v1)
 * [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300)
@@ -294,4 +296,7 @@
 * [☆][DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO](https://arxiv.org/pdf/2506.07464)[GRPO改进/视频理解]
 * [☆][Magistral RL](https://mistral.ai/static/research/magistral.pdf)
 * [☆][EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models](https://arxiv.org/pdf/2506.10100)[VLA加速]
+* [☆][Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)[经验时代]
+* [☆][Cognition_Engineering](https://github.com/GAIR-NLP/cognition-engineering/blob/main/assets/Cognition_Engineering_zh.pdf)[认知工程]
+
 
