@@ -298,5 +298,6 @@
 * [☆][EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models](https://arxiv.org/pdf/2506.10100)[VLA加速]
 * [☆][Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)[经验时代]
 * [☆][Cognition_Engineering](https://github.com/GAIR-NLP/cognition-engineering/blob/main/assets/Cognition_Engineering_zh.pdf)[认知工程]
+* [☆][VLA/E2E][AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](https://arxiv.org/pdf/2506.13757)[VLA/E2E/GRPO/RL]
 
 
