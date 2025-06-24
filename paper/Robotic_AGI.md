@@ -371,3 +371,4 @@
 * [Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis](https://arxiv.org/pdf/2506.11526v1)[survey/vlm/e2e]
 * [Scaling Laws of Motion Forecasting and Planning A Technical Report](https://arxiv.org/pdf/2506.08228)
 * [☆][Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.11234)[E2E/VLM/RL]
+* [FocalAD: Local Motion Planning for End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.11419)

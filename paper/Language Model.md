@@ -288,7 +288,7 @@
 * [Spurious Rewards: Rethinking Training Signals in RLVR](https://github.com/ruixin31/Rethink_RLVR/blob/main/paper/rethink-rlvr.pdf)
 * [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/pdf/2505.22618)
 * [☆][SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models](https://arxiv.org/pdf/2504.11468)[MVLM任务SFT会影响RL性能]
-* [VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model](https://arxiv.org/pdf/2504.07615)
+* [☆][VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model](https://arxiv.org/pdf/2504.07615)
 * [☆][DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models](https://arxiv.org/pdf/2505.24025)[DINO+GRPO提升检测精度]
 * [UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation](https://arxiv.org/pdf/2506.03147)
 * [ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving](https://arxiv.org/pdf/2505.20024)
