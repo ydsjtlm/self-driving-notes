@@ -262,12 +262,12 @@
 * [☆][Describe Anything: Detailed Localized Image and Video Captioning](https://arxiv.org/pdf/2504.16072)[图片/视频局部信息描述]
 * [☆][SmolVLM: Redefining small and efficient multimodal models](https://arxiv.org/pdf/2504.05299)[模型小型化/VLM提速]
 * [☆][Fast-Slow Thinking for Large Vision-Language Model Reasoning](https://arxiv.org/pdf/2504.18458)[VLM过度思考]
-* [NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks](https://arxiv.org/pdf/2504.19854)
-* [TinyLLaVA: A Framework of Small-scale Large Multimodal Models](https://arxiv.org/pdf/2402.14289)
-* [StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](https://arxiv.org/pdf/2505.05467)
-* [LTX-Video: Realtime Video Latent Diffusion](https://arxiv.org/pdf/2501.00103)
+* [☆][NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks](https://arxiv.org/pdf/2504.19854)[VLA+FAST-encoder]
+* [☆][TinyLLaVA: A Framework of Small-scale Large Multimodal Models](https://arxiv.org/pdf/2402.14289)
+* [☆][StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](https://arxiv.org/pdf/2505.05467)[流式视频理解]
+* [☆][LTX-Video: Realtime Video Latent Diffusion](https://arxiv.org/pdf/2501.00103)[视频生成、VAE/Diffusion]
 * [☆][VLM][Seed1.5-VL Technical Report](https://arxiv.org/pdf/2505.07062)
-* [Flow-GRPO: Training Flow Matching Models via Online RL](https://www.arxiv.org/pdf/2505.05470)
+* [☆][Flow-GRPO: Training Flow Matching Models via Online RL](https://www.arxiv.org/pdf/2505.05470)[图像视频生成+GRPO]
 * [Speculative Decoding Reimagined for Multimodal Large Language Models](https://arxiv.org/pdf/2505.14260)[VLM部署/VLM提速]
 * [UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2505.14682)
 * [Vid2World: Crafting Video Diffusion Models toInteractive World Models](https://arxiv.org/pdf/2505.14357)
@@ -299,5 +299,6 @@
 * [☆][Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)[经验时代]
 * [☆][Cognition_Engineering](https://github.com/GAIR-NLP/cognition-engineering/blob/main/assets/Cognition_Engineering_zh.pdf)[认知工程]
 * [☆][VLA/E2E][AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](https://arxiv.org/pdf/2506.13757)[VLA/E2E/GRPO/RL]
+* [☆][Real-Time Execution of Action Chunking Flow Policies](https://www.physicalintelligence.company/download/real_time_chunking.pdf)[VLA/Action Chunking]
 
 
