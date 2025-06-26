@@ -296,13 +296,19 @@
 * [☆][DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO](https://arxiv.org/pdf/2506.07464)[GRPO改进/视频理解]
 * [☆][Magistral RL](https://mistral.ai/static/research/magistral.pdf)
 * [☆][EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models](https://arxiv.org/pdf/2506.10100)[VLA加速]
-* [☆][PEVLM: Parallel Encoding for Vision-Language Models](https://arxiv.org/pdf/2506.19651)[VLM/VLA/部署/加速]
+* [☆][PEVLM: Parallel Encoding for Vision-Language Models](https://arxiv.org/pdf/2506.19651)[VLM/VLA/部署/加速/Parallel Encoding]
+* [☆][ParallelComp: Parallel Long-Context Compressor for Length Extrapolation](https://arxiv.org/pdf/2502.14317)[Parallel Encoding]
+* [☆][APE: Faster and Longer Context-Augmented Generation via Adaptive Parallel Encoding](https://arxiv.org/pdf/2502.05431)[Parallel Encoding]
+* [☆][Star Attention: Efficient LLM Inference over Long Sequences](https://arxiv.org/pdf/2411.17116)[Parallel Encoding]
+* [☆][Block-attention for efficient prefilling](https://arxiv.org/abs/2409.15355)[Parallel Encoding]
 * [☆][Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)[经验时代]
 * [☆][Cognition_Engineering](https://github.com/GAIR-NLP/cognition-engineering/blob/main/assets/Cognition_Engineering_zh.pdf)[认知工程]
 * [☆][VLA/E2E][AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](https://arxiv.org/pdf/2506.13757)[VLA/E2E/GRPO/RL]
 * [☆][Real-Time Execution of Action Chunking Flow Policies](https://www.physicalintelligence.company/download/real_time_chunking.pdf)[VLA/Action Chunking]
 * [☆][Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/pdf/2506.08011)[GRPO游戏]
-* [Think When You Need: Self-Adaptive Chain-of-Thought Learning](https://arxiv.org/pdf/2504.03234)
+* [☆][Think When You Need: Self-Adaptive Chain-of-Thought Learning](https://arxiv.org/pdf/2504.03234)[GRPO/Think优化]
+* [☆][Unified Vision-Language-Action Model](https://arxiv.org/pdf/2506.19850)[VLA结合world model]
+* [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2)
 
 
 
