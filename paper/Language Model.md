@@ -310,6 +310,7 @@
 * [☆][Unified Vision-Language-Action Model](https://arxiv.org/pdf/2506.19850)[VLA结合world model]
 * [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2)
 * [☆][LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments](https://arxiv.org/pdf/2506.07416)[pass]
+* [☆][4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration](https://arxiv.org/pdf/2506.22242)[对自动驾驶借鉴意义不大]
 
 
 
