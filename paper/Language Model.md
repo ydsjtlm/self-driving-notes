@@ -272,7 +272,7 @@
 * [☆][UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2505.14682)[TBD/生成&理解]
 * [☆][Vid2World: Crafting Video Diffusion Models toInteractive World Models](https://arxiv.org/pdf/2505.14357)[TBD]
 * [☆][MMaDA: Multimodal Large Diffusion Language Models](https://arxiv.org/pdf/2505.15809)[TBD]
-* [G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning](https://arxiv.org/pdf/2505.13426)
+* [☆][G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning](https://arxiv.org/pdf/2505.13426)[RL/VLM/游戏]
 * [VIDEORFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning](https://arxiv.org/pdf/2505.12434)
 * [LLaVA-4D: Embedding SpatioTemporal Prompt into LMMs for 4D Scene Understanding](https://arxiv.org/pdf/2505.12253)
 * [Interactive Post-Training for Vision-Language-Action Models](https://arxiv.org/pdf/2505.17016)
@@ -311,6 +311,8 @@
 * [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2)
 * [☆][LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments](https://arxiv.org/pdf/2506.07416)[pass]
 * [☆][4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration](https://arxiv.org/pdf/2506.22242)[对自动驾驶借鉴意义不大]
+* [A Survey on Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/pdf/2506.24044)
+* [Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/pdf/2506.24113)
 
 
 
