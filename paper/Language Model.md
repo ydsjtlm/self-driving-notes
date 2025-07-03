@@ -275,23 +275,23 @@
 * [☆][G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning](https://arxiv.org/pdf/2505.13426)[RL/VLM/游戏]
 * [☆][VIDEORFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning](https://arxiv.org/pdf/2505.12434)[video+GRPO/dataset]
 * [☆][LLaVA-4D: Embedding SpatioTemporal Prompt into LMMs for 4D Scene Understanding](https://arxiv.org/pdf/2505.12253)[VLM时空理解依赖depth]
-* [Interactive Post-Training for Vision-Language-Action Models](https://arxiv.org/pdf/2505.17016)
-* [Multi-SpatialMLLM: Multi-Frame Spatial Understanding with MultiModal Large Language Models](https://arxiv.org/pdf/2505.17015)
-* [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/pdf/2505.16839)
-* [R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO](https://arxiv.org/pdf/2505.16673)
-* [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/pdf/2505.16990)
-* [Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models](https://arxiv.org/pdf/2505.10446)
-* [TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos](https://arxiv.org/pdf/2504.17343)[长视频理解/]
-* [QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning](https://www.arxiv.org/pdf/2505.17667)
+* [☆][Interactive Post-Training for Vision-Language-Action Models](https://arxiv.org/pdf/2505.17016)[VLA+GRPO]
+* [☆][Multi-SpatialMLLM: Multi-Frame Spatial Understanding with MultiModal Large Language Models](https://arxiv.org/pdf/2505.17015)
+* [☆][LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/pdf/2505.16839)
+* [☆][R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO](https://arxiv.org/pdf/2505.16673)
+* [☆][Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/pdf/2505.16990)
+* [☆][Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models](https://arxiv.org/pdf/2505.10446)
+* [☆][TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming Videos](https://arxiv.org/pdf/2504.17343)[长视频理解/]
+* [☆][QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning](https://www.arxiv.org/pdf/2505.17667)[外挂文本的推理+RL]
 * [☆][GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control](https://arxiv.org/pdf/2505.22421)[自动驾驶worldmodel]
-* [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Mode](https://arxiv.org/pdf/2505.22421)
-* [Spurious Rewards: Rethinking Training Signals in RLVR](https://github.com/ruixin31/Rethink_RLVR/blob/main/paper/rethink-rlvr.pdf)
+* [☆][3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Mode](https://arxiv.org/pdf/2505.22421)[VLM时空理解]
+* [☆][Spurious Rewards: Rethinking Training Signals in RLVR](https://github.com/ruixin31/Rethink_RLVR/blob/main/paper/rethink-rlvr.pdf)
 * [☆][Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/pdf/2505.22618)[TBD]
 * [☆][SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models](https://arxiv.org/pdf/2504.11468)[MVLM任务SFT会影响RL性能]
 * [☆][VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model](https://arxiv.org/pdf/2504.07615)
 * [☆][DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models](https://arxiv.org/pdf/2505.24025)[DINO+GRPO提升检测精度]
-* [UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation](https://arxiv.org/pdf/2506.03147)
-* [ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving](https://arxiv.org/pdf/2505.20024)
+* [☆][UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation](https://arxiv.org/pdf/2506.03147)[生成&理解]
+* [☆][ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving](https://arxiv.org/pdf/2505.20024)
 * [Reinforcement Learning Enhanced LLMs: A Survey](https://simg.baai.ac.cn/paperfile/027ecaff-f505-436f-bbb0-1fc0dfbfba54.pdf)
 * [☆][DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO](https://arxiv.org/pdf/2506.07464)[GRPO改进/视频理解]
 * [☆][Magistral RL](https://mistral.ai/static/research/magistral.pdf)
@@ -308,12 +308,13 @@
 * [☆][Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/pdf/2506.08011)[GRPO游戏]
 * [☆][Think When You Need: Self-Adaptive Chain-of-Thought Learning](https://arxiv.org/pdf/2504.03234)[GRPO/Think优化]
 * [☆][Unified Vision-Language-Action Model](https://arxiv.org/pdf/2506.19850)[VLA结合world model]
-* [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2)
+* [☆][HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2)
 * [☆][LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments](https://arxiv.org/pdf/2506.07416)[pass]
 * [☆][4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration](https://arxiv.org/pdf/2506.22242)[对自动驾驶借鉴意义不大]
 * [☆][A Survey on Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/pdf/2506.24044)[Survey/VLA+AD]
 * [☆][Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/pdf/2506.24113)[world model + E2E]
 * [☆][World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model](https://arxiv.org/pdf/2507.00603)[world model + E2E/ TBD]
+* [☆][WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/pdf/2506.21539)[world model + E2E]
 * [☆][VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://arxiv.org/pdf/2507.01016)[action/VQVAE]
 
 
