@@ -231,6 +231,7 @@
 * [☆][VLA][OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model](https://arxiv.org/pdf/2503.23463)
 * [☆][VLA][OpenVLA-OFT Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success](https://arxiv.org/pdf/2502.19645)[Parallel Decoding]
 * [☆][VLA][Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding](https://arxiv.org/pdf/2503.02310)[Parallel Decoding]
+* [☆][VLA][VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](https://arxiv.org/pdf/2507.05116)[VLA/简化版cogact]
 * [☆][Multimodal Latent Language Modeling with Next-Token Diffusion](https://arxiv.org/pdf/2412.08635)
 * [☆][DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/pdf/2412.10302v1)
 * [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300)
@@ -316,6 +317,10 @@
 * [☆][World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model](https://arxiv.org/pdf/2507.00603)[world model + E2E/ TBD]
 * [☆][WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/pdf/2506.21539)[world model + E2E]
 * [☆][VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://arxiv.org/pdf/2507.01016)[action/VQVAE]
+* [☆][MemOS: A Memory OS for AI System](https://statics.memtensor.com.cn/files/MemOS_0707.pdf)[LLM长期记忆]
+* [☆][MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/pdf/2507.02259)[LLM长期记忆]
+* [☆][Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning](https://arxiv.org/pdf/2507.00432)[pass]
+
 
 
 
