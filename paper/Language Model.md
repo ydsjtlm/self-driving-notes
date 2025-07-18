@@ -316,10 +316,16 @@
 * [☆][Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/pdf/2506.24113)[world model + E2E]
 * [☆][World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model](https://arxiv.org/pdf/2507.00603)[world model + E2E/ TBD]
 * [☆][WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/pdf/2506.21539)[world model + E2E]
+* [☆][DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge](https://arxiv.org/pdf/2507.04447)[简化版world model + VLA]
 * [☆][VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://arxiv.org/pdf/2507.01016)[action/VQVAE]
 * [☆][MemOS: A Memory OS for AI System](https://statics.memtensor.com.cn/files/MemOS_0707.pdf)[LLM长期记忆]
-* [☆][MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/pdf/2507.02259)[LLM长期记忆]
+* [☆][MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/pdf/2507.02259)[LLM/long-context]
 * [☆][Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning](https://arxiv.org/pdf/2507.00432)[pass]
+* [☆][MUON IS SCALABLE FOR LLM TRAINING](https://arxiv.org/pdf/2502.16982)
+* [EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos](https://arxiv.org/pdf/2507.12440)
+* [AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models](https://www.arxiv.org/pdf/2507.12414)
+* [VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](https://arxiv.org/pdf/2507.13348)
+
 
 
 
