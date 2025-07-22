@@ -373,3 +373,4 @@
 * [☆][Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.11234)[E2E/VLM/RL]
 * [FocalAD: Local Motion Planning for End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.11419)
 * [Self-Supervised Multimodal NeRF for Autonomous Driving](https://arxiv.org/pdf/2506.19615)[lidar仿真]
+* [From Binary to Semantic: Utilizing Large-Scale Binary Occupancy Data for 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2507.13387)

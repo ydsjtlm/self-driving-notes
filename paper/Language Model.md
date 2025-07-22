@@ -325,6 +325,10 @@
 * [EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos](https://arxiv.org/pdf/2507.12440)
 * [AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models](https://www.arxiv.org/pdf/2507.12414)
 * [VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](https://arxiv.org/pdf/2507.13348)
+* [☆][Streaming 4D Visual Geometry Transformer](https://arxiv.org/pdf/2507.11539)
+* [☆][High-Resolution Visual Reasoning via Multi-Turn Grounding-Based Reinforcement Learning](https://arxiv.org/pdf/2507.05920)
+* [KIMI K2: OPEN AGENTIC INTELLIGENCE](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)
+* [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/pdf/2507.15597)
 
 
 
