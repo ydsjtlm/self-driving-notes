@@ -329,6 +329,11 @@
 * [☆][High-Resolution Visual Reasoning via Multi-Turn Grounding-Based Reinforcement Learning](https://arxiv.org/pdf/2507.05920)
 * [KIMI K2: OPEN AGENTIC INTELLIGENCE](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)
 * [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/pdf/2507.15597)
+* [ReCamMaster: Camera-Controlled Generative Rendering from A Single Video](https://arxiv.org/pdf/2503.11647)
+* [Your LLM Knows the Future Uncovering Its Multi-Token Prediction Potential](https://papers-pdfs.assets.alphaxiv.org/2507.11851v1.pdf)
+* [YUME: AN INTERACTIVE WORLD GENERATION MODEL](https://arxiv.org/pdf/2507.17744)
+* [Vision-Language-Action Instruction Tuning: From Understanding to Manipulation](https://arxiv.org/pdf/2507.17520)
+* [PRIX: Learning to Plan from Raw Pixels for End-to-End Autonomous Driving](https://arxiv.org/pdf/2507.17596)
 
 
 
