@@ -337,6 +337,7 @@
 * [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](https://arxiv.org/pdf/2503.20523)
 * [ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation](https://arxiv.org/pdf/2503.19755) [可以用千万VL中固定个数query替换qformer]
 * [π0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/pdf/2504.16054)
+* [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164v1)
 * [☆☆][Robust Autonomy Emerges from Self-Play](https://arxiv.org/pdf/2502.03349) [仿真、强化学习]
 * [ARTEMIS: Autoregressive End-to-End Trajectory Planning with Mixture of Experts for Autonomous Driving](https://arxiv.org/pdf/2504.19580)
 * [Learning to Drive from a World Model](https://arxiv.org/pdf/2504.19077)
@@ -374,3 +375,8 @@
 * [FocalAD: Local Motion Planning for End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.11419)
 * [Self-Supervised Multimodal NeRF for Autonomous Driving](https://arxiv.org/pdf/2506.19615)[lidar仿真]
 * [From Binary to Semantic: Utilizing Large-Scale Binary Occupancy Data for 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2507.13387)
+* [UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty](https://github.com/pengxuanyang/UncAD)[e2e/轨迹优化/不确定性/code]
+* [Delving into Mapping Uncertainty for Mapless Trajectory Prediction](https://arxiv.org/pdf/2507.18498)[e2e/轨迹优化/不确定性]
+* [Producing and Leveraging Online Map Uncertainty in Trajectory Prediction](https://www.alphaxiv.org/abs/2403.16439)[e2e/轨迹优化/不确定性/code]
+* [☆][RelMap: Enhancing Online Map Construction with Class-Aware Spatial Relation and Semantic Priors](https://arxiv.org/pdf/2507.21567)[bev/map/stream/moe]
+* [☆][MapDiffusion: Generative Diffusion for Vectorized Online HD Map Construction and Uncertainty Estimation in Autonomous Driving](https://arxiv.org/pdf/2507.21423)[bev/map/diffusion/Uncertainty]

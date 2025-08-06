@@ -305,7 +305,7 @@
 * [☆][Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)[经验时代]
 * [☆][Cognition_Engineering](https://github.com/GAIR-NLP/cognition-engineering/blob/main/assets/Cognition_Engineering_zh.pdf)[认知工程]
 * [☆][VLA/E2E][AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](https://arxiv.org/pdf/2506.13757)[VLA/E2E/GRPO/RL]
-* [☆][Real-Time Execution of Action Chunking Flow Policies](https://www.physicalintelligence.company/download/real_time_chunking.pdf)[VLA/Action Chunking]
+* [☆][Real-Time Execution of Action Chunking Flow Policies](https://www.physicalintelligence.company/download/real_time_chunking.pdf)[VLA/Action Chunking/Physical Intelligence]
 * [☆][Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/pdf/2506.08011)[GRPO游戏]
 * [☆][Think When You Need: Self-Adaptive Chain-of-Thought Learning](https://arxiv.org/pdf/2504.03234)[GRPO/Think优化]
 * [☆][Unified Vision-Language-Action Model](https://arxiv.org/pdf/2506.19850)[VLA结合world model]
@@ -328,12 +328,19 @@
 * [☆][Streaming 4D Visual Geometry Transformer](https://arxiv.org/pdf/2507.11539)
 * [☆][High-Resolution Visual Reasoning via Multi-Turn Grounding-Based Reinforcement Learning](https://arxiv.org/pdf/2507.05920)
 * [KIMI K2: OPEN AGENTIC INTELLIGENCE](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf)
-* [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/pdf/2507.15597)
+* [☆][Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/pdf/2507.15597)[VLA/pre-train/VQVAE]
 * [ReCamMaster: Camera-Controlled Generative Rendering from A Single Video](https://arxiv.org/pdf/2503.11647)
 * [Your LLM Knows the Future Uncovering Its Multi-Token Prediction Potential](https://papers-pdfs.assets.alphaxiv.org/2507.11851v1.pdf)
 * [YUME: AN INTERACTIVE WORLD GENERATION MODEL](https://arxiv.org/pdf/2507.17744)
 * [Vision-Language-Action Instruction Tuning: From Understanding to Manipulation](https://arxiv.org/pdf/2507.17520)
 * [PRIX: Learning to Plan from Raw Pixels for End-to-End Autonomous Driving](https://arxiv.org/pdf/2507.17596)
+* [A Survey on Vision-Language-Action Models: An Action Tokenization Perspective](https://www.alphaxiv.org/abs/2507.01925v1)
+* [☆][Group Sequence Policy Optimization](https://arxiv.org/pdf/2507.18071v1)[GSPO]
+* [☆][DriveAgent-R1: Advancing VLM-based Autonomous Driving with Hybrid Thinking and Active Perception](https://arxiv.org/pdf/2507.20879)[VLA/COT]
+* [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/pdf/2502.11089)
+* [BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset](https://www.arxiv.org/pdf/2505.09568)[统一理解+生成]
+* [On-Device Diffusion Transformer Policy for Efficient Robot Manipulation](https://arxiv.org/pdf/2508.00697)[VLA/Diffusion加速]
+* [FastDriveVLA: Efficient End-to-End Driving via Plug-and-Play Reconstruction-based Token Pruning](https://arxiv.org/pdf/2507.23318)
 
 
 
