@@ -341,6 +341,15 @@
 * [BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset](https://www.arxiv.org/pdf/2505.09568)[统一理解+生成]
 * [On-Device Diffusion Transformer Policy for Efficient Robot Manipulation](https://arxiv.org/pdf/2508.00697)[VLA/Diffusion加速]
 * [FastDriveVLA: Efficient End-to-End Driving via Plug-and-Play Reconstruction-based Token Pruning](https://arxiv.org/pdf/2507.23318)
+* [☆][VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning](https://arxiv.org/pdf/2507.22607)[VLM+RL]
+* [☆][Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning](https://arxiv.org/pdf/2508.08221)[LLM中RL集大成]
+* [☆][Reinforcement Learning in Vision: A Survey](https://www.alphaxiv.org/abs/2508.08189)[VLM+RL图片不错]
+* [☆][GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://www.alphaxiv.org/abs/2508.06471)
+* [☆][On the Generalization of SFT: A Reinforcement Learning Perspective with Reward Rectification](https://www.alphaxiv.org/overview/2508.05629v1)
+* [☆][R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://papers-pdfs.assets.alphaxiv.org/2508.05004v1.pdf)[LLM、GAN？]
+* [ReconDreamer-RL: Enhancing Reinforcement Learning via Diffusion-based Scene Reconstruction](https://arxiv.org/pdf/2508.08170)[仿真+RL+E2E]
+* [IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model](https://www.arxiv.org/pdf/2508.06571)[RL+VLA+E2E]
+* [VLM-3D: End-to-End Vision-Language Models for Open-World 3D Perception](https://arxiv.org/pdf/2508.09061)[VLM+3D]
 
 
 

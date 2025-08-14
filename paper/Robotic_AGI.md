@@ -363,6 +363,7 @@
 * [Pseudo-Simulation for Autonomous Driving](https://arxiv.org/pdf/2506.04218)
 * [Video World Models with Long-term Spatial Memory](https://arxiv.org/pdf/2506.05284)[worldmodel/时空记忆]
 * [☆][DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving](https://arxiv.org/pdf/2505.19381)[VLM+E2E+Diffusion]
+* [☆][SparseMeXt: Unlocking the Potential of Sparse Representations for HD Map Construction](https://arxiv.org/pdf/2505.08808)[BEV+sparseMAP+diffVLA]
 * [☆][Generalized Trajectory Scoring for End-to-end Multimodal Planning](https://arxiv.org/pdf/2506.06664)[轨迹优化]
 * [☆][SDTagNet: Leveraging Text-Annotated Navigation Maps for Online HD Map Construction](https://arxiv.org/html/2506.08997v1)[SDmap编码]
 * [☆][TrajFlow: Multi-modal Motion Prediction via Flow Matching](https://arxiv.org/pdf/2506.08541)[flow-match替换diffusion]
@@ -370,7 +371,7 @@
 * [GaussianFusion: Gaussian-Based Multi-Sensor Fusion for End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.00034)
 * [RoCA: Robust Cross-Domain End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.10145)
 * [Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis](https://arxiv.org/pdf/2506.11526v1)[survey/vlm/e2e]
-* [Scaling Laws of Motion Forecasting and Planning A Technical Report](https://arxiv.org/pdf/2506.08228)
+* [Scaling Laws of Motion Forecasting and Planning A Technical Report](https://arxiv.org/pdf/2506.08228)[自动驾驶Scaling Laws]
 * [☆][Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.11234)[E2E/VLM/RL]
 * [FocalAD: Local Motion Planning for End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.11419)
 * [Self-Supervised Multimodal NeRF for Autonomous Driving](https://arxiv.org/pdf/2506.19615)[lidar仿真]
@@ -380,3 +381,6 @@
 * [Producing and Leveraging Online Map Uncertainty in Trajectory Prediction](https://www.alphaxiv.org/abs/2403.16439)[e2e/轨迹优化/不确定性/code]
 * [☆][RelMap: Enhancing Online Map Construction with Class-Aware Spatial Relation and Semantic Priors](https://arxiv.org/pdf/2507.21567)[bev/map/stream/moe]
 * [☆][MapDiffusion: Generative Diffusion for Vectorized Online HD Map Construction and Uncertainty Estimation in Autonomous Driving](https://arxiv.org/pdf/2507.21423)[bev/map/diffusion/Uncertainty]
+* [ArbiViewGen: Controllable Arbitrary Viewpoint Camera Data Generation for Autonomous Driving via Stable Diffusion Models](https://www.arxiv.org/pdf/2508.05236)[视角生成]
+
+
