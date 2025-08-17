@@ -263,7 +263,7 @@
 * [NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration](https://arxiv.org/pdf/2310.07896)
 * [PPAD: Iterative Interactions of Prediction and Planning for End-to-end Autonomous Driving](https://arxiv.org/pdf/2311.08100)
 * [Joint Perception and Prediction for Autonomous Driving: A Survey](https://arxiv.org/pdf/2412.14088)
-* [CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-scale Reinforcement Learning in Autonomous Driving](https://arxiv.org/pdf/2502.19908)
+* [CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-scale Reinforcement Learning in Autonomous Driving](https://arxiv.org/pdf/2502.19908)[E2E+RL]
 * [VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers](https://arxiv.org/pdf/2502.20108)
 * [VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion](https://arxiv.org/pdf/2502.18042)
 * [VaViM and VaVAM: Autonomous Driving through Video Generative Modeling](https://arxiv.org/pdf/2502.15672)
