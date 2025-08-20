@@ -312,7 +312,7 @@
 * [☆][HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2)
 * [☆][LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments](https://arxiv.org/pdf/2506.07416)[pass]
 * [☆][4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration](https://arxiv.org/pdf/2506.22242)[对自动驾驶借鉴意义不大]
-* [☆][A Survey on Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/pdf/2506.24044)[Survey/VLA+AD]
+* [☆☆☆][A Survey on Vision-Language-Action Models for Autonomous Driving](https://arxiv.org/pdf/2506.24044)[Survey/VLA+AD+E2E非常全面]
 * [☆][Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/pdf/2506.24113)[world model + E2E]
 * [☆][World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model](https://arxiv.org/pdf/2507.00603)[world model + E2E/ TBD]
 * [☆][WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/pdf/2506.21539)[world model + E2E]
@@ -352,6 +352,13 @@
 * [☆☆☆][RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning](https://arxiv.org/pdf/2502.13144)[E2E+3DGS+RL]
 * [☆][VLM-3D: End-to-End Vision-Language Models for Open-World 3D Perception](https://arxiv.org/pdf/2508.09061)[VLM+3D]
 * [☆][DINOv3](https://arxiv.org/pdf/2508.10104)
+* [Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models](https://arxiv.org/pdf/2508.10751)
+* [☆][NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](https://arxiv.org/pdf/2508.10711)[多模态统一架构+图片生成]
+* [☆][SpaRC-AD: A Baseline for Radar-Camera Fusion in End-to-End Autonomous Driving](https://arxiv.org/pdf/2508.10567)[E2E+Sparse+多模态融合]
+* [☆][FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving](https://arxiv.org/pdf/2505.17685)[E2E/world model]
+* [Look-Back: Implicit Visual Re-focusing in MLLM Reasoning](https://arxiv.org/pdf/2507.03019)
+* [☆☆☆][SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment](https://arxiv.org/pdf/2503.09594)[VLA+E2E+carla]
+* [Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving](https://arxiv.org/pdf/2508.13305)[VLM/VLA+加速/E2E]
 
 
 

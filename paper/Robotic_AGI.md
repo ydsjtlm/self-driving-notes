@@ -358,7 +358,7 @@
 * [TopoPoint: Enhance Topology Reasoning via Endpoint Detection in Autonomous Driving](https://arxiv.org/pdf/2505.17771)[红绿灯/E2E]
 * [ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving](https://arxiv.org/pdf/2505.20024)
 * [DriveCamSim: Generalizable Camera Simulation via Explicit Camera Modeling for Autonomous Driving](https://arxiv.org/pdf/2505.19692)
-* [Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models](https://arxiv.org/pdf/2505.23757)[自动驾驶VLA数据集]
+* [Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models](https://arxiv.org/pdf/2505.23757)[自动驾驶VLA数据集/E2E+VLM]
 * [Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving](https://arxiv.org/pdf/2505.23115)
 * [Pseudo-Simulation for Autonomous Driving](https://arxiv.org/pdf/2506.04218)
 * [Video World Models with Long-term Spatial Memory](https://arxiv.org/pdf/2506.05284)[worldmodel/时空记忆]
