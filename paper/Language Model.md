@@ -359,6 +359,7 @@
 * [Look-Back: Implicit Visual Re-focusing in MLLM Reasoning](https://arxiv.org/pdf/2507.03019)
 * [☆☆☆][SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment](https://arxiv.org/pdf/2503.09594)[VLA+E2E+carla]
 * [Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving](https://arxiv.org/pdf/2508.13305)[VLM/VLA+加速/E2E]
+* [☆☆][DriveGPT4-V2: Harnessing Large Language Model Capabilities for Enhanced Closed-Loop Autonomous Driving](https://i.cs.hku.hk/~kykwong/publications/zxu_cvpr2025.pdf)[VLA+E2E]
 
 
 
