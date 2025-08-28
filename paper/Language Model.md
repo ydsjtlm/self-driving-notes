@@ -360,6 +360,13 @@
 * [☆☆☆][SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment](https://arxiv.org/pdf/2503.09594)[VLA+E2E+carla]
 * [Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving](https://arxiv.org/pdf/2508.13305)[VLM/VLA+加速/E2E]
 * [☆☆][DriveGPT4-V2: Harnessing Large Language Model Capabilities for Enhanced Closed-Loop Autonomous Driving](https://i.cs.hku.hk/~kykwong/publications/zxu_cvpr2025.pdf)[VLA+E2E]
+* [☆][面向具身操作的视觉-语言-动作模型综述](https://arxiv.org/pdf/2508.15201)[survey]
+* [☆☆][InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/pdf/2508.18265)
+* [Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](https://arxiv.org/pdf/2508.09834)[LLM架构survey]
+* [Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](https://arxiv.org/pdf/2508.09736v1)[agent+memory]
+* [MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/pdf/2508.19236)[VLA+memory]
+* [Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](https://arxiv.org/pdf/2508.15884)
+* [TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models](https://arxiv.org/pdf/2508.19257)[VLA+时序]
 
 
 
