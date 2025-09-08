@@ -367,6 +367,12 @@
 * [MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/pdf/2508.19236)[VLA+memory]
 * [Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](https://arxiv.org/pdf/2508.15884)
 * [TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models](https://arxiv.org/pdf/2508.19257)[VLA+时序]
+* [Perception in Plan: Coupled Perception and Planning for End-to-End Autonomous Driving](https://arxiv.org/pdf/2508.11488)[E2E]
+* [AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/pdf/2509.01944)[E2E/VAL/COT/GRPO]
+* [OmniReason: A Temporal-Guided Vision-Language-Action Framework for Autonomous Driving](https://arxiv.org/pdf/2509.00789)[E2E/VLA/COT/理想]
+* [Galaxea Open-World Dataset and G0 Dual-System VLA Model](https://arxiv.org/pdf/2509.00576)[VLA+双系统]
+* [Kwai Keye-VL 1.5 Technical Report](https://www.alphaxiv.org/abs/2509.01563)[]
+* [☆☆][DCPO: DYNAMIC CLIPPING POLICY OPTIMIZATION](https://arxiv.org/pdf/2509.02333)[GRPO/DCPO/RL]
 
 
 

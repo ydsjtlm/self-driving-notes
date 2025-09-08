@@ -383,5 +383,6 @@
 * [☆][MapDiffusion: Generative Diffusion for Vectorized Online HD Map Construction and Uncertainty Estimation in Autonomous Driving](https://arxiv.org/pdf/2507.21423)[bev/map/diffusion/Uncertainty]
 * [ArbiViewGen: Controllable Arbitrary Viewpoint Camera Data Generation for Autonomous Driving via Stable Diffusion Models](https://www.arxiv.org/pdf/2508.05236)[视角生成]
 * [PseudoMapTrainer: Learning Online Mapping without HD Maps](https://arxiv.org/pdf/2508.18788)[众包构图]
+* [OccTENS: 3D Occupancy World Model via Temporal Next-Scale Prediction](https://arxiv.org/pdf/2509.03887)[BEV+OCC]
 
 
