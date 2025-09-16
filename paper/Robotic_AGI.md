@@ -336,8 +336,6 @@
 * [Centaur: Robust End-to-End Autonomous Driving with Test-Time Training](https://arxiv.org/pdf/2503.11650v1)
 * [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](https://arxiv.org/pdf/2503.20523)
 * [ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation](https://arxiv.org/pdf/2503.19755) [可以用千万VL中固定个数query替换qformer]
-* [π0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/pdf/2504.16054)
-* [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164v1)
 * [☆☆][Robust Autonomy Emerges from Self-Play](https://arxiv.org/pdf/2502.03349) [仿真、强化学习]
 * [ARTEMIS: Autoregressive End-to-End Trajectory Planning with Mixture of Experts for Autonomous Driving](https://arxiv.org/pdf/2504.19580)
 * [Learning to Drive from a World Model](https://arxiv.org/pdf/2504.19077)

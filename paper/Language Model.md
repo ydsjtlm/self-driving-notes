@@ -373,6 +373,19 @@
 * [Galaxea Open-World Dataset and G0 Dual-System VLA Model](https://arxiv.org/pdf/2509.00576)[VLA+双系统]
 * [Kwai Keye-VL 1.5 Technical Report](https://www.alphaxiv.org/abs/2509.01563)[]
 * [☆☆][DCPO: DYNAMIC CLIPPING POLICY OPTIMIZATION](https://arxiv.org/pdf/2509.02333)[GRPO/DCPO/RL]
+* [LLaDA-VLA: Vision Language Diffusion Action Models](https://arxiv.org/pdf/2509.06932)[diffusion+VLA]
+* [A VISION-LANGUAGE-ACTION MODEL BRIDGING UNDERSTANDING AND GENERATION TO ACTIONS](https://arxiv.org/pdf/2509.06951)[VLA+understanding+generation]
+* [RL's Razor: Why Online Reinforcement Learning Forgets Less](https://www.arxiv.org/pdf/2509.04259v1)
+* [Why Language Models Hallucinate](https://www.arxiv.org/pdf/2509.04664)[LLM幻觉]
+* [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)[LLM幻觉]
+* [SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning](https://arxiv.org/pdf/2509.09674)[VLA+RL]
+* [AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving](https://arxiv.org/pdf/2505.15298)[VLA/E2E/Agent]
+* [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://arxiv.org/pdf/2509.02547)[LLM/Agent+RL]
+
+* [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164v1)[AGI/VLA]
+* [π0-FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://arxiv.org/pdf/2501.09747)[AGI/VLA]
+* [π0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/pdf/2504.16054)[AGI/VLA]
+* [WALL-OSS: Igniting VLMs toward the Embodied Space](https://x2robot.cn-wlcb.ufileos.com/wall_oss.pdf)[AGI/VLA]
 
 
 
