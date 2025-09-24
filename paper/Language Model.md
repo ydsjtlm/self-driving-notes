@@ -393,6 +393,7 @@
 * [Reinforcement Learning Foundations for Deep Research Systems: A Survey](https://arxiv.org/pdf/2509.06733)[Deep Research]
 * [Deep Research: A Survey of Autonomous Research Agents](https://arxiv.org/abs/2508.12752)[Deep Research]
 * [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2509.08827)[Survey/RL/Reasoning]
+* [CoReVLA: A Dual-Stage End-to-End Autonomous Driving Framework for Long-Tail Scenarios via Collect-and-Refine](https://arxiv.org/abs/2509.15968v1)[VLA+E2E]
 
 
 
