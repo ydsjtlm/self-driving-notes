@@ -381,11 +381,21 @@
 * [SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning](https://arxiv.org/pdf/2509.09674)[VLA+RL]
 * [AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving](https://arxiv.org/pdf/2505.15298)[VLA/E2E/Agent]
 * [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://arxiv.org/pdf/2509.02547)[LLM/Agent+RL]
-
+* [SpecVLM: Fast Speculative Decoding in Vision-Language Models](https://arxiv.org/pdf/2509.11815)[VLM+加速+投机采样]
+* [Perception Before Reasoning: Two-Stage Reinforcement Learning for Visual Reasoning in Vision-Language Models](https://arxiv.org/pdf/2509.13031)
+* [3D Aware Region Prompted Vision Language Model](https://arxiv.org/pdf/2509.13317)
+* [The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable T](https://arxiv.org/pdf/2509.12594)[VLA+加速]
 * [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164v1)[AGI/VLA]
 * [π0-FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://arxiv.org/pdf/2501.09747)[AGI/VLA]
 * [π0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/pdf/2504.16054)[AGI/VLA]
 * [WALL-OSS: Igniting VLMs toward the Embodied Space](https://x2robot.cn-wlcb.ufileos.com/wall_oss.pdf)[AGI/VLA]
+* [MiniCPM_V_4_5_Technical_Report](https://github.com/OpenBMB/MiniCPM-V/blob/main/docs/MiniCPM_V_4_5_Technical_Report.pdf)[MiniCPM]
+* [Reinforcement Learning Foundations for Deep Research Systems: A Survey](https://arxiv.org/pdf/2509.06733)[Deep Research]
+* [Deep Research: A Survey of Autonomous Research Agents](https://arxiv.org/abs/2508.12752)[Deep Research]
+* [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2509.08827)[Survey/RL/Reasoning]
+
+
+
 
 
 
