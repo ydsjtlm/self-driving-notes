@@ -394,6 +394,17 @@
 * [Deep Research: A Survey of Autonomous Research Agents](https://arxiv.org/abs/2508.12752)[Deep Research]
 * [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2509.08827)[Survey/RL/Reasoning]
 * [CoReVLA: A Dual-Stage End-to-End Autonomous Driving Framework for Long-Tail Scenarios via Collect-and-Refine](https://arxiv.org/abs/2509.15968v1)[VLA+E2E]
+* [SLAM-Former: Putting SLAM into One Transformer](https://arxiv.org/abs/2509.16909)[SLAM+LLM]
+* [Pure Vision Language Action (VLA) Models: A Comprehensive Survey](https://arxiv.org/abs/2509.19012)[VLA/Survey]
+* [NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance](https://arxiv.org/pdf/2505.08712)
+* [Reinforcement Learning on Pre-Training Data](https://papers-pdfs.assets.alphaxiv.org/2509.19249v2.pdf)
+* [Qwen3-Omni Technical Report](https://papers-pdfs.assets.alphaxiv.org/2509.17765v1.pdf)
+* [Embodied AI: From LLMs to World Models](https://papers-pdfs.assets.alphaxiv.org/2509.20021v1.pdf)
+* [☆][Video models are zero-shot learners and reasoners](https://papers-pdfs.assets.alphaxiv.org/2509.20328v1.pdf)
+* [Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation](https://arxiv.org/pdf/2509.18824)[speculative decoding]
+* [DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving](http://arxiv.org/pdf/2509.17940v1)[E2E/RL/VLA]
+* [MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases](https://arxiv.org/abs/2509.20843)[VLA/E2E/COT]
+* [DeepSeek_V3_2](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/DeepSeek_V3_2.pdf)
 
 
 
