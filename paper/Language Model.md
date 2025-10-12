@@ -402,9 +402,9 @@
 * [Embodied AI: From LLMs to World Models](https://papers-pdfs.assets.alphaxiv.org/2509.20021v1.pdf)
 * [☆][Video models are zero-shot learners and reasoners](https://papers-pdfs.assets.alphaxiv.org/2509.20328v1.pdf)
 * [Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation](https://arxiv.org/pdf/2509.18824)[speculative decoding]
-* [DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving](http://arxiv.org/pdf/2509.17940v1)[E2E/RL/VLA]
-* [MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases](https://arxiv.org/abs/2509.20843)[VLA/E2E/COT]
-* [DeepSeek_V3_2](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/DeepSeek_V3_2.pdf)
+* [☆][DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving](http://arxiv.org/pdf/2509.17940v1)[E2E/RL]
+* [☆☆][MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases](https://arxiv.org/abs/2509.20843)[VLA/E2E/COT/memory]
+* [☆][DeepSeek_V3_2](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/DeepSeek_V3_2.pdf)
 
 
 
