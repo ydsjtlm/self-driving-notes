@@ -362,14 +362,14 @@
 * [☆☆][DriveGPT4-V2: Harnessing Large Language Model Capabilities for Enhanced Closed-Loop Autonomous Driving](https://i.cs.hku.hk/~kykwong/publications/zxu_cvpr2025.pdf)[VLA+E2E]
 * [☆][面向具身操作的视觉-语言-动作模型综述](https://arxiv.org/pdf/2508.15201)[survey]
 * [☆☆][InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/pdf/2508.18265)
+* [☆][AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/pdf/2509.01944)[E2E/VAL/COT/GRPO+Reward/sft数据集]
+* [☆][OmniReason: A Temporal-Guided Vision-Language-Action Framework for Autonomous Driving](https://arxiv.org/pdf/2509.00789)[E2E/VLA/COT/理想/sft数据集]
 * [Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](https://arxiv.org/pdf/2508.09834)[LLM架构survey]
 * [Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](https://arxiv.org/pdf/2508.09736v1)[agent+memory]
 * [MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/pdf/2508.19236)[VLA+memory]
 * [Jet-Nemotron: Efficient Language Model with Post Neural Architecture Search](https://arxiv.org/pdf/2508.15884)
 * [TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models](https://arxiv.org/pdf/2508.19257)[VLA+时序]
 * [Perception in Plan: Coupled Perception and Planning for End-to-End Autonomous Driving](https://arxiv.org/pdf/2508.11488)[E2E]
-* [AutoDrive-R²: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving](https://arxiv.org/pdf/2509.01944)[E2E/VAL/COT/GRPO]
-* [OmniReason: A Temporal-Guided Vision-Language-Action Framework for Autonomous Driving](https://arxiv.org/pdf/2509.00789)[E2E/VLA/COT/理想]
 * [Galaxea Open-World Dataset and G0 Dual-System VLA Model](https://arxiv.org/pdf/2509.00576)[VLA+双系统]
 * [Kwai Keye-VL 1.5 Technical Report](https://www.alphaxiv.org/abs/2509.01563)[]
 * [☆☆][DCPO: DYNAMIC CLIPPING POLICY OPTIMIZATION](https://arxiv.org/pdf/2509.02333)[GRPO/DCPO/RL]
@@ -389,22 +389,28 @@
 * [π0-FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://arxiv.org/pdf/2501.09747)[AGI/VLA]
 * [π0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/pdf/2504.16054)[AGI/VLA]
 * [WALL-OSS: Igniting VLMs toward the Embodied Space](https://x2robot.cn-wlcb.ufileos.com/wall_oss.pdf)[AGI/VLA]
-* [MiniCPM_V_4_5_Technical_Report](https://github.com/OpenBMB/MiniCPM-V/blob/main/docs/MiniCPM_V_4_5_Technical_Report.pdf)[MiniCPM]
 * [Reinforcement Learning Foundations for Deep Research Systems: A Survey](https://arxiv.org/pdf/2509.06733)[Deep Research]
 * [Deep Research: A Survey of Autonomous Research Agents](https://arxiv.org/abs/2508.12752)[Deep Research]
 * [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2509.08827)[Survey/RL/Reasoning]
-* [CoReVLA: A Dual-Stage End-to-End Autonomous Driving Framework for Long-Tail Scenarios via Collect-and-Refine](https://arxiv.org/abs/2509.15968v1)[VLA+E2E]
+* [☆][CoReVLA: A Dual-Stage End-to-End Autonomous Driving Framework for Long-Tail Scenarios via Collect-and-Refine](https://arxiv.org/abs/2509.15968v1)[VLA+E2E/DPO/SFT数据集]
+* [☆][DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving](http://arxiv.org/pdf/2509.17940v1)[E2E/RL]
+* [☆☆][MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases](https://arxiv.org/abs/2509.20843)[VLA/E2E/COT/memory]
+* [☆][DeepSeek_V3_2](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/DeepSeek_V3_2.pdf)
+* [☆][MiniCPM_V_4_5_Technical_Report](https://arxiv.org/pdf/2509.18154)[MiniCPM]
+* [☆][Qwen3-Omni Technical Report](https://papers-pdfs.assets.alphaxiv.org/2509.17765v1.pdf)
+* [☆][Video models are zero-shot learners and reasoners](https://papers-pdfs.assets.alphaxiv.org/2509.20328v1.pdf)
 * [SLAM-Former: Putting SLAM into One Transformer](https://arxiv.org/abs/2509.16909)[SLAM+LLM]
 * [Pure Vision Language Action (VLA) Models: A Comprehensive Survey](https://arxiv.org/abs/2509.19012)[VLA/Survey]
 * [NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance](https://arxiv.org/pdf/2505.08712)
 * [Reinforcement Learning on Pre-Training Data](https://papers-pdfs.assets.alphaxiv.org/2509.19249v2.pdf)
-* [Qwen3-Omni Technical Report](https://papers-pdfs.assets.alphaxiv.org/2509.17765v1.pdf)
 * [Embodied AI: From LLMs to World Models](https://papers-pdfs.assets.alphaxiv.org/2509.20021v1.pdf)
-* [☆][Video models are zero-shot learners and reasoners](https://papers-pdfs.assets.alphaxiv.org/2509.20328v1.pdf)
 * [Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation](https://arxiv.org/pdf/2509.18824)[speculative decoding]
-* [☆][DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving](http://arxiv.org/pdf/2509.17940v1)[E2E/RL]
-* [☆☆][MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases](https://arxiv.org/abs/2509.20843)[VLA/E2E/COT/memory]
-* [☆][DeepSeek_V3_2](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/DeepSeek_V3_2.pdf)
+* [DepthLM: Metric Depth From Vision Language Models](https://arxiv.org/pdf/2509.25413)
+* [dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought](https://arxiv.org/pdf/2509.25681)
+* [Hybrid Training for Vision-Language-Action Models](https://arxiv.org/pdf/2510.00600)[VLA]
+* [VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators](https://arxiv.org/pdf/2510.00406)[VLA/world model]
+* [ResAD: Normalized Residual Trajectory Modeling for End-to-End Autonomous Driving](https://arxiv.org/pdf/2510.08562)[E2E]
+* [Agent Learning via Early Experience](https://arxiv.org/abs/2510.08558)[]
 
 
 
