@@ -308,7 +308,7 @@
 * [☆][Real-Time Execution of Action Chunking Flow Policies](https://www.physicalintelligence.company/download/real_time_chunking.pdf)[VLA/Action Chunking/Physical Intelligence]
 * [☆][Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/pdf/2506.08011)[GRPO游戏]
 * [☆][Think When You Need: Self-Adaptive Chain-of-Thought Learning](https://arxiv.org/pdf/2504.03234)[GRPO/Think优化]
-* [☆][Unified Vision-Language-Action Model](https://arxiv.org/pdf/2506.19850)[VLA结合world model]
+
 * [☆][HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2)
 * [☆][LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments](https://arxiv.org/pdf/2506.07416)[pass]
 * [☆][4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration](https://arxiv.org/pdf/2506.22242)[对自动驾驶借鉴意义不大]
@@ -316,6 +316,7 @@
 * [☆][Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/pdf/2506.24113)[world model + E2E]
 * [☆][World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model](https://arxiv.org/pdf/2507.00603)[world model + E2E/ TBD]
 * [☆][WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/pdf/2506.21539)[world model + E2E]
+* [☆][Unified Vision-Language-Action Model](https://arxiv.org/pdf/2506.19850)[VLA结合world model]
 * [☆][DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge](https://arxiv.org/pdf/2507.04447)[简化版world model + VLA]
 * [☆][VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://arxiv.org/pdf/2507.01016)[action/VQVAE]
 * [☆][MemOS: A Memory OS for AI System](https://statics.memtensor.com.cn/files/MemOS_0707.pdf)[LLM长期记忆]
@@ -378,20 +379,22 @@
 * [RL's Razor: Why Online Reinforcement Learning Forgets Less](https://www.arxiv.org/pdf/2509.04259v1)
 * [Why Language Models Hallucinate](https://www.arxiv.org/pdf/2509.04664)[LLM幻觉]
 * [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)[LLM幻觉]
-* [SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning](https://arxiv.org/pdf/2509.09674)[VLA+RL]
 * [AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving](https://arxiv.org/pdf/2505.15298)[VLA/E2E/Agent]
 * [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://arxiv.org/pdf/2509.02547)[LLM/Agent+RL]
 * [SpecVLM: Fast Speculative Decoding in Vision-Language Models](https://arxiv.org/pdf/2509.11815)[VLM+加速+投机采样]
 * [Perception Before Reasoning: Two-Stage Reinforcement Learning for Visual Reasoning in Vision-Language Models](https://arxiv.org/pdf/2509.13031)
 * [3D Aware Region Prompted Vision Language Model](https://arxiv.org/pdf/2509.13317)
 * [The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable T](https://arxiv.org/pdf/2509.12594)[VLA+加速]
+
 * [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164v1)[AGI/VLA]
 * [π0-FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://arxiv.org/pdf/2501.09747)[AGI/VLA]
 * [π0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/pdf/2504.16054)[AGI/VLA]
+
 * [WALL-OSS: Igniting VLMs toward the Embodied Space](https://x2robot.cn-wlcb.ufileos.com/wall_oss.pdf)[AGI/VLA]
 * [Reinforcement Learning Foundations for Deep Research Systems: A Survey](https://arxiv.org/pdf/2509.06733)[Deep Research]
 * [Deep Research: A Survey of Autonomous Research Agents](https://arxiv.org/abs/2508.12752)[Deep Research]
 * [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2509.08827)[Survey/RL/Reasoning]
+* [☆][SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning](https://arxiv.org/pdf/2509.09674)[VLA+RL]
 * [☆][CoReVLA: A Dual-Stage End-to-End Autonomous Driving Framework for Long-Tail Scenarios via Collect-and-Refine](https://arxiv.org/abs/2509.15968v1)[VLA+E2E/DPO/SFT数据集]
 * [☆][DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving](http://arxiv.org/pdf/2509.17940v1)[E2E/RL]
 * [☆☆][MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases](https://arxiv.org/abs/2509.20843)[VLA/E2E/COT/memory]
@@ -399,6 +402,8 @@
 * [☆][MiniCPM_V_4_5_Technical_Report](https://arxiv.org/pdf/2509.18154)[MiniCPM]
 * [☆][Qwen3-Omni Technical Report](https://papers-pdfs.assets.alphaxiv.org/2509.17765v1.pdf)
 * [☆][Video models are zero-shot learners and reasoners](https://papers-pdfs.assets.alphaxiv.org/2509.20328v1.pdf)
+* [☆][LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training](https://www.arxiv.org/pdf/2509.23661)[VLM数据集]
+* [☆][Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers](https://arxiv.org/pdf/2510.11370)[LLM/MOE+RL]
 * [SLAM-Former: Putting SLAM into One Transformer](https://arxiv.org/abs/2509.16909)[SLAM+LLM]
 * [Pure Vision Language Action (VLA) Models: A Comprehensive Survey](https://arxiv.org/abs/2509.19012)[VLA/Survey]
 * [NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance](https://arxiv.org/pdf/2505.08712)
@@ -411,6 +416,14 @@
 * [VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators](https://arxiv.org/pdf/2510.00406)[VLA/world model]
 * [ResAD: Normalized Residual Trajectory Modeling for End-to-End Autonomous Driving](https://arxiv.org/pdf/2510.08562)[E2E]
 * [Agent Learning via Early Experience](https://arxiv.org/abs/2510.08558)[]
+* [Diffusion Transformers with Representation Autoencoders](https://arxiv.org/pdf/2510.11690)
+* [☆☆☆][DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving](https://arxiv.org/pdf/2510.12796)[VLA/E2E/World Model]
+* [RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training](https://arxiv.org/pdf/2510.06710)[VLA/RL/Infra]
+* [DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning](https://arxiv.org/pdf/2510.13375)[VLA]
+* [BLIP3o-NEXT: Next Frontier of Native Image Generation](https://arxiv.org/pdf/2510.15857)
+* [MRASfM: Multi-Camera Reconstruction and Aggregation through Structure-from-Motion in Driving Scenes](https://arxiv.org/pdf/2510.15467)
+* [DeepSeek-OCR: Contexts Optical Compression](https://github.com/deepseek-ai/DeepSeek-OCR/blob/main/DeepSeek_OCR_paper.pdf)
+
 
 
 
