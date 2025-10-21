@@ -393,7 +393,7 @@
 * [WALL-OSS: Igniting VLMs toward the Embodied Space](https://x2robot.cn-wlcb.ufileos.com/wall_oss.pdf)[AGI/VLA]
 * [Reinforcement Learning Foundations for Deep Research Systems: A Survey](https://arxiv.org/pdf/2509.06733)[Deep Research]
 * [Deep Research: A Survey of Autonomous Research Agents](https://arxiv.org/abs/2508.12752)[Deep Research]
-* [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2509.08827)[Survey/RL/Reasoning]
+* [☆][A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/pdf/2509.08827)[Survey/RL/Reasoning见总结文档]
 * [☆][SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning](https://arxiv.org/pdf/2509.09674)[VLA+RL]
 * [☆][CoReVLA: A Dual-Stage End-to-End Autonomous Driving Framework for Long-Tail Scenarios via Collect-and-Refine](https://arxiv.org/abs/2509.15968v1)[VLA+E2E/DPO/SFT数据集]
 * [☆][DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving](http://arxiv.org/pdf/2509.17940v1)[E2E/RL]
@@ -423,6 +423,8 @@
 * [BLIP3o-NEXT: Next Frontier of Native Image Generation](https://arxiv.org/pdf/2510.15857)
 * [MRASfM: Multi-Camera Reconstruction and Aggregation through Structure-from-Motion in Driving Scenes](https://arxiv.org/pdf/2510.15467)
 * [DeepSeek-OCR: Contexts Optical Compression](https://github.com/deepseek-ai/DeepSeek-OCR/blob/main/DeepSeek_OCR_paper.pdf)
+* [DiffVLA++: Bridging Cognitive Reasoning and End-to-End Driving through Metric-Guided Alignment](https://arxiv.org/pdf/2510.17148v1)
+* [From Spatial to Actions: Grounding Vision-LanguageAction Model in Spatial Foundation Priors](https://arxiv.org/pdf/2510.17439)
 
 
 
