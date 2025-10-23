@@ -372,7 +372,7 @@
 * [TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models](https://arxiv.org/pdf/2508.19257)[VLA+时序]
 * [Perception in Plan: Coupled Perception and Planning for End-to-End Autonomous Driving](https://arxiv.org/pdf/2508.11488)[E2E]
 * [Galaxea Open-World Dataset and G0 Dual-System VLA Model](https://arxiv.org/pdf/2509.00576)[VLA+双系统]
-* [Kwai Keye-VL 1.5 Technical Report](https://www.alphaxiv.org/abs/2509.01563)[]
+
 * [☆☆][DCPO: DYNAMIC CLIPPING POLICY OPTIMIZATION](https://arxiv.org/pdf/2509.02333)[GRPO/DCPO/RL]
 * [LLaDA-VLA: Vision Language Diffusion Action Models](https://arxiv.org/pdf/2509.06932)[diffusion+VLA]
 * [A VISION-LANGUAGE-ACTION MODEL BRIDGING UNDERSTANDING AND GENERATION TO ACTIONS](https://arxiv.org/pdf/2509.06951)[VLA+understanding+generation]
@@ -399,7 +399,7 @@
 * [☆][DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving](http://arxiv.org/pdf/2509.17940v1)[E2E/RL]
 * [☆☆][MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases](https://arxiv.org/abs/2509.20843)[VLA/E2E/COT/memory]
 * [☆][DeepSeek_V3_2](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/DeepSeek_V3_2.pdf)
-* [☆][MiniCPM_V_4_5_Technical_Report](https://arxiv.org/pdf/2509.18154)[MiniCPM]
+* [☆][MiniCPM_V_4_5_Technical_Report](https://arxiv.org/pdf/2509.18154)[MiniCPM/多模态基座]
 * [☆][Qwen3-Omni Technical Report](https://papers-pdfs.assets.alphaxiv.org/2509.17765v1.pdf)
 * [☆][Video models are zero-shot learners and reasoners](https://papers-pdfs.assets.alphaxiv.org/2509.20328v1.pdf)
 * [☆][LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training](https://www.arxiv.org/pdf/2509.23661)[VLM数据集]
@@ -425,6 +425,16 @@
 * [DeepSeek-OCR: Contexts Optical Compression](https://github.com/deepseek-ai/DeepSeek-OCR/blob/main/DeepSeek_OCR_paper.pdf)
 * [DiffVLA++: Bridging Cognitive Reasoning and End-to-End Driving through Metric-Guided Alignment](https://arxiv.org/pdf/2510.17148v1)
 * [From Spatial to Actions: Grounding Vision-LanguageAction Model in Spatial Foundation Priors](https://arxiv.org/pdf/2510.17439)
+* [Dexbotic: Open-Source Vision-Language-Action Toolbox](https://dexbotic.com/dexbotic_tech_report.pdf)[VLA框架]
+* [Training-Free Group Relative Policy Optimization](https://arxiv.org/pdf/2510.08191)[RL/GRPO]
+* [GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/pdf/2507.01006)[多模态基座]
+* [MiMo-VL Technical Report](https://arxiv.org/pdf/2506.03569)[多模态基座]
+* [Kwai Keye-VL Technical Report](https://arxiv.org/pdf/2507.01949)[多模态基座]
+* [Kwai Keye-VL 1.5 Technical Report](https://www.alphaxiv.org/abs/2509.01563)[多模态基座]
+* [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/pdf/2505.23747)[3D+VLM+RL]
+* [DanceGRPO: Unleashing GRPO on Visual Generation](https://arxiv.org/pdf/2505.07818)[Image Generation/RL/GRPO]
+* [InfLVG: Reinforce Inference-Time Consistent Long Video Generation with GRPO](https://arxiv.org/pdf/2505.17574)[Video Generation/RL/GRPO]
+
 
 
 
