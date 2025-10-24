@@ -276,7 +276,7 @@
 * [☆][G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning](https://arxiv.org/pdf/2505.13426)[RL/VLM/游戏]
 * [☆][VIDEORFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning](https://arxiv.org/pdf/2505.12434)[video+GRPO/dataset]
 * [☆][LLaVA-4D: Embedding SpatioTemporal Prompt into LMMs for 4D Scene Understanding](https://arxiv.org/pdf/2505.12253)[VLM时空理解依赖depth]
-* [☆][Interactive Post-Training for Vision-Language-Action Models](https://arxiv.org/pdf/2505.17016)[VLA+GRPO]
+* [☆][Interactive Post-Training for Vision-Language-Action Models](https://arxiv.org/pdf/2505.17016)[VLA+GRPO/RIPT-VLA]
 * [☆][Multi-SpatialMLLM: Multi-Frame Spatial Understanding with MultiModal Large Language Models](https://arxiv.org/pdf/2505.17015)
 * [☆][LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/pdf/2505.16839)
 * [☆][R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO](https://arxiv.org/pdf/2505.16673)
@@ -413,10 +413,10 @@
 * [DepthLM: Metric Depth From Vision Language Models](https://arxiv.org/pdf/2509.25413)
 * [dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought](https://arxiv.org/pdf/2509.25681)
 * [Hybrid Training for Vision-Language-Action Models](https://arxiv.org/pdf/2510.00600)[VLA]
-* [VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators](https://arxiv.org/pdf/2510.00406)[VLA/world model]
+* [VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified Rewards in World Simulators](https://arxiv.org/pdf/2510.00406)[VLA/world model/RL]
 * [ResAD: Normalized Residual Trajectory Modeling for End-to-End Autonomous Driving](https://arxiv.org/pdf/2510.08562)[E2E]
 * [Agent Learning via Early Experience](https://arxiv.org/abs/2510.08558)[]
-* [Diffusion Transformers with Representation Autoencoders](https://arxiv.org/pdf/2510.11690)
+
 * [☆☆☆][DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving](https://arxiv.org/pdf/2510.12796)[VLA/E2E/World Model]
 * [RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training](https://arxiv.org/pdf/2510.06710)[VLA/RL/Infra]
 * [DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning](https://arxiv.org/pdf/2510.13375)[VLA]
@@ -434,6 +434,11 @@
 * [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/pdf/2505.23747)[3D+VLM+RL]
 * [DanceGRPO: Unleashing GRPO on Visual Generation](https://arxiv.org/pdf/2505.07818)[Image Generation/RL/GRPO]
 * [InfLVG: Reinforce Inference-Time Consistent Long Video Generation with GRPO](https://arxiv.org/pdf/2505.17574)[Video Generation/RL/GRPO]
+* [GigaBrain-0: A World Model-Powered Vision-LanguageAction Model](https://arxiv.org/pdf/2510.19430)[VLA/world model]
+* [Unified Reinforcement and Imitation Learning for Vision-Language Models](https://arxiv.org/pdf/2510.19307)
+* [Diffusion Transformers with Representation Autoencoders](https://arxiv.org/pdf/2510.11690)[RAE]
+* [Latent Diffusion Model without Variational Autoencoder](https://arxiv.org/pdf/2510.15301)[SVG]
+* [VLM-FO1: Bridging the Gap Between High-Level Reasoning and Fine-Grained Perception in VLMs](https://www.arxiv.org/pdf/2509.25916)[VLM+目标检测]
 
 
 
