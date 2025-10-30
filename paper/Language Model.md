@@ -251,7 +251,7 @@
 * [Unified Autoregressive Visual Generation and Understanding with Continuous Tokens](https://arxiv.org/pdf/2503.13436)
 * [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://dapo-sia.github.io/static/pdf/dapo_paper.pdf)
 * [Qwen2.5-Omni Technical Report](https://github.com/QwenLM/Qwen2.5-Omni/blob/main/assets/Qwen2.5_Omni.pdf)
-* [Video-R1: Reinforcing Video Reasoning in MLLMs](https://arxiv.org/pdf/2503.21776)
+* [☆][Video-R1: Reinforcing Video Reasoning in MLLMs](https://arxiv.org/pdf/2503.21776)
 * [☆][MAGI-1: Autoregressive Video Generation at Scale](https://static.magi.world/static/files/MAGI_1.pdf)[TBD/视频生成]
 * [☆][Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation](https://arxiv.org/pdf/2503.16430)[后训练量化自回归生成token离散化问题]
 * [☆][Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs](https://arxiv.org/pdf/2503.01307)[基座模型边界锁死RL能力上限]
@@ -439,6 +439,20 @@
 * [Diffusion Transformers with Representation Autoencoders](https://arxiv.org/pdf/2510.11690)[RAE]
 * [Latent Diffusion Model without Variational Autoencoder](https://arxiv.org/pdf/2510.15301)[SVG]
 * [VLM-FO1: Bridging the Gap Between High-Level Reasoning and Fine-Grained Perception in VLMs](https://www.arxiv.org/pdf/2509.25916)[VLM+目标检测]
+* [VDRive: Leveraging Reinforced VLA and Diffusion Policy for End-to-end Autonomous Driving](https://arxiv.org/pdf/2510.15446)[VLA+E2E/RL/Diffusion]
+* [Robot Learning: A Tutorial](https://www.arxiv.org/abs/2510.12403v1)
+* [SmolVLA: A vision-language-action model for affordable and efficient robotics](https://arxiv.org/pdf/2506.01844)
+* [FAST-DLLM V2: Efficient Block-Diffusion LLM](https://arxiv.org/pdf/2509.26328)
+* [VLA-R1: Enhancing Reasoning in Vision-Language-Action Models](https://arxiv.org/pdf/2510.01623)
+* [Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos](https://arxiv.org/pdf/2510.21571)
+* [Ctrl-World: A Controllable Generative World Model for Robot Manipulation](https://arxiv.org/pdf/2510.10125)[VLA/World Model]
+* [Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting](https://arxiv.org/pdf/2510.18874)  [  Link](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247710588&idx=1&sn=90abf9a023983b44d9a1249c7c6f8fe3&chksm=977b0f68138e2c0df5e2074e0932aca387a9f09329968a1ff9d1df5e184454fbb996f340ca29&mpshare=1&scene=1&srcid=10270pwr00rYLVfFaIAWtJju&sharer_shareinfo=1a25c6434ed2b09a42b1cb1acf8c529e&sharer_shareinfo_first=1a25c6434ed2b09a42b1cb1acf8c529e#rd)
+* [The Art of Scaling Reinforcement Learning Compute for LLMs](https://arxiv.org/pdf/2510.13786)
+* [LongCat-Video Technical Report](https://arxiv.org/pdf/2510.22200)
+* [VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation](https://arxiv.org/pdf/2510.23497)
+* [UrbanVLA: A Vision-Language-Action Model for Urban Micromobility](https://arxiv.org/pdf/2510.23576)
+* [On-Policy Distillation](https://thinkingmachines.ai/blog/on-policy-distillation/)
+* [A Survey on Efficient Vision-Language-Action Models](https://arxiv.org/pdf/2510.24795)[VLA/加速]
 
 
 
