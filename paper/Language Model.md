@@ -463,7 +463,8 @@
 * [GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping](https://arxiv.org/abs/2510.22319)
 * [Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process](https://arxiv.org/pdf/2511.01718)
 * [Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)[VLA/加速]
-* [KIMI LINEAR: AN EXPRESSIVE, EFFICIENT ATTENTION ARCHITECTURE](https://github.com/MoonshotAI/Kimi-Linear/blob/master/tech_report.pdf)
+* [☆][Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/pdf/2510.26692)[线性注意力]
+* [☆][Qwen3-next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)[线性注意力]
 * [☆☆][OmniNWM: Omniscient Driving Navigation World Models](https://www.arxiv.org/pdf/2510.18313)[VLA/E2E/world model]
 * [☆][Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model](https://arxiv.org/pdf/2510.27607)[VLA/world model]
 
