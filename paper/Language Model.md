@@ -453,6 +453,19 @@
 * [UrbanVLA: A Vision-Language-Action Model for Urban Micromobility](https://arxiv.org/pdf/2510.23576)
 * [On-Policy Distillation](https://thinkingmachines.ai/blog/on-policy-distillation/)
 * [A Survey on Efficient Vision-Language-Action Models](https://arxiv.org/pdf/2510.24795)[VLA/加速]
+* [DeepEyesV2: Toward Agentic Multimodal Model](https://arxiv.org/pdf/2511.05271)
+* [Visual Spatial Tuning](https://arxiv.org/pdf/2511.05491)
+* [Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment](https://arxiv.org/pdf/2511.04555)
+* [WOD-E2E: Waymo Open Dataset for End-to-End Driving in Challenging Long-tail Scenarios](https://arxiv.org/pdf/2510.26125)
+* [Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail](https://arxiv.org/abs/2511.00088)[VLA/E2E/COT]
+* [SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards](https://arxiv.org/pdf/2511.07403)
+* [Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning](https://arxiv.org/pdf/2510.27606)
+* [GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping](https://arxiv.org/abs/2510.22319)
+* [Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process](https://arxiv.org/pdf/2511.01718)
+* [Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)[VLA/加速]
+* [KIMI LINEAR: AN EXPRESSIVE, EFFICIENT ATTENTION ARCHITECTURE](https://github.com/MoonshotAI/Kimi-Linear/blob/master/tech_report.pdf)
+* [☆☆][OmniNWM: Omniscient Driving Navigation World Models](https://www.arxiv.org/pdf/2510.18313)[VLA/E2E/world model]
+* [☆][Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model](https://arxiv.org/pdf/2510.27607)[VLA/world model]
 
 
 
