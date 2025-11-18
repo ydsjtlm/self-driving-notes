@@ -352,6 +352,7 @@
 * [☆☆][IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model](https://www.arxiv.org/pdf/2508.06571)[RL+VLA+E2E]
 * [☆☆☆][RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning](https://arxiv.org/pdf/2502.13144)[E2E+3DGS+RL]
 * [☆][VLM-3D: End-to-End Vision-Language Models for Open-World 3D Perception](https://arxiv.org/pdf/2508.09061)[VLM+3D]
+* [A Review of 3D Object Detection with Vision-Language Models](https://arxiv.org/pdf/2504.18738)[VLM+3D/survey]
 * [☆][DINOv3](https://arxiv.org/pdf/2508.10104)
 * [Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models](https://arxiv.org/pdf/2508.10751)
 * [☆][NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](https://arxiv.org/pdf/2508.10711)[多模态统一架构+图片生成]
@@ -386,9 +387,10 @@
 * [3D Aware Region Prompted Vision Language Model](https://arxiv.org/pdf/2509.13317)
 * [The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable T](https://arxiv.org/pdf/2509.12594)[VLA+加速]
 
-* [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164v1)[AGI/VLA]
-* [π0-FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://arxiv.org/pdf/2501.09747)[AGI/VLA]
-* [π0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/pdf/2504.16054)[AGI/VLA]
+* [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164v1)[Physical Intelligence/AGI/VLA]
+* [π0-FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://arxiv.org/pdf/2501.09747)[Physical Intelligence/AGI/VLA]
+* [π0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/pdf/2504.16054)[Physical Intelligence/AGI/VLA]
+* [Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better](https://arxiv.org/pdf/2505.23705)[Physical Intelligence/AGI/VLA]
 
 * [WALL-OSS: Igniting VLMs toward the Embodied Space](https://x2robot.cn-wlcb.ufileos.com/wall_oss.pdf)[AGI/VLA]
 * [Reinforcement Learning Foundations for Deep Research Systems: A Survey](https://arxiv.org/pdf/2509.06733)[Deep Research]
@@ -419,7 +421,6 @@
 
 * [☆☆☆][DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving](https://arxiv.org/pdf/2510.12796)[VLA/E2E/World Model]
 * [RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training](https://arxiv.org/pdf/2510.06710)[VLA/RL/Infra]
-* [DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning](https://arxiv.org/pdf/2510.13375)[VLA]
 * [BLIP3o-NEXT: Next Frontier of Native Image Generation](https://arxiv.org/pdf/2510.15857)
 * [MRASfM: Multi-Camera Reconstruction and Aggregation through Structure-from-Motion in Driving Scenes](https://arxiv.org/pdf/2510.15467)
 * [DeepSeek-OCR: Contexts Optical Compression](https://github.com/deepseek-ai/DeepSeek-OCR/blob/main/DeepSeek_OCR_paper.pdf)
@@ -451,23 +452,28 @@
 * [LongCat-Video Technical Report](https://arxiv.org/pdf/2510.22200)
 * [VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation](https://arxiv.org/pdf/2510.23497)
 * [UrbanVLA: A Vision-Language-Action Model for Urban Micromobility](https://arxiv.org/pdf/2510.23576)
-* [On-Policy Distillation](https://thinkingmachines.ai/blog/on-policy-distillation/)
+* [☆][On-Policy Distillation](https://thinkingmachines.ai/blog/on-policy-distillation/)
 * [A Survey on Efficient Vision-Language-Action Models](https://arxiv.org/pdf/2510.24795)[VLA/加速]
 * [DeepEyesV2: Toward Agentic Multimodal Model](https://arxiv.org/pdf/2511.05271)
 * [Visual Spatial Tuning](https://arxiv.org/pdf/2511.05491)
 * [Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment](https://arxiv.org/pdf/2511.04555)
 * [WOD-E2E: Waymo Open Dataset for End-to-End Driving in Challenging Long-tail Scenarios](https://arxiv.org/pdf/2510.26125)
-* [Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail](https://arxiv.org/abs/2511.00088)[VLA/E2E/COT]
+* [☆☆☆☆☆][Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail](https://arxiv.org/pdf/2511.00088)[VLA/E2E/COT]
 * [SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards](https://arxiv.org/pdf/2511.07403)
 * [Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning](https://arxiv.org/pdf/2510.27606)
 * [GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping](https://arxiv.org/abs/2510.22319)
-* [Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process](https://arxiv.org/pdf/2511.01718)
-* [Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)[VLA/加速]
+* [☆☆][Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process](https://arxiv.org/pdf/2511.01718)[VLA/world model]
+* [☆][Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)[VLA/加速/部署]
 * [☆][Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/pdf/2510.26692)[线性注意力]
 * [☆][Qwen3-next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)[线性注意力]
 * [☆☆][OmniNWM: Omniscient Driving Navigation World Models](https://www.arxiv.org/pdf/2510.18313)[VLA/E2E/world model]
 * [☆][Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model](https://arxiv.org/pdf/2510.27607)[VLA/world model]
-
+* [LightReasoner: Can Small Language Models Teach Large Language Models Reasoning?](https://arxiv.org/pdf/2510.07962)
+* [Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling](https://arxiv.org/pdf/2510.11083)[E2E]
+* [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](arxiv.org/pdf/2510.06308)[理解&生成/Discrete Diffusion]
+* [☆☆][Efficient Multi-Camera Tokenization with Triplanes for End-to-End Driving](https://arxiv.org/pdf/2506.12251)[E2E/长期记忆/多视角时序编码/VLA加速]
+* [Towards efficient and effective multi-camera encoding for end-to-end driving](https://jiawei-yang.github.io/Flex/#:~:text=We%20introduce%20Flex%2C%20a%20scene%20encoder%20for%20end-to-end,addresses%20the%20cost%20of%20processing%20high-bandwidth%20multi-camera%20inputs.)[E2E/长期记忆/多视角时序编码/VLA加速]
+* [DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning](https://arxiv.org/pdf/2510.13375)[VLA]
 
 
 
