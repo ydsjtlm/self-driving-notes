@@ -447,11 +447,11 @@
 * [VLA-R1: Enhancing Reasoning in Vision-Language-Action Models](https://arxiv.org/pdf/2510.01623)
 * [Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos](https://arxiv.org/pdf/2510.21571)
 * [Ctrl-World: A Controllable Generative World Model for Robot Manipulation](https://arxiv.org/pdf/2510.10125)[VLA/World Model]
-* [Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting](https://arxiv.org/pdf/2510.18874)  [  Link](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247710588&idx=1&sn=90abf9a023983b44d9a1249c7c6f8fe3&chksm=977b0f68138e2c0df5e2074e0932aca387a9f09329968a1ff9d1df5e184454fbb996f340ca29&mpshare=1&scene=1&srcid=10270pwr00rYLVfFaIAWtJju&sharer_shareinfo=1a25c6434ed2b09a42b1cb1acf8c529e&sharer_shareinfo_first=1a25c6434ed2b09a42b1cb1acf8c529e#rd)
+* [☆][Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting](https://arxiv.org/pdf/2510.18874)  [  Link](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247710588&idx=1&sn=90abf9a023983b44d9a1249c7c6f8fe3&chksm=977b0f68138e2c0df5e2074e0932aca387a9f09329968a1ff9d1df5e184454fbb996f340ca29&mpshare=1&scene=1&srcid=10270pwr00rYLVfFaIAWtJju&sharer_shareinfo=1a25c6434ed2b09a42b1cb1acf8c529e&sharer_shareinfo_first=1a25c6434ed2b09a42b1cb1acf8c529e#rd)
 * [The Art of Scaling Reinforcement Learning Compute for LLMs](https://arxiv.org/pdf/2510.13786)
 * [LongCat-Video Technical Report](https://arxiv.org/pdf/2510.22200)
-* [VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation](https://arxiv.org/pdf/2510.23497)
-* [UrbanVLA: A Vision-Language-Action Model for Urban Micromobility](https://arxiv.org/pdf/2510.23576)
+* [☆☆][VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation](https://arxiv.org/pdf/2510.23497)
+* [☆][UrbanVLA: A Vision-Language-Action Model for Urban Micromobility](https://arxiv.org/pdf/2510.23576)
 * [☆][On-Policy Distillation](https://thinkingmachines.ai/blog/on-policy-distillation/)
 * [A Survey on Efficient Vision-Language-Action Models](https://arxiv.org/pdf/2510.24795)[VLA/加速]
 * [DeepEyesV2: Toward Agentic Multimodal Model](https://arxiv.org/pdf/2511.05271)
@@ -468,12 +468,12 @@
 * [☆][Qwen3-next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)[线性注意力]
 * [☆☆][OmniNWM: Omniscient Driving Navigation World Models](https://www.arxiv.org/pdf/2510.18313)[VLA/E2E/world model]
 * [☆][Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model](https://arxiv.org/pdf/2510.27607)[VLA/world model]
-* [LightReasoner: Can Small Language Models Teach Large Language Models Reasoning?](https://arxiv.org/pdf/2510.07962)
+* [☆][LightReasoner: Can Small Language Models Teach Large Language Models Reasoning?](https://arxiv.org/pdf/2510.07962)
 * [Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling](https://arxiv.org/pdf/2510.11083)[E2E]
-* [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](arxiv.org/pdf/2510.06308)[理解&生成/Discrete Diffusion]
+* [☆][Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](arxiv.org/pdf/2510.06308)[理解&生成/Discrete Diffusion]
 * [☆☆][Efficient Multi-Camera Tokenization with Triplanes for End-to-End Driving](https://arxiv.org/pdf/2506.12251)[E2E/长期记忆/多视角时序编码/VLA加速]
-* [Towards efficient and effective multi-camera encoding for end-to-end driving](https://jiawei-yang.github.io/Flex/#:~:text=We%20introduce%20Flex%2C%20a%20scene%20encoder%20for%20end-to-end,addresses%20the%20cost%20of%20processing%20high-bandwidth%20multi-camera%20inputs.)[E2E/长期记忆/多视角时序编码/VLA加速]
-* [DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning](https://arxiv.org/pdf/2510.13375)[VLA]
+* [☆][Towards efficient and effective multi-camera encoding for end-to-end driving](https://jiawei-yang.github.io/Flex/#:~:text=We%20introduce%20Flex%2C%20a%20scene%20encoder%20for%20end-to-end,addresses%20the%20cost%20of%20processing%20high-bandwidth%20multi-camera%20inputs.)[E2E/长期记忆/多视角时序编码/VLA加速]
+* [☆][DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning](https://arxiv.org/pdf/2510.13375)[VLA/空间感知]
 
 
 
