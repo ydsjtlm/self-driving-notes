@@ -456,12 +456,11 @@
 * [A Survey on Efficient Vision-Language-Action Models](https://arxiv.org/pdf/2510.24795)[VLA/加速]
 * [DeepEyesV2: Toward Agentic Multimodal Model](https://arxiv.org/pdf/2511.05271)
 * [Visual Spatial Tuning](https://arxiv.org/pdf/2511.05491)
-* [Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment](https://arxiv.org/pdf/2511.04555)
 * [WOD-E2E: Waymo Open Dataset for End-to-End Driving in Challenging Long-tail Scenarios](https://arxiv.org/pdf/2510.26125)
 * [☆☆☆☆☆][Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail](https://arxiv.org/pdf/2511.00088)[VLA/E2E/COT]
-* [SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards](https://arxiv.org/pdf/2511.07403)
-* [Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning](https://arxiv.org/pdf/2510.27606)
-* [GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping](https://arxiv.org/abs/2510.22319)
+* [☆][SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards](https://arxiv.org/pdf/2511.07403)[VLM/空间理解]
+* [☆][Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning](https://arxiv.org/pdf/2510.27606)[VLM/空间理解]
+* [☆][GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping](https://arxiv.org/pdf/2510.22319)[图片/视频生成GRPO优化]
 * [☆☆][Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process](https://arxiv.org/pdf/2511.01718)[VLA/world model]
 * [☆][Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)[VLA/加速/部署]
 * [☆][Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/pdf/2510.26692)[线性注意力]
@@ -474,6 +473,9 @@
 * [☆☆][Efficient Multi-Camera Tokenization with Triplanes for End-to-End Driving](https://arxiv.org/pdf/2506.12251)[E2E/长期记忆/多视角时序编码/VLA加速]
 * [☆][Towards efficient and effective multi-camera encoding for end-to-end driving](https://jiawei-yang.github.io/Flex/#:~:text=We%20introduce%20Flex%2C%20a%20scene%20encoder%20for%20end-to-end,addresses%20the%20cost%20of%20processing%20high-bandwidth%20multi-camera%20inputs.)[E2E/长期记忆/多视角时序编码/VLA加速]
 * [☆][DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning](https://arxiv.org/pdf/2510.13375)[VLA/空间感知]
+* [☆][VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/pdf/2503.11651)[VGGT]
+* [☆][Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding](https://arxiv.org/pdf/2507.00416)[VLA/空间感知/VGGT]
+* [☆][Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment](https://arxiv.org/pdf/2511.04555)[VLA/推理优化/加速]
 
 
 
