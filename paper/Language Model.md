@@ -476,6 +476,14 @@
 * [☆][VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/pdf/2503.11651)[VGGT]
 * [☆][Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding](https://arxiv.org/pdf/2507.00416)[VLA/空间感知/VGGT]
 * [☆][Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment](https://arxiv.org/pdf/2511.04555)[VLA/推理优化/加速]
+* [CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images](https://arxiv.org/pdf/2510.11718)
+* [VLA-4D: Embedding 4D Awareness into Vision-Language-Action Models for SpatioTemporally Coherent Robotic Manipulation](https://arxiv.org/pdf/2511.17199)
+* [Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight](https://arxiv.org/pdf/2511.16175)
+* [The Path Not Taken: RLVR Provably Learns Off the Principals](https://arxiv.org/pdf/2511.08567)
+* [4D-VGGT: A General Foundation Model with SpatioTemporal Awareness for Dynamic Scene Geometry Estimation](https://arxiv.org/pdf/2511.18416)
+* [Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving](https://arxiv.org/pdf/2511.19221)
+* [UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface](https://arxiv.org/pdf/2503.01342)
+* [AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models](https://arxiv.org/pdf/2511.20325)
 
 
 
