@@ -481,9 +481,20 @@
 * [Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight](https://arxiv.org/pdf/2511.16175)
 * [The Path Not Taken: RLVR Provably Learns Off the Principals](https://arxiv.org/pdf/2511.08567)
 * [4D-VGGT: A General Foundation Model with SpatioTemporal Awareness for Dynamic Scene Geometry Estimation](https://arxiv.org/pdf/2511.18416)
-* [Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving](https://arxiv.org/pdf/2511.19221)
-* [UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface](https://arxiv.org/pdf/2503.01342)
-* [AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models](https://arxiv.org/pdf/2511.20325)
+* [☆☆][Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving](https://arxiv.org/pdf/2511.19221)[VLM通用2D/3D感知]
+* [☆☆][UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface](https://arxiv.org/pdf/2503.01342)[VLM通用2D感知/code]
+* [☆][GiT: Towards Generalist Vision Transformer through Universal Language Interface](https://arxiv.org/pdf/2403.09394)[VLM通用2D感知/code]
+* [☆][AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models](https://arxiv.org/pdf/2511.20325)
+* [☆][Qwen3-VL Technical Report](https://arxiv.org/pdf/2511.21631)
+* [☆][Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free](https://arxiv.org/pdf/2505.06708)
+* [G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](https://arxiv.org/pdf/2511.21688)
+* [☆][CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving](https://arxiv.org/pdf/2511.22532)[VLA/E2E/COT/Bev]
+* [☆][DriveVGGT: Visual Geometry Transformer for Autonomous Driving](https://arxiv.org/pdf/2511.22264)[E2E/VGGT/Feed Forward]
+* [Soft Adaptive Policy Optimization](https://arxiv.org/pdf/2511.20347)
+* [☆☆][Stabilizing Reinforcement Learning with LLMs: Formulation and Practices](https://arxiv.org/pdf/2512.01374)[RL理论/GRPO]
+* [AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention](https://arxiv.org/pdf/2511.18960)
+* [☆][DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/pdf/2512.02556)
+* [DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images](https://arxiv.org/pdf/2512.03004)
 
 
 
