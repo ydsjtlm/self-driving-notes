@@ -490,9 +490,9 @@
 * [G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](https://arxiv.org/pdf/2511.21688)
 * [☆][CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving](https://arxiv.org/pdf/2511.22532)[VLA/E2E/COT/Bev]
 * [☆][DriveVGGT: Visual Geometry Transformer for Autonomous Driving](https://arxiv.org/pdf/2511.22264)[E2E/VGGT/Feed Forward]
-* [Soft Adaptive Policy Optimization](https://arxiv.org/pdf/2511.20347)
+* [Soft Adaptive Policy Optimization](https://arxiv.org/pdf/2511.20347)[RL理论/SAPO]
 * [☆☆][Stabilizing Reinforcement Learning with LLMs: Formulation and Practices](https://arxiv.org/pdf/2512.01374)[RL理论/GRPO]
-* [AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention](https://arxiv.org/pdf/2511.18960)
+* [☆][AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention](https://arxiv.org/pdf/2511.18960)[VLA/memory/长时序]
 * [☆][DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/pdf/2512.02556)
 * [DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images](https://arxiv.org/pdf/2512.03004)
 
