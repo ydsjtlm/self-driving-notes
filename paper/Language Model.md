@@ -479,8 +479,8 @@
 * [CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images](https://arxiv.org/pdf/2510.11718)
 * [VLA-4D: Embedding 4D Awareness into Vision-Language-Action Models for SpatioTemporally Coherent Robotic Manipulation](https://arxiv.org/pdf/2511.17199)
 * [Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight](https://arxiv.org/pdf/2511.16175)
-* [The Path Not Taken: RLVR Provably Learns Off the Principals](https://arxiv.org/pdf/2511.08567)
-* [4D-VGGT: A General Foundation Model with SpatioTemporal Awareness for Dynamic Scene Geometry Estimation](https://arxiv.org/pdf/2511.18416)
+* [☆☆][The Path Not Taken: RLVR Provably Learns Off the Principals](https://arxiv.org/pdf/2511.08567)[RL理论/SFT理论/RLVR]
+* [☆][4D-VGGT: A General Foundation Model with SpatioTemporal Awareness for Dynamic Scene Geometry Estimation](https://arxiv.org/pdf/2511.18416)[4D-VGGT]
 * [☆☆][Percept-WAM: Perception-Enhanced World-Awareness-Action Model for Robust End-to-End Autonomous Driving](https://arxiv.org/pdf/2511.19221)[VLM通用2D/3D感知]
 * [☆☆][UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface](https://arxiv.org/pdf/2503.01342)[VLM通用2D感知/code]
 * [☆][GiT: Towards Generalist Vision Transformer through Universal Language Interface](https://arxiv.org/pdf/2403.09394)[VLM通用2D感知/code]
@@ -495,6 +495,9 @@
 * [☆][AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention](https://arxiv.org/pdf/2511.18960)[VLA/memory/长时序]
 * [☆][DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/pdf/2512.02556)
 * [☆][DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images](https://arxiv.org/pdf/2512.03004)[Feed Forward/4D Reconstruction]
+* [Scaling LLM Speculative Decoding: Non-Autoregressive Forecasting in Large-Batch Scenarios](https://arxiv.org/pdf/2511.20340)
+* [☆][Towards Continuous Intelligence Growth: Self-Training, Continual Learning, and Dual-Scale Memory in SuperIntelliAgent](https://arxiv.org/pdf/2511.23436)
+* [SIMSCALE: Learning to Drive via Real-World Simulation at Scale](https://arxiv.org/pdf/2511.23369)
 
 
 
