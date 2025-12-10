@@ -495,9 +495,12 @@
 * [☆][AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention](https://arxiv.org/pdf/2511.18960)[VLA/memory/长时序]
 * [☆][DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/pdf/2512.02556)
 * [☆][DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images](https://arxiv.org/pdf/2512.03004)[Feed Forward/4D Reconstruction]
-* [Scaling LLM Speculative Decoding: Non-Autoregressive Forecasting in Large-Batch Scenarios](https://arxiv.org/pdf/2511.20340)
-* [☆][Towards Continuous Intelligence Growth: Self-Training, Continual Learning, and Dual-Scale Memory in SuperIntelliAgent](https://arxiv.org/pdf/2511.23436)
+* [☆][Scaling LLM Speculative Decoding: Non-Autoregressive Forecasting in Large-Batch Scenarios](https://arxiv.org/pdf/2511.20340)[pass]
+* [☆][Towards Continuous Intelligence Growth: Self-Training, Continual Learning, and Dual-Scale Memory in SuperIntelliAgent](https://arxiv.org/pdf/2511.23436)[学习器+验证器]
 * [SIMSCALE: Learning to Drive via Real-World Simulation at Scale](https://arxiv.org/pdf/2511.23369)
+* [DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving](https://arxiv.org/pdf/2512.07745)
+* [Spatial Retrieval Augmented Autonomous Driving](https://arxiv.org/pdf/2512.06865)
+* [☆][LLaVA-UHD v3: Progressive Visual Compression for Efficient Native-Resolution Encoding in MLLMs](https://arxiv.org/pdf/2511.21150)[VLM/Vit加速优化]
 
 
 
