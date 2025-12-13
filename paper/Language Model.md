@@ -501,6 +501,11 @@
 * [DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving](https://arxiv.org/pdf/2512.07745)
 * [Spatial Retrieval Augmented Autonomous Driving](https://arxiv.org/pdf/2512.06865)
 * [☆][LLaVA-UHD v3: Progressive Visual Compression for Efficient Native-Resolution Encoding in MLLMs](https://arxiv.org/pdf/2511.21150)[VLM/Vit加速优化]
+* [FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph](https://arxiv.org/pdf/2509.13733)[VLN]
+* [☆][InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models](https://arxiv.org/pdf/2512.08829)[VLM/加速]
+* [☆][UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving](https://arxiv.org/pdf/2512.09864)[VLA/E2E/world model]
+* [☆][Rethinking Chain-of-Thought Reasoning for Videos](https://arxiv.org/pdf/2512.09616)[视频理解/video/cot/长时序记忆优化]
+* [IMAgent: Training Multi-Image Vision Agents via End2End Reinforcement Learning](https://arxiv.org/pdf/2512.08980)
 
 
 
