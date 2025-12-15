@@ -506,6 +506,9 @@
 * [☆][UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving](https://arxiv.org/pdf/2512.09864)[VLA/E2E/world model]
 * [☆][Rethinking Chain-of-Thought Reasoning for Videos](https://arxiv.org/pdf/2512.09616)[视频理解/video/cot/长时序记忆优化]
 * [IMAgent: Training Multi-Image Vision Agents via End2End Reinforcement Learning](https://arxiv.org/pdf/2512.08980)
+* [FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model](https://arxiv.org/pdf/2512.11226)[VLA/Latent COT]
+* [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](https://arxiv.org/pdf/2512.10226)[VLA/Latent COT]
+* [SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving](https://arxiv.org/pdf/2512.10719)
 
 
 
