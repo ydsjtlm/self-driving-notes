@@ -509,6 +509,18 @@
 * [FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model](https://arxiv.org/pdf/2512.11226)[VLA/Latent COT]
 * [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](https://arxiv.org/pdf/2512.10226)[VLA/Latent COT]
 * [SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving](https://arxiv.org/pdf/2512.10719)
+* [☆][StreamingAssistant: Efficient Visual Token Pruning for Accelerating Online Video Understanding](https://arxiv.org/pdf/2512.12560)[长时序记忆优化/流式视频理解]
+* [DrivePI: Spatial-aware 4D MLLM for Unified Autonomous Driving Understanding, Perception, Prediction and Planning](https://arxiv.org/pdf/2512.12799)[VLM通用3D感知]
+* [☆][NVIDIA Nemotron 3: Efficient and Open Intelligence](https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-White-Paper.pdf)[开源基座模型]
+* [SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model](https://arxiv.org/pdf/2511.22039)
+* [DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/pdf/2512.15713)
+* [Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/pdf/2512.13507)
+* [VL-JEPA: Joint Embedding Predictive Architecture for Vision-language](https://arxiv.org/pdf/2512.10942)
+* [N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models](https://arxiv.org/pdf/2512.16561)
+* [DVGT: Driving Visual Geometry Transformer](https://arxiv.org/pdf/2512.16919)
+* [Distributional AGI Safety](https://arxiv.org/pdf/2512.16856)
+* [Towards Scalable Pre-training of Visual Tokenizers for Generation](https://arxiv.org/pdf/2512.13687v1)
+* [GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/pdf/2503.14734)
 
 
 
