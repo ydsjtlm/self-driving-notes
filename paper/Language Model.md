@@ -518,9 +518,15 @@
 * [VL-JEPA: Joint Embedding Predictive Architecture for Vision-language](https://arxiv.org/pdf/2512.10942)
 * [N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models](https://arxiv.org/pdf/2512.16561)
 * [DVGT: Driving Visual Geometry Transformer](https://arxiv.org/pdf/2512.16919)
-* [Distributional AGI Safety](https://arxiv.org/pdf/2512.16856)
+* [☆][Distributional AGI Safety](https://arxiv.org/pdf/2512.16856)[PASS]
 * [Towards Scalable Pre-training of Visual Tokenizers for Generation](https://arxiv.org/pdf/2512.13687v1)
 * [GR00T N1: An Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/pdf/2503.14734)
+* [WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving](https://arxiv.org/pdf/2512.19133)
+
+* [Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone](https://arxiv.org/pdf/2512.22615)
+* [DriveLaW: Unifying Planning and Video Generation in a Latent Driving World](https://arxiv.org/pdf/2512.23421)
+* [Hyper-Connections](https://arxiv.org/pdf/2409.19606)
+* [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880)
 
 
 
