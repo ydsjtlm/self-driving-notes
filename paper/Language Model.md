@@ -525,8 +525,11 @@
 
 * [Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone](https://arxiv.org/pdf/2512.22615)
 * [DriveLaW: Unifying Planning and Video Generation in a Latent Driving World](https://arxiv.org/pdf/2512.23421)
-* [Hyper-Connections](https://arxiv.org/pdf/2409.19606)
-* [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880)
+* [☆][Hyper-Connections](https://arxiv.org/pdf/2409.19606)
+* [☆][mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880)
+* [InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation](https://internrobotics.github.io/internvla-a1.github.io/paper/InternVLA_A1.pdf)
+* [SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning](https://arxiv.org/pdf/2601.06474)
+* [RLLaVA: An RL-central Framework for Language and Vision Assistants](https://arxiv.org/pdf/2512.21450)
 
 
 
