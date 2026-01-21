@@ -383,5 +383,6 @@
 * [PseudoMapTrainer: Learning Online Mapping without HD Maps](https://arxiv.org/pdf/2508.18788)[众包构图]
 * [OccTENS: 3D Occupancy World Model via Temporal Next-Scale Prediction](https://arxiv.org/pdf/2509.03887)[BEV+OCC]
 * [CSMapping: Scalable Crowdsourced Semantic Mapping and Topology Inference for Autonomous Driving](https://arxiv.org/pdf/2512.03510)[众包构图]
+* [A Unified 3D Object Perception Framework for Real-Time Outside-In Multi-Camera Systems](https://arxiv.org/pdf/2601.10819)[监控场景BEV]
 
 

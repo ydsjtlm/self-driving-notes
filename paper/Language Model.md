@@ -530,6 +530,9 @@
 * [InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation](https://internrobotics.github.io/internvla-a1.github.io/paper/InternVLA_A1.pdf)
 * [SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning](https://arxiv.org/pdf/2601.06474)
 * [RLLaVA: An RL-central Framework for Language and Vision Assistants](https://arxiv.org/pdf/2512.21450)
+* [☆][STEP3-VL-10B Technical Report](https://arxiv.org/pdf/2601.09668)
+* [☆][Diffusion Language Models are Super Data Learners](https://arxiv.org/pdf/2511.03276)
+* [Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps](https://arxiv.org/pdf/2601.11442)
 
 
 
