@@ -533,6 +533,9 @@
 * [☆][STEP3-VL-10B Technical Report](https://arxiv.org/pdf/2601.09668)
 * [☆][Diffusion Language Models are Super Data Learners](https://arxiv.org/pdf/2511.03276)
 * [Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps](https://arxiv.org/pdf/2601.11442)
+* [Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](https://storage.googleapis.com/d4rt_assets/D4RT_paper.pdf)
+* [Towards Efficient Multimodal Large Language Models: A Survey on Token Compression](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176823010.07236701/v1)
+* [DeepSeek-OCR 2: Visual Causal Flow](https://github.com/deepseek-ai/DeepSeek-OCR-2/blob/main/DeepSeek_OCR2_paper.pdf)
 
 
 
