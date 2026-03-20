@@ -537,13 +537,5 @@
 * [Towards Efficient Multimodal Large Language Models: A Survey on Token Compression](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176823010.07236701/v1)
 * [DeepSeek-OCR 2: Visual Causal Flow](https://github.com/deepseek-ai/DeepSeek-OCR-2/blob/main/DeepSeek_OCR2_paper.pdf)
 
-
-
-
-
-
-
-
-
-
-
+* [Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos](https://arxiv.org/pdf/2601.04061.pdf)
+* [Revisiting Vision-Language-Models in Vision-Language-Action Models](https://arxiv.org/pdf/2601.03309.pdf)
