@@ -562,3 +562,4 @@
 * [RLinf-USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI](https://arxiv.org/pdf/2602.07837)
 * [VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model](https://arxiv.org/pdf/2602.10098)
 * [Visual Implicit Geometry Transformer for Autonomous Driving](https://arxiv.org/pdf/2602.05573)
+* [Attention Residuals](https://arxiv.org/pdf/2603.15031.pdf)
