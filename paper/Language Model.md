@@ -563,3 +563,4 @@
 * [VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model](https://arxiv.org/pdf/2602.10098)
 * [Visual Implicit Geometry Transformer for Autonomous Driving](https://arxiv.org/pdf/2602.05573)
 * [Attention Residuals](https://arxiv.org/pdf/2603.15031.pdf)
+* [Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](https://arxiv.org/pdf/2603.17187.pdf)
