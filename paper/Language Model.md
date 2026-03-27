@@ -566,3 +566,6 @@
 * [Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](https://arxiv.org/pdf/2603.17187.pdf)
 * [Distribution Discriminant Theory and its Applications in LLM Training](https://arxiv.org/pdf/2602.12222.pdf)
 * [Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control](https://arxiv.org/pdf/2603.10448.pdf)
+
+* [LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://arxiv.org/pdf/2603.19312.pdf)
+* [Fast-WAM: Do World Action Models Need Test-time Future Imagination?](https://arxiv.org/pdf/2603.16666.pdf)
