@@ -569,3 +569,6 @@
 * [Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control](https://arxiv.org/pdf/2603.10448.pdf)[VLA/WAM]
 * [LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://arxiv.org/pdf/2603.19312.pdf)[VLA/WAM]
 * [Fast-WAM: Do World Action Models Need Test-time Future Imagination?](https://arxiv.org/pdf/2603.16666.pdf)[VLA/WAM]
+
+
+* [Composer 2 Technical Report](https://arxiv.org/pdf/2603.24477.pdf)
