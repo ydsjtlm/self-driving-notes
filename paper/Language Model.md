@@ -572,3 +572,11 @@
 
 
 * [Composer 2 Technical Report](https://arxiv.org/pdf/2603.24477.pdf)
+
+* [Preference Alignment of Vision-Language-Action Model for Personalized Driving](https://arxiv.org/pdf/2603.25740.pdf)
+
+* [Meta Capability Enhancement with Capability Vectors for Robot Learning](https://arxiv.org/pdf/2603.25661.pdf)
+
+* [Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models](https://arxiv.org/pdf/2603.22280.pdf)
+
+* [Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving](https://arxiv.org/pdf/2603.19979.pdf)
