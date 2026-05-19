@@ -565,24 +565,14 @@
 * [Attention Residuals](https://arxiv.org/pdf/2603.15031.pdf)
 * [Just Talk -- An Agent That Meta-Learns and Evolves in the Wild](https://arxiv.org/pdf/2603.17187.pdf)
 * [Distribution Discriminant Theory and its Applications in LLM Training](https://arxiv.org/pdf/2602.12222.pdf)
-
 * [Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control](https://arxiv.org/pdf/2603.10448.pdf)[VLA/WAM]
 * [LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://arxiv.org/pdf/2603.19312.pdf)[VLA/WAM]
 * [Fast-WAM: Do World Action Models Need Test-time Future Imagination?](https://arxiv.org/pdf/2603.16666.pdf)[VLA/WAM]
-
-
 * [Composer 2 Technical Report](https://arxiv.org/pdf/2603.24477.pdf)
-
 * [Preference Alignment of Vision-Language-Action Model for Personalized Driving](https://arxiv.org/pdf/2603.25740.pdf)
-
 * [Meta Capability Enhancement with Capability Vectors for Robot Learning](https://arxiv.org/pdf/2603.25661.pdf)
-
 * [Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models](https://arxiv.org/pdf/2603.22280.pdf)
-
 * [Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving](https://arxiv.org/pdf/2603.19979.pdf)
-
 * [RAD-LAD: Rule and Language Grounded Autonomous Driving in Real-Time](https://arxiv.org/pdf/2603.28522.pdf)
-
 * [StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation](https://arxiv.org/pdf/2603.28565.pdf)
-
 * [Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving](https://arxiv.org/pdf/2603.27287.pdf)
