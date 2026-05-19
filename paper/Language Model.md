@@ -580,3 +580,9 @@
 * [Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models](https://arxiv.org/pdf/2603.22280.pdf)
 
 * [Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving](https://arxiv.org/pdf/2603.19979.pdf)
+
+* [RAD-LAD: Rule and Language Grounded Autonomous Driving in Real-Time](https://arxiv.org/pdf/2603.28522.pdf)
+
+* [StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation](https://arxiv.org/pdf/2603.28565.pdf)
+
+* [Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving](https://arxiv.org/pdf/2603.27287.pdf)
