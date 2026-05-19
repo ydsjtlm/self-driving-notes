@@ -576,3 +576,8 @@
 * [RAD-LAD: Rule and Language Grounded Autonomous Driving in Real-Time](https://arxiv.org/pdf/2603.28522.pdf)
 * [StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation](https://arxiv.org/pdf/2603.28565.pdf)
 * [Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving](https://arxiv.org/pdf/2603.27287.pdf)
+
+* [Self-Distilled Agentic Reinforcement Learning](https://arxiv.org/pdf/2605.15155.pdf)
+* [☆][HoloMotion-1 Technical Report](https://arxiv.org/pdf/2605.15336.pdf)
+* [☆][Masked Depth Modeling for Spatial Perception](https://arxiv.org/pdf/2601.17895.pdf)
+* [☆][Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots](https://arxiv.org/pdf/2507.20217.pdf)
