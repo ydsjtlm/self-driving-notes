@@ -581,3 +581,6 @@
 * [☆][HoloMotion-1 Technical Report](https://arxiv.org/pdf/2605.15336.pdf)
 * [☆][Masked Depth Modeling for Spatial Perception](https://arxiv.org/pdf/2601.17895.pdf)
 * [☆][Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots](https://arxiv.org/pdf/2507.20217.pdf)
+* [VGGT-Ω](https://arxiv.org/pdf/2605.15195.pdf)
+* [P2DNav: Panorama-to-Downview Reasoning for Zero-shot Vision-and-Language Navigation](https://arxiv.org/pdf/2605.19634)
+* [Beyond Imitation: Learning Safe End-to-End Autonomous Driving from Hard Negatives](https://arxiv.org/pdf/2605.19771)
